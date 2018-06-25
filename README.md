@@ -1,1 +1,1 @@
-# Spotify_case_study
+# Investigating Music Statistics using Spotify Data
