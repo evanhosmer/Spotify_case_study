@@ -32,6 +32,12 @@ Given the high distribution of 0 popularity, I replaced these values with the K 
 
 ![knn dist](images/new_dist.png)
 
+Before diving in, I wanted to see if the difference in mean popularity was statistically significant.
+
+![hyp](images/hyp_test.png)
+
+The p-values are extremely low, meaning that the difference in means is statistically significant. 
+
 Then examining the distribution of features:
 
 ![hists](images/hists.png)
@@ -95,11 +101,13 @@ Running a logistic model on the training set results in the following confusion 
 
 ![roc](images/Log_ROC.png)
 
+This curve shows an area under the curve of .65 which means that this model was a fairly poor fit for classification of  whether the user likes a song or not.
+
 ## Future Development:
 
 - Use supervised models to make predictions
 - Test model on new playlist
-- Acquire more data
+- Acquire more data from different genres
 - Explore more features such as
   - Number of plays
   - Song release date
