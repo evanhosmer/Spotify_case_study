@@ -72,10 +72,17 @@ Model Comparison
 The lasso model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE.
 
 ## Part 2: Logistic Model
+First, I visualized the distributions of the audio features for when the user either disliked or liked a song.
 
 ![ldl](images/like_dislike.png)
 
+From visualization, it appears that the energy, loudness, and valence features influence whether this user likes a song the most.
+
 ![san](images/sanity.png)
+
+The distribution of positive and negative responses in this dataset appears to be unbiased.
+
+Running a logistic model on the training set results in the following confusion matrix when applied to the test set. 
 
 ![conf](images/conf.png)
 - Recall: .61
