@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-For this project, I will be exploring music from three of my personal playlists on Spotify for my three favorite genres of music. Each song has audio features engineered by Spotify associated with it that will be explored in relation to the particular songs popularity metric. For this study I will be attempting to answer two main questions:
+For this project, I will be exploring music from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. Each song has audio features engineered by Spotify associated with it that will be explored in relation to the particular songs popularity metric. For this study I will be attempting to answer two main questions:
 
 - Can I predict the popularity for a song based on the audio features of the song?
 - Can I predict whether someone likes a song based on audio features?
