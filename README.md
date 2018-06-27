@@ -32,11 +32,11 @@ Given the high distribution of 0 popularity, I replaced these values with the K 
 
 ![knn dist](images/new_dist.png)
 
-Before diving in, I wanted to see if the difference in mean popularity was statistically significant.
+Before diving in, I wanted to see if the difference in mean popularity for each genre was statistically significant.
 
 ![hyp](images/hyp_test.png)
 
-The p-values are extremely low, meaning that the difference in means is statistically significant. 
+The p-values are extremely low, meaning that the difference in means is statistically significant.
 
 Then examining the distribution of features:
 
@@ -80,6 +80,8 @@ Model Comparison
 The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor can be visualized with the plot below.
 
 ![boot](images/bootstrap.png)
+
+From these plots, it appears that the best predictors are danceability, valence, loudness, time_signature, and the alternative and metalcore genre.
 
 ## Part 2: Logistic Model
 First, I visualized the distributions of the audio features for when the user either disliked or liked a song.
