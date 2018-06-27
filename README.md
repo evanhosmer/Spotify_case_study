@@ -77,7 +77,7 @@ The lasso model performed the best of the four models with a slightly lower RMSE
 
 ![san](images/sanity.png)
 
-![roc](images/log_ROC.png)
+![roc](images/Log_ROC.png)
 
 ## Future Development:
 
