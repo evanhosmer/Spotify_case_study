@@ -51,11 +51,11 @@ For linear regression, 10 fold cross-validation was utilized along with finding 
 
 Ridge:
 
-![ridge](images/ridge.png)
+![ridge](images/Ridge.png)
 
 Lasso:
 
-![lasso](images/lasso.png)
+![lasso](images/Lasso.png)
 
 ElasticNet:
 
