@@ -15,7 +15,7 @@ Some of the main audio features included are:
 - Danceability (how suitable a song is for dancing)
 - Loudness (average db level across song)
 - Valence (musical positiveness conveyed by a track)
-- Accousticness
+- Accousticness (whether a track contains vocals)
 - Energy (perceptual measure of intensity)
 - Tempo (estimated BPM of a song)
 - Popularity (measure from 0 to 100)
@@ -37,6 +37,8 @@ Then examining the distribution of features:
 ![hists](images/hists.png)
 
 ![heat](images/corr_heat.png)
+
+![Mat](images/scatter_matrix.png)
 
 ![scatters](images/scat.png)
 
@@ -63,13 +65,15 @@ ElasticNet:
 
 Model Comparison
 - Ridge: RMSE = 13.94
-- Lasso: RMSE = 13.89
+- Lasso: RMSE = 13.93
 - Linear: RMSE = 13.96
-- Elastic Net: RMSE = 13.93
+- Elastic net: RMSE = 13.89
 
 ![tb](images/table_3.png)
 
-The lasso model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE.
+The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor can be visualized with the plot below.
+
+![boot](images/bootstrap.png)
 
 ## Part 2: Logistic Model
 First, I visualized the distributions of the audio features for when the user either disliked or liked a song.
@@ -82,7 +86,7 @@ From visualization, it appears that the energy, loudness, and valence features i
 
 The distribution of positive and negative responses in this dataset appears to be unbiased.
 
-Running a logistic model on the training set results in the following confusion matrix when applied to the test set. 
+Running a logistic model on the training set results in the following confusion matrix when applied to the test set.
 
 ![conf](images/conf.png)
 - Recall: .61
