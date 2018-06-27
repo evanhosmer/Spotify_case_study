@@ -77,6 +77,11 @@ The lasso model performed the best of the four models with a slightly lower RMSE
 
 ![san](images/sanity.png)
 
+![conf](images/conf.png)
+- Recall: .61
+- Precision: .67
+- F1 Score: .64
+
 ![roc](images/Log_ROC.png)
 
 ## Future Development:
