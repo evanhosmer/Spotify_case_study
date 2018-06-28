@@ -57,7 +57,14 @@ For this study, I performed the following for feature engineering:
 - Used dummy variables for the three different genres.
 
 ## Part 1: Linear Regression
-For linear regression, 10 fold cross-validation was utilized along with finding the optimal alpha value that minimized the test MSE. Ridge, Lasso, and Elastic net models were used and the results are shown below.
+Using regular linear regression, the studentized residuals
+were examined against the predicted popularity.
+
+![residuals](images/residuals.png)
+
+This plot shows that the residuals are higher than they should be. The model is predicting too high for popularity of the song. Regularized regression will most likely be more beneficial in this case. 
+
+For regularized regression, 10 fold cross-validation was utilized along with finding the optimal alpha value that minimized the test MSE. Ridge, Lasso, and Elastic net models were used and the results are shown below.
 
 Ridge:
 
