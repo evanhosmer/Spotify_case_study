@@ -116,6 +116,7 @@ This curve shows an area under the curve of .65 which means that this model was 
 
 ## Future Development:
 
+- Transformations on features to reduce skew
 - Use supervised models to make predictions.
 - Test model on new playlist.
 - Acquire more data from different genres.
