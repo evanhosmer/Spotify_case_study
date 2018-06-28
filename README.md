@@ -92,7 +92,7 @@ First, I visualized the distributions of the audio features for when the user ei
 
 From visualization, it appears that the energy, loudness, and valence features influence whether a user likes a song the most.
 
-![san](images/sanity.png)
+![sanity](images/sanity.png)
 
 The distribution of positive and negative responses in this dataset appears to be unbiased.
 
