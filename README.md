@@ -48,7 +48,7 @@ Then examining the distribution of features:
 
 ![scatters](images/scat.png)
 
-Ultimately the EDA was devoid of any discernible insights. The plots did not show a clear relationship or correlation between popularity and any of the features.
+Ultimately the EDA was devoid of any discernible insights. The plots did not show a clear relationship or correlation between popularity and any of the features. The distribution plots for the features however did show either a right or left skew for many of the features.
 
 ## Feature Engineering:
 
@@ -62,7 +62,7 @@ were examined against the predicted popularity.
 
 ![residuals](images/residuals.png)
 
-This plot shows that the residuals are higher than they should be. The model is predicting too high for popularity of the song. Regularized regression will most likely be more beneficial in this case. 
+This plot shows that the residuals are higher than they should be. The model is predicting too high for popularity of the song. Regularized regression will most likely be more beneficial in this case.
 
 For regularized regression, 10 fold cross-validation was utilized along with finding the optimal alpha value that minimized the test MSE. Ridge, Lasso, and Elastic net models were used and the results are shown below.
 
@@ -116,10 +116,10 @@ This curve shows an area under the curve of .65 which means that this model was 
 
 ## Future Development:
 
-- Use supervised models to make predictions
-- Test model on new playlist
-- Acquire more data from different genres
-- Explore more features such as
+- Use supervised models to make predictions.
+- Test model on new playlist.
+- Acquire more data from different genres.
+- Explore more features such as:
   - Number of plays
   - Song release date
   - Lyrical content
