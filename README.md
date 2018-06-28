@@ -2,14 +2,14 @@
 
 ## Project Description:
 
-For this project, I will be exploring music from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. Each song has audio features engineered by Spotify associated with it that will be explored in relation to the particular songs popularity metric. For this study I will be attempting to answer two main questions:
+For this project, I explored the popularity of songs from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. Each song has audio features engineered by Spotify associated with it that were explored in relation to the particular songs popularity metric. For this study I attempted to answer two main questions:
 
 - Can I predict the popularity for a song based on the audio features of the song?
 - Can I predict whether someone likes a song based on audio features?
 
 ## Data Source:
 
-By using the Spotify API and the python library called Spotipy, audio features for each song were pulled into a dataframe. Similarly, these tracks all have a metric called popularity which were extracted and placed into the same dataframe as the audio features and used as the target for linear regression. The dataset for logistic regresion was acquired from Kaggle where the user used the same API process to generate the audio features data. This dataset contains 1000 songs that the user liked and 1000 that the user did not like, which was used as the target for logistic regression.
+By using the Spotify API and the python library called Spotipy, audio features for each song were pulled into a dataframe. Similarly, these tracks all have a metric called popularity which were extracted and placed into the same dataframe and used as the target for linear regression. The dataset for logistic regression was acquired from Kaggle where the user used the same process with the API to generate the audio features data. This dataset contains 1000 songs that the user liked and 1000 that the user did not like, which was used as the target for logistic regression.
 
 Some of the main audio features included are:
 - Danceability (how suitable a song is for dancing)
@@ -28,7 +28,7 @@ I first analyzed the popularity distribution for each genre:
 
 ![genre](images/genre_dist.png)
 
-Given the high distribution of 0 popularity, I replaced these values with the K nearest neighbor technique and with the mean of the genre and compared the result.
+Given the high distribution of 0 popularity, I replaced these values using the K nearest neighbor technique and using the mean of the genre and compared the result.
 
 ![knn dist](images/new_dist.png)
 
@@ -52,10 +52,12 @@ Ultimately the EDA was devoid of any discernible insights. The plots did not sho
 
 ## Feature Engineering:
 
-There was not much feature engineering needed in this study. All the audio features and popularity metric were engineered by Spotify. The only feature engineering done was modifying the song duration feature from ms to minutes.
+For this study, I performed the following for feature engineering:
+- Converted the duration data from ms to minutes.
+- Used dummy variables for the three different genres.
 
 ## Part 1: Linear Regression
-For linear regression, 10 fold cross-validation was utilized along with finding the alpha value that minimized the test MSE. Ridge, Lasso, and ElasticNet models were used and the results are shown below.
+For linear regression, 10 fold cross-validation was utilized along with finding the optimal alpha value that minimized the test MSE. Ridge, Lasso, and Elastic net models were used and the results are shown below.
 
 Ridge:
 
@@ -65,7 +67,7 @@ Lasso:
 
 ![lasso](images/Lasso.png)
 
-ElasticNet:
+Elastic net:
 
 ![en](images/Elastic_net.png)
 
@@ -77,24 +79,24 @@ Model Comparison
 
 ![tb](images/table_3.png)
 
-The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor can be visualized with the plot below.
+The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor was examined.
 
 ![boot](images/bootstrap.png)
 
-From these plots, it appears that the best predictors are danceability, valence, loudness, time_signature, and the alternative and metalcore genre.
+From these plots, it appears that the best predictors are danceability, valence, loudness, time_signature, and the alternative and metalcore genres.
 
 ## Part 2: Logistic Model
 First, I visualized the distributions of the audio features for when the user either disliked or liked a song.
 
 ![ldl](images/like_dislike.png)
 
-From visualization, it appears that the energy, loudness, and valence features influence whether this user likes a song the most.
+From visualization, it appears that the energy, loudness, and valence features influence whether a user likes a song the most.
 
 ![san](images/sanity.png)
 
 The distribution of positive and negative responses in this dataset appears to be unbiased.
 
-Running a logistic model on the training set results in the following confusion matrix when applied to the test set.
+Running a logistic model on the training set resulted in the following confusion matrix when applied to the test set.
 
 ![conf](images/conf.png)
 - Recall: .61
