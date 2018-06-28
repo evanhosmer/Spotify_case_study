@@ -2,14 +2,16 @@
 
 ## Project Description:
 
-For this project, I explored the popularity of songs from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. Each song has audio features engineered by Spotify associated with it that were explored in relation to the particular songs popularity metric. For this study I attempted to answer two main questions:
+For this project, I explored the popularity of songs from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. In addition, I explored a dataset containing 2000 songs that a user classified as either a song they liked or disliked. Each song has audio features engineered by Spotify that attempt to quantify different characteristics of a song. In addition, Spotify engineers a popularity metric for each song to quantify how popular a song is. For this study I attempted to answer two main questions:
 
 - Can I predict the popularity for a song based on the audio features of the song?
-- Can I predict whether someone likes a song based on audio features?
+- Can I predict whether someone likes a song based on audio features of that song?
 
 ## Data Source:
 
-By using the Spotify API and the python library called `Spotipy`, audio features for each song were pulled into a dataframe. Similarly, these tracks all have a metric called popularity which were extracted and placed into the same dataframe and used as the target for linear regression. The dataset for logistic regression was acquired from Kaggle where the user used the same process with the API to generate the audio features data. This dataset contains 1000 songs that the user liked and 1000 that the user did not like, which was used as the target for logistic regression.
+By using the Spotify API and the python library called `Spotipy`, audio features for each song were pulled into a dataframe. Similarly, the popularity metric was extracted and placed into the same dataframe and used as the target for linear regression. The dataset for logistic regression was acquired from Kaggle where the user used the same process with the API to generate the audio features data. This dataset contains a target variable either 0 for a song they do not like or 1 for one they do like.
+
+## EDA:
 
 Some of the main audio features included are:
 - Danceability (how suitable a song is for dancing)
@@ -21,8 +23,6 @@ Some of the main audio features included are:
 - Popularity (measure from 0 to 100)
 
 A list of all the features can be found at this [link](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/).
-
-## EDA:
 
 I first analyzed the popularity distribution for each genre:
 
