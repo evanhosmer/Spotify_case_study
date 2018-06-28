@@ -3,8 +3,8 @@ import spotipy
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
 sp = spotipy.Spotify()
-cid = ""
-secret = ""
+cid = "ee6297261709459ba14eb0949eb6285f"
+secret = "f684fcd5fcd9442a95806384abd7ef00"
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 sp.trace=False
