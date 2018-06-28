@@ -1,0 +1,406 @@
+,Artist,Title,Duration(m),acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,valence,Popularity
+0,The 1975,Chocolate,3.744,0.0041,0.591,0.944,0.0,11,0.385,-4.325,1,0.0544,100.124,4,https://api.spotify.com/v1/tracks/44Ljlpy44mHvLJxcYUvTK0,0.713,65
+1,The 1975,The Sound,4.148,0.096,0.643,0.945,7.71e-06,0,0.495,-4.66,1,0.0779,120.723,4,https://api.spotify.com/v1/tracks/316r1KLN0bcmpr7TZcMCXT,0.526,66
+2,3 Doors Down,When I'm Gone,4.3417666666666666,0.00457,0.496,0.765,0.0,7,0.104,-5.66,1,0.033,74.072,4,https://api.spotify.com/v1/tracks/3WbphvawbMZ8FyqDxYGdSQ,0.337,67
+3,3 Doors Down,Here Without You,3.976,0.0537,0.536,0.55,0.0,10,0.134,-6.733,0,0.0248,144.018,4,https://api.spotify.com/v1/tracks/3NLrRZoMF0Lx6zTlYqeIo4,0.234,69
+4,3 Doors Down,Still Alive,2.6991,0.000296,0.426,0.959,0.509,11,0.201,-4.248,0,0.056,169.948,4,https://api.spotify.com/v1/tracks/3Q7BHIhobJEHPtyzwSyEB2,0.59,41
+5,The Almost,Say This Sooner,3.236666666666667,0.00651,0.572,0.967,0.0,4,0.076,-3.733,0,0.0967,121.008,4,https://api.spotify.com/v1/tracks/7waZfrpjfOYktwulz6fo02,0.527,46
+6,The Almost,Southern Weather,3.481333333333333,2.85e-05,0.349,0.963,0.0,2,0.37,-3.448,1,0.0791,173.876,4,https://api.spotify.com/v1/tracks/1TmQeJsndr5Yk5H2670T8k,0.488,39
+7,Arctic Monkeys,Do I Wanna Know?,4.5399,0.186,0.548,0.532,0.000263,5,0.217,-7.596,1,0.0323,85.03,4,https://api.spotify.com/v1/tracks/3jfr0TF6DQcOLat8gGn7E2,0.405,21
+8,AWOLNATION,Run,4.027583333333333,0.725,0.686,0.665,0.687,1,0.268,-10.214,1,0.0449,137.92,4,https://api.spotify.com/v1/tracks/2wIC3jqtTK78zQMdj1DRLu,0.672,60
+9,Band of Horses,The Funeral,5.352433333333333,0.0142,0.316,0.769,0.0,0,0.0928,-5.283,0,0.0422,122.507,4,https://api.spotify.com/v1/tracks/4o0NjemqhmsYLIMwlcosvW,0.127,71
+10,Bastille,Pompeii,3.5691166666666665,0.078,0.681,0.715,0.0,9,0.275,-6.318,1,0.0388,127.429,4,https://api.spotify.com/v1/tracks/3gbBpTdY8lnQwqxNCcf795,0.593,71
+11,Bastille,Bad Blood,3.54355,0.0131,0.664,0.79,0.0156,5,0.08,-5.467,0,0.0364,143.004,4,https://api.spotify.com/v1/tracks/2HHiH52OPxe8qyVO7N4uH7,0.939,53
+12,Bastille,Good Grief,3.44155,0.18,0.727,0.768,0.0,1,0.204,-4.849,1,0.068,120.047,4,https://api.spotify.com/v1/tracks/1oxOiOjsi7plNOZEhoPLPj,0.89,61
+13,The Black Keys,Howlin' For You,3.1966666666666668,0.0299,0.708,0.737,0.0804,11,0.101,-6.665,0,0.0943,132.612,4,https://api.spotify.com/v1/tracks/5jdvRj8zXHJ7XpKsBKT9CZ,0.476,64
+14,The Black Keys,Your Touch,2.709766666666667,0.8,0.532,0.768,2.01e-05,4,0.377,-8.698,0,0.0551,116.026,4,https://api.spotify.com/v1/tracks/5lJUXSjRjevVy7I3P87wuK,0.698,50
+15,Cage The Elephant,Ain't No Rest for the Wicked,2.9248833333333333,0.0438,0.634,0.849,0.0,0,0.363,-7.075,1,0.105,156.004,4,https://api.spotify.com/v1/tracks/3kb72STxc2959ZqsTwu52i,0.919,73
+16,The Classic Crime,The Coldest Heart,3.654,0.00121,0.345,0.833,0.0,0,0.336,-5.232,0,0.0383,200.2,4,https://api.spotify.com/v1/tracks/1ZjlJhszI9nBsWrv0HeL5c,0.767,37
+17,Coldplay,Speed Of Sound,4.7984333333333336,0.00491,0.523,0.898,0.0345,11,0.0746,-6.765,0,0.0567,123.085,4,https://api.spotify.com/v1/tracks/7clUVcSOtkNWa58Gw5RfD4,0.355,68
+18,A Day To Remember,All Signs Point to Lauderdale,3.2866666666666666,0.000263,0.42,0.983,0.0,10,0.114,-3.437,1,0.113,149.958,4,https://api.spotify.com/v1/tracks/15qf0H31MChhqKr2zvejla,0.513,65
+19,A Day To Remember,Better Off This Way,3.4393333333333334,9.33e-05,0.379,0.965,0.0,4,0.371,-3.442,1,0.0975,160.057,4,https://api.spotify.com/v1/tracks/5TtOrriDfiamVEKrls2GIT,0.565,60
+20,A Day To Remember,Out of Time,3.4422166666666665,3.52e-05,0.405,0.976,0.0,0,0.271,-3.36,1,0.0874,160.115,4,https://api.spotify.com/v1/tracks/6cXx0xrCrTNzFZIHTxpinC,0.346,51
+21,A Day To Remember,If I Leave,3.4031,0.000122,0.409,0.989,0.0,9,0.356,-4.115,1,0.143,154.986,4,https://api.spotify.com/v1/tracks/73CczWVa3cudmlTAgOwKXv,0.228,51
+22,A Day To Remember,This Is the House That Doubt Built,3.50555,0.000505,0.285,0.946,0.0,11,0.0826,-3.874,0,0.0843,182.882,3,https://api.spotify.com/v1/tracks/6B4tKjUOWE9NhdpxB2NVDf,0.2,52
+23,A Day To Remember,It's Complicated,2.954,0.000204,0.199,0.935,0.0,1,0.0628,-3.471,1,0.157,195.012,4,https://api.spotify.com/v1/tracks/069deq5woglvUnWok4MqTe,0.637,57
+24,Death Cab for Cutie,Soul Meets Body,3.82355,0.0767,0.621,0.853,3.26e-06,2,0.0893,-5.735,0,0.0253,128.142,4,https://api.spotify.com/v1/tracks/5yc59J3MR3tVDPTOgwgRI5,0.714,60
+25,The Downtown Fiction,I Just Wanna Run,3.33265,0.00769,0.669,0.667,0.0,4,0.0983,-3.0,1,0.0511,128.103,4,https://api.spotify.com/v1/tracks/3WLLJzllBEgPiSA0qd3BN3,0.69,49
+26,Fall Out Boy,Centuries,3.806,0.004,0.385,0.866,0.0,4,0.111,-2.817,0,0.0697,176.014,4,https://api.spotify.com/v1/tracks/04aAxqtGp5pv12UXAg4pkq,0.551,73
+27,Fall Out Boy,I Don't Care - Single Version,3.574883333333333,0.00166,0.521,0.936,1.51e-05,6,0.656,-3.532,0,0.0676,133.973,4,https://api.spotify.com/v1/tracks/7ewT0nLFkMD8ONbRibePr9,0.505,60
+28,Fall Out Boy,"Sugar, We're Goin Down",3.818216666666667,0.00898,0.499,0.824,0.0,7,0.163,-4.741,1,0.0794,161.977,4,https://api.spotify.com/v1/tracks/2TfSHkHiFO4gRztVIkggkE,0.699,74
+29,Fall Out Boy,"This Ain't A Scene, It's An Arms Race",3.534,0.000623,0.601,0.888,0.0,9,0.0475,-4.018,1,0.0396,100.033,4,https://api.spotify.com/v1/tracks/1oagRT7LfpVlNJN6FSZDGp,0.4,59
+30,Fitz and The Tantrums,HandClap,3.2208833333333335,0.00609,0.636,0.836,0.000157,8,0.0828,-3.004,1,0.0427,139.956,4,https://api.spotify.com/v1/tracks/7j56HrjR9cGzvekvZY3Faz,0.715,65
+31,Fountains Of Wayne,Stacy's Mom,3.2997666666666667,0.0021,0.774,0.75,1.85e-05,11,0.0808,-4.927,0,0.0413,118.015,4,https://api.spotify.com/v1/tracks/27L8sESb3KR79asDUBu8nW,0.925,74
+32,The Fray,How to Save a Life,4.37555,0.269,0.64,0.743,0.0,10,0.101,-4.08,1,0.0379,122.035,4,https://api.spotify.com/v1/tracks/5fVZC9GiM4e8vu99W0Xf6J,0.361,81
+33,fun.,We Are Young (feat. Janelle Monáe),4.1771,0.02,0.378,0.638,7.66e-05,10,0.0849,-5.576,1,0.075,184.086,4,https://api.spotify.com/v1/tracks/7a86XRg84qjasly9f6bPSD,0.735,69
+34,fun.,Some Nights,4.617333333333334,0.0178,0.672,0.738,6.75e-05,0,0.0927,-7.045,1,0.0506,107.938,4,https://api.spotify.com/v1/tracks/6t6oULCRS6hnI7rm0h5gwl,0.392,73
+35,Gin Blossoms,Follow You Down,3.7871,0.012,0.494,0.913,0.0,4,0.0702,-6.22,0,0.0477,155.88,4,https://api.spotify.com/v1/tracks/5yVqBhvmi3sBahhaSYpl27,0.663,56
+36,Gnarls Barkley,Crazy,3.0344333333333333,0.0172,0.835,0.741,0.0577,8,0.0826,-1.609,1,0.0339,111.963,4,https://api.spotify.com/v1/tracks/2N5zMZX7YeL1tico8oQxa9,0.612,73
+37,Gorillaz,Feel Good Inc,3.7106666666666666,0.00836,0.818,0.705,0.00233,6,0.613,-6.679,1,0.177,138.559,4,https://api.spotify.com/v1/tracks/0d28khcov6AiegSCpG5TuT,0.772,81
+38,Gorillaz,DARE,4.083316666666667,0.0226,0.76,0.891,0.0868,11,0.298,-5.852,0,0.0372,120.265,4,https://api.spotify.com/v1/tracks/4Hff1IjRbLGeLgFgxvHflk,0.966,73
+39,Gorillaz,Clint Eastwood,5.682,0.0249,0.663,0.694,0.0,10,0.0698,-8.627,0,0.172,167.964,4,https://api.spotify.com/v1/tracks/7yMiX7n9SBvadzox8T5jzT,0.524,70
+40,Green Day,American Idiot,2.9391,2.64e-05,0.38,0.988,7.86e-05,1,0.368,-2.042,1,0.0639,186.113,4,https://api.spotify.com/v1/tracks/6nTiIhLmQ3FWhvrGafw2zj,0.769,76
+41,Green Day,Jesus Of Suburbia,9.13755,0.000259,0.3,0.929,2.26e-06,1,0.329,-3.214,1,0.0636,147.116,4,https://api.spotify.com/v1/tracks/58KPPL1AdLHMvR2O2PZejr,0.59,63
+42,Green Day,Holiday/Boulevard Of Broken Dreams,8.223333333333333,0.000659,0.29,0.827,2.55e-06,8,0.301,-3.451,1,0.0362,167.086,4,https://api.spotify.com/v1/tracks/0MsrWnxQZxPAcov7c74sSo,0.45,73
+43,Green Day,Wake Me Up When September Ends,4.760883333333333,0.023,0.546,0.814,0.0,7,0.0972,-5.146,1,0.0314,104.98,4,https://api.spotify.com/v1/tracks/3ZffCQKLFLUvYM59XKLbVm,0.146,77
+44,Green Day,Basket Case,3.02555,0.00293,0.442,0.943,8.71e-06,3,0.091,-3.205,1,0.0602,85.064,4,https://api.spotify.com/v1/tracks/6L89mwZXSOwYl76YXfX13s,0.781,78
+45,Green Day,When I Come Around,2.966666666666667,0.0175,0.531,0.909,0.0,11,0.231,-4.236,1,0.034,97.546,4,https://api.spotify.com/v1/tracks/1Dr1fXbc2IxaK1Mu8P8Khz,0.814,74
+46,Green Day,2000 Light Years Away,2.410433333333333,0.00176,0.206,0.99,8.07e-05,10,0.335,-3.565,1,0.13,187.433,4,https://api.spotify.com/v1/tracks/5h14bkosMTpZfu2OQSiuY7,0.666,45
+47,Green Day,Longview,3.8873333333333333,0.00834,0.381,0.732,0.0101,10,0.0854,-7.594,0,0.0536,142.504,4,https://api.spotify.com/v1/tracks/4LcQZJMlIDs8YOuTRaN8Wi,0.814,44
+48,Green Day,Welcome to Paradise,3.73555,0.000241,0.37,0.96,0.0116,3,0.0563,-4.162,0,0.0378,89.428,4,https://api.spotify.com/v1/tracks/0GberfaviYSn4fuGtVpGG2,0.717,45
+49,Green Day,She,2.2382166666666667,7.37e-05,0.37,0.937,0.00817,1,0.0904,-3.939,0,0.0356,93.307,4,https://api.spotify.com/v1/tracks/6XrPPErNilRR7769tIjMgG,0.874,44
+50,Green Day,Hitchin' A Ride,2.8577666666666666,0.00306,0.424,0.919,0.00674,9,0.123,-4.629,1,0.1,163.732,4,https://api.spotify.com/v1/tracks/5FXwfcmU58tDo9UM9Yy23g,0.684,43
+51,Green Day,Warning,3.6944333333333335,0.0673,0.728,0.92,1.61e-05,2,0.199,-2.828,1,0.0294,120.989,4,https://api.spotify.com/v1/tracks/0cvvRcqBNfVJfYIkZAO1IA,0.892,42
+52,Green Day,Know Your Enemy,3.1964333333333332,0.00237,0.559,0.955,7.06e-05,4,0.0566,-3.924,1,0.0412,129.98,4,https://api.spotify.com/v1/tracks/0kUUSGQZOBUtDTIlbQcTSR,0.957,44
+53,Green Day,21 Guns,5.367333333333334,0.048,0.26,0.719,0.0,5,0.454,-4.765,1,0.0364,159.072,4,https://api.spotify.com/v1/tracks/4pu474fFUC7hgBBIf2W0S8,0.419,46
+54,Green Day,Brain Stew,3.216666666666667,0.00133,0.559,0.543,2e-05,1,0.0577,-5.429,1,0.302,75.958,4,https://api.spotify.com/v1/tracks/1nLnpLXvl68RZCSjfkyiaa,0.337,61
+55,Green Day,Good Riddance (Time of Your Life),2.5577666666666667,0.183,0.475,0.432,0.0,7,0.161,-7.844,1,0.0302,94.605,4,https://api.spotify.com/v1/tracks/6ORqU0bHbVCRjXm9AjyHyZ,0.648,76
+56,Green Day,Still Breathing,3.746,0.0142,0.54,0.902,0.0,1,0.0756,-3.577,1,0.0442,75.033,4,https://api.spotify.com/v1/tracks/19YmvsVCetCBeVj6O2mljR,0.692,65
+57,Hawthorne Heights,This Is Who We Are,3.7642166666666665,0.00796,0.3,0.938,0.0249,4,0.297,-2.59,0,0.0678,169.929,4,https://api.spotify.com/v1/tracks/2zt39AH0vDaEZojtwUUZLz,0.497,47
+58,Hawthorne Heights,Saying Sorry,3.128,0.0271,0.42,0.956,1.32e-05,1,0.134,-2.195,0,0.0723,168.99,4,https://api.spotify.com/v1/tracks/0ZFUn5dFxuN3Um8y6ubX93,0.529,52
+59,Hawthorne Heights,Ohio Is for Lovers,4.074666666666666,0.0411,0.568,0.835,0.0,8,0.357,-6.896,0,0.0687,170.045,4,https://api.spotify.com/v1/tracks/6QfnvcOKsdN4Q6exUWVuzn,0.625,63
+60,Hoobastank,The Reason,3.88,0.0134,0.473,0.643,0.0,4,0.16,-4.67,1,0.0293,82.95,4,https://api.spotify.com/v1/tracks/4x3SQvTgvqSTU3nOL1urZh,0.0781,17
+61,Imagine Dragons,Battle Cry,4.5551,0.0444,0.239,0.905,0.00618,8,0.12,-6.797,1,0.1,127.853,4,https://api.spotify.com/v1/tracks/6ytWzUzpkuwub4eXrG8z4c,0.0393,46
+62,Imagine Dragons,Believer,3.3963666666666668,0.0417,0.772,0.775,0.0,10,0.226,-4.388,0,0.112,124.978,4,https://api.spotify.com/v1/tracks/05KfyCEE6otdlT1pp2VIjP,0.748,23
+63,Imagine Dragons,I Don’t Know Why,3.1686666666666667,0.00634,0.491,0.65,1.38e-05,2,0.188,-7.362,1,0.0679,121.123,4,https://api.spotify.com/v1/tracks/6mXFjc0VbW0vs8UeEkT85r,0.0705,26
+64,Imagine Dragons,Mouth Of The River,3.6926666666666668,0.00209,0.488,0.91,0.0458,8,0.15,-6.991,1,0.041,96.003,4,https://api.spotify.com/v1/tracks/226wUCyDbHZ0cAs3InvNmo,0.3,22
+65,Imagine Dragons,Start Over,3.1013333333333333,0.00601,0.698,0.929,6.22e-05,4,0.128,-5.046,1,0.0862,98.026,3,https://api.spotify.com/v1/tracks/4J2RaG4UH2HCThcqzDpeAF,0.74,22
+66,Imagine Dragons,Radioactive,3.11355,0.111,0.455,0.782,0.000207,9,0.647,-3.702,1,0.064,136.151,4,https://api.spotify.com/v1/tracks/58rFzMvW9kxNwMtGTgBQoP,0.214,64
+67,Imagine Dragons,Tiptoe,3.216666666666667,0.00168,0.514,0.818,1.56e-05,6,0.081,-5.857,1,0.0332,120.012,4,https://api.spotify.com/v1/tracks/5PCdkbHYacEdWbZRRPopmM,0.231,50
+68,Imagine Dragons,It's Time,3.9664333333333333,0.0176,0.657,0.894,0.0,2,0.146,-4.71,1,0.0375,105.003,4,https://api.spotify.com/v1/tracks/7pUYFGnZwLa7I3UmDypJGy,0.871,58
+69,Imagine Dragons,Demons,2.92,0.173,0.319,0.72,0.000239,3,0.291,-2.93,1,0.0635,179.886,4,https://api.spotify.com/v1/tracks/1Ntj0hZfncXCQ5hij7igIE,0.378,65
+70,Imagine Dragons,Amsterdam,4.023766666666667,0.00703,0.507,0.77,1.18e-05,4,0.134,-4.933,1,0.0362,114.98,4,https://api.spotify.com/v1/tracks/3wBIDJLDvo0h0u1mKU9Bm6,0.22,48
+71,Imagine Dragons,On Top Of The World,3.164,0.0894,0.64,0.924,3.92e-06,0,0.0971,-5.577,1,0.185,99.959,4,https://api.spotify.com/v1/tracks/6KuHjfXHkfnIjdmcIvt9r0,0.776,67
+72,Imagine Dragons,Bleeding Out,3.6842166666666665,0.0176,0.211,0.741,1.37e-06,5,0.105,-4.07,0,0.0823,77.277,4,https://api.spotify.com/v1/tracks/2auTfKFcoQd7z2uFCeuaww,0.336,52
+73,Imagine Dragons,Hear Me,3.8706666666666667,0.00033,0.61,0.826,0.00093,4,0.0754,-4.698,1,0.0387,125.012,4,https://api.spotify.com/v1/tracks/4R4sJ1jv8nxwjSl6F06yKG,0.557,47
+74,Imagine Dragons,The River,3.4004333333333334,0.00985,0.392,0.666,0.00311,1,0.337,-5.754,1,0.0317,170.037,4,https://api.spotify.com/v1/tracks/6fFnFIlj8LEHy7991Znnud,0.28,46
+75,Imagine Dragons,Shots,3.8722166666666666,0.00705,0.56,0.774,0.0102,11,0.309,-6.827,0,0.0373,104.957,4,https://api.spotify.com/v1/tracks/64MmobYNviePoiaINMrbMn,0.341,57
+76,Imagine Dragons,Smoke And Mirrors,4.347766666666667,0.0552,0.599,0.65,0.00902,7,0.389,-7.095,1,0.028,109.982,4,https://api.spotify.com/v1/tracks/0joO6IeobvKP3cDz8xZfWe,0.0921,51
+77,Imagine Dragons,I’m So Sorry,3.8366666666666664,0.149,0.325,0.682,0.0,4,0.2,-6.01,0,0.0608,71.4,4,https://api.spotify.com/v1/tracks/4o74y4XY1ypNZkZtZkK8Wi,0.356,64
+78,Imagine Dragons,I Bet My Life,3.2117666666666667,0.399,0.554,0.651,0.000418,1,0.208,-8.193,1,0.0419,107.912,4,https://api.spotify.com/v1/tracks/15DrrIod12Tc2IoMaHiwlQ,0.581,64
+79,Imagine Dragons,Polaroid,3.83355,0.525,0.528,0.613,2.1e-06,1,0.167,-6.888,1,0.0426,77.006,4,https://api.spotify.com/v1/tracks/7fvgzmfXxrdTcrL3xh2cBD,0.247,56
+80,Imagine Dragons,Friction,3.3633333333333333,0.0479,0.64,0.542,0.0439,8,0.208,-8.683,1,0.0398,103.863,4,https://api.spotify.com/v1/tracks/2iIb73Qn02LsZwpW8RJUxh,0.272,64
+81,Imagine Dragons,Hopeless Opus,3.98,0.00381,0.629,0.673,9.63e-05,3,0.206,-6.212,1,0.0346,140.108,4,https://api.spotify.com/v1/tracks/46dszOgLrnBSqbo6Vkc91Q,0.562,47
+82,Imagine Dragons,Whatever It Takes,3.36,0.0355,0.673,0.676,0.0,1,0.107,-5.002,1,0.0308,134.944,4,https://api.spotify.com/v1/tracks/6QV0jXpL3RHVkN2g8C7mvh,0.57,11
+83,Imagine Dragons,Walking The Wire,3.8817666666666666,0.0111,0.31,0.783,1.15e-06,4,0.0759,-5.345,1,0.0448,99.726,4,https://api.spotify.com/v1/tracks/0PVd8pJKhyAtDS1V0r2llI,0.123,2
+84,Imagine Dragons,Thunder,3.12935,0.00593,0.608,0.841,0.0573,0,0.121,-3.798,1,0.0464,167.969,4,https://api.spotify.com/v1/tracks/0oP9pK1D1lNF3Lb7jkl6Xx,0.274,20
+85,Jimmy Eat World,Sweetness,3.6671,0.00407,0.491,0.888,0.0,5,0.286,-4.412,1,0.038,135.253,4,https://api.spotify.com/v1/tracks/18IqyOGs1pRNZfbMo93r57,0.656,63
+86,Jimmy Eat World,The Middle,2.8042166666666666,0.0424,0.629,0.897,0.0,2,0.263,-3.401,1,0.0483,161.944,4,https://api.spotify.com/v1/tracks/3mcG2NI5G5vhrQtRda1YnA,0.93,73
+87,Jimmy Eat World,Pain,3.0217666666666667,0.0209,0.396,0.961,0.0,0,0.609,-3.339,0,0.111,168.03,4,https://api.spotify.com/v1/tracks/6mW55jsmWapFREmli1SsIM,0.27,54
+88,Kasabian,Club Foot,3.5728833333333334,0.0257,0.237,0.919,2.31e-05,0,0.0914,-6.893,1,0.0814,101.758,4,https://api.spotify.com/v1/tracks/6C0xucNj75wRdlejwWIEW1,0.123,64
+89,The Killers,Spaceman,4.7424333333333335,0.00237,0.526,0.924,0.0012,4,0.129,-4.073,1,0.0536,152.034,4,https://api.spotify.com/v1/tracks/6zbnpAx9RH1W0dS4JEqdpc,0.802,56
+90,The Killers,Mr. Brightside,3.709766666666667,0.00108,0.33,0.936,0.0,1,0.0926,-3.66,1,0.0917,148.112,4,https://api.spotify.com/v1/tracks/7oK9VyNzrYvRFo7nQEYkWN,0.234,79
+91,The Killers,Somebody Told Me,3.286,0.000123,0.5,0.975,0.000379,10,0.104,-3.176,0,0.0824,138.005,4,https://api.spotify.com/v1/tracks/7HGTkn2aX7MNdKs7nV2xBt,0.767,70
+92,The Killers,When You Were Young,3.673766666666667,0.000202,0.463,0.983,0.129,8,0.303,-3.254,0,0.138,130.394,4,https://api.spotify.com/v1/tracks/70wYA8oYHoMzhRRkARoMhU,0.37,70
+93,The Killers,The Man,4.168216666666667,0.0767,0.608,0.945,1.26e-06,6,0.0721,-2.56,0,0.103,106.011,4,https://api.spotify.com/v1/tracks/5aWhs651KYM26HYM16kRdk,0.527,66
+94,KONGOS,Come with Me Now,3.5326666666666666,0.0311,0.654,0.726,6.35e-05,10,0.0618,-3.803,0,0.0401,103.987,4,https://api.spotify.com/v1/tracks/2kWowW0k4oFymhkr7LmvzO,0.728,69
+95,Living Colour,Cult of Personality,4.902666666666667,0.00176,0.508,0.911,3.59e-05,0,0.497,-3.425,1,0.0501,91.983,4,https://api.spotify.com/v1/tracks/1XIh7vGeTRTbCmWAX6A8u8,0.553,50
+96,Mayday Parade,Jamie All Over,3.6,6.49e-05,0.428,0.868,0.0,1,0.0735,-3.647,1,0.0444,148.91,4,https://api.spotify.com/v1/tracks/2I24iuYNtqNuFD8XbNHu8Q,0.407,56
+97,Metro Station,Shake It,2.9991,0.00221,0.618,0.955,3.09e-06,4,0.486,-3.836,1,0.0798,150.034,4,https://api.spotify.com/v1/tracks/5619Ojc6t9evEEs3B7Drhe,0.79,69
+98,The Mighty Mighty Bosstones,The Impression That I Get,3.246,0.0908,0.425,0.936,0.00469,4,0.201,-5.354,1,0.145,182.318,4,https://api.spotify.com/v1/tracks/1ru5R5iSawvuMELqKXxLjS,0.665,62
+99,Modest Mouse,Float On,3.4744333333333333,0.013,0.649,0.888,2.23e-06,6,0.0888,-4.807,1,0.0293,100.975,4,https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R,0.553,73
+100,Muse,Uprising,5.080666666666667,0.000202,0.602,0.905,0.064,2,0.117,-4.046,1,0.0775,128.019,4,https://api.spotify.com/v1/tracks/4VqPOruhp5EdPBeR92t6lQ,0.411,75
+101,Muse,Madness,4.684,0.127,0.502,0.417,0.00419,10,0.106,-7.665,1,0.0718,180.301,4,https://api.spotify.com/v1/tracks/0c4IEciLCDdXEhhKxj4ThA,0.218,70
+102,My Chemical Romance,Teenagers,2.6986666666666665,0.0506,0.463,0.857,0.0,4,0.184,-3.063,1,0.0632,111.647,4,https://api.spotify.com/v1/tracks/7j31rVgGX9Q2blT92VBEA0,0.856,75
+103,My Chemical Romance,Famous Last Words,4.9871,0.000321,0.467,0.883,0.000152,2,0.125,-3.679,0,0.106,122.252,4,https://api.spotify.com/v1/tracks/2d6m2F4I7wCuAKtSsdhh83,0.309,69
+104,My Chemical Romance,Na Na Na [Na Na Na Na Na Na Na Na Na],3.4326666666666665,0.000264,0.411,0.986,0.00148,8,0.371,-2.522,0,0.0583,165.981,4,https://api.spotify.com/v1/tracks/5BB0Jzw60KyfSTyjJqtely,0.649,66
+105,My Chemical Romance,Helena (So Long & Goodnight),3.4122166666666667,0.0142,0.356,0.96,0.0,4,0.209,-3.487,1,0.104,125.921,4,https://api.spotify.com/v1/tracks/5dTHtzHFPyi8TlTtzoz1J9,0.0857,72
+106,My Chemical Romance,I'm Not Okay (I Promise),3.108,0.00602,0.21,0.94,0.0,9,0.269,-3.427,1,0.123,179.722,4,https://api.spotify.com/v1/tracks/7lRlq939cDG4SzWOF4VAnd,0.255,71
+107,My Chemical Romance,The Ghost Of You,3.23755,0.0286,0.202,0.886,0.0,11,0.643,-3.805,0,0.0816,145.781,4,https://api.spotify.com/v1/tracks/1yKAqZoi8xWGLCf5vajroL,0.192,63
+108,Neck Deep,In Bloom,3.6342333333333334,0.00359,0.594,0.959,1.34e-05,7,0.101,-4.697,1,0.0486,110.979,4,https://api.spotify.com/v1/tracks/6WoyghnMAvDDRbZfFbpwEo,0.381,63
+109,Neon Trees,Songs I Can't Listen To,3.3437666666666668,0.00747,0.471,0.833,1.78e-05,11,0.0735,-4.985,0,0.0415,175.003,4,https://api.spotify.com/v1/tracks/1WMBlpjhd3AUQiNfJOzfIl,0.694,53
+110,New Radicals,You Get What You Give,5.012883333333333,0.171,0.618,0.896,0.0,2,0.0875,-5.357,1,0.0307,113.961,4,https://api.spotify.com/v1/tracks/1Cwsd5xI8CajJz795oy4XF,0.711,65
+111,Oasis,Don't Look Back In Anger - Remastered,4.825983333333333,0.0596,0.333,0.922,2.05e-06,0,0.126,-4.087,1,0.0592,162.978,4,https://api.spotify.com/v1/tracks/7CVYxHq1L0Z4G84jTDS6Jl,0.335,65
+112,The Offspring,Can't Repeat,3.442,0.011,0.531,0.863,1.83e-06,0,0.0844,-3.822,1,0.0383,106.279,4,https://api.spotify.com/v1/tracks/7bj0JheylhhxzKfGTNCbYc,0.609,0
+113,The Offspring,Come out and Play,3.296666666666667,0.0535,0.476,0.856,6.75e-06,7,0.0846,-3.764,1,0.161,158.671,4,https://api.spotify.com/v1/tracks/7uz3vAnO8rzzImn84aBB1O,0.847,0
+114,The Offspring,Self Esteem,4.296,0.0175,0.458,0.912,0.0,5,0.363,-3.666,1,0.0618,104.526,4,https://api.spotify.com/v1/tracks/2Eh1aSzSV0b6YpqOXgWH8G,0.611,0
+115,The Offspring,The Kids Aren't Alright,2.9991,0.006,0.512,0.945,3.25e-05,1,0.0581,-4.204,1,0.0347,99.552,4,https://api.spotify.com/v1/tracks/6yhA35cQ6zNtccfoF9hH8k,0.812,0
+116,The Offspring,Want You Bad,3.371766666666667,5.43e-05,0.488,0.969,0.0,4,0.119,-4.252,1,0.0498,105.529,4,https://api.spotify.com/v1/tracks/0QT7lw4lCIk1XBzaZphJvh,0.651,1
+117,The Offspring,Why Don't You Get a Job?,2.8171,0.056,0.768,0.772,5.9e-06,5,0.253,-4.317,1,0.0411,107.958,4,https://api.spotify.com/v1/tracks/0z2TMb0SEx3np7MeohoopV,0.937,0
+118,The Offspring,The Meaning Of Life,2.9444333333333335,0.00842,0.257,0.969,0.000142,5,0.0659,-2.732,1,0.0656,169.03,4,https://api.spotify.com/v1/tracks/48WEsrIKIPyQzCW4pcf3sh,0.517,42
+119,The Offspring,"You're Gonna Go Far, Kid",2.963766666666667,0.00466,0.55,0.918,0.0,9,0.206,-3.159,0,0.0682,126.083,4,https://api.spotify.com/v1/tracks/1FMm3wG5WOhi7js35KR7Ea,0.563,16
+120,The Offspring,Hammerhead,4.640666666666666,0.00163,0.485,0.95,0.00825,11,0.0757,-3.571,1,0.0541,154.427,4,https://api.spotify.com/v1/tracks/4dhqJs8efyqbziBPtfxbNF,0.51,0
+121,The Offspring,Half-Truism,3.4324333333333334,0.00089,0.424,0.92,5.06e-06,7,0.111,-3.824,1,0.0407,144.016,4,https://api.spotify.com/v1/tracks/7xm8RWCCBYvEVx1VyErDa3,0.381,41
+122,Panic! At The Disco,Don't Threaten Me With A Good Time,3.55155,0.0154,0.559,0.895,0.0,1,0.175,-4.476,0,0.0832,183.825,4,https://api.spotify.com/v1/tracks/2fh3bZ8jZhMxOcfESE9nQY,0.59,74
+123,Panic! At The Disco,Hallelujah,3.0104333333333333,0.011,0.578,0.886,0.0,11,0.143,-4.348,1,0.0633,80.008,4,https://api.spotify.com/v1/tracks/6TzJLISIitIzn1WtjDY0Op,0.615,70
+124,Panic! At The Disco,Emperor's New Clothes,2.644433333333333,0.00302,0.562,0.904,0.0,1,0.0433,-4.947,1,0.0807,94.481,4,https://api.spotify.com/v1/tracks/3px2rAPu74ltbkf9eZsZ8h,0.651,75
+125,Panic! At The Disco,Death Of A Bachelor,3.391766666666667,0.0137,0.462,0.538,0.0,0,0.429,-5.527,1,0.059,139.256,4,https://api.spotify.com/v1/tracks/1BECwm5qkaBwlbfo4kpYx8,0.405,77
+126,Panic! At The Disco,LA Devotee,3.275333333333333,0.00043,0.49,0.848,8.49e-06,9,0.0665,-5.05,1,0.0645,175.998,4,https://api.spotify.com/v1/tracks/2fmCA13dwQQOGBIbIOWRiJ,0.698,74
+127,Panic! At The Disco,The Only Difference Between Martyrdom and Suicide is Press Coverage,2.9488833333333333,0.0598,0.517,0.93,0.0,6,0.35,-3.902,0,0.216,170.068,4,https://api.spotify.com/v1/tracks/4WdopfTdSd0nCLropjhsgH,0.696,62
+128,Panic! At The Disco,Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off,3.3371,0.106,0.66,0.799,0.0,8,0.154,-4.644,1,0.0995,125.966,4,https://api.spotify.com/v1/tracks/5eB7w8UZJKjL5XmnC6Pctg,0.475,65
+129,Panic! At The Disco,I Write Sins Not Tragedies,3.1268833333333332,0.0938,0.567,0.795,0.0,9,0.114,-4.985,0,0.134,170.06,4,https://api.spotify.com/v1/tracks/4bPQs0PHn4xbipzdPfn6du,0.635,75
+130,Panic! At The Disco,Miss Jackson (feat. LOLO),3.2008833333333335,0.00394,0.642,0.873,0.0,2,0.175,-5.821,1,0.0551,82.002,4,https://api.spotify.com/v1/tracks/46Kcradxrva9Dny4lHU1b3,0.662,72
+131,Panic! At The Disco,This Is Gospel,3.1197666666666666,0.00155,0.572,0.912,1.2e-06,7,0.102,-4.875,1,0.0707,156.073,4,https://api.spotify.com/v1/tracks/3yZQk5PC52CCmT4ZaTIKvv,0.606,76
+132,Paramore,Rose-Colored Boy,3.54755,0.00199,0.768,0.826,0.000374,5,0.031,-4.904,1,0.0335,114.997,4,https://api.spotify.com/v1/tracks/2RJfK2pOvGpnxC255YOy5k,0.926,69
+133,Paramore,Told You So,3.1491,0.0029,0.639,0.814,2.98e-05,2,0.0529,-5.632,0,0.0385,123.922,4,https://api.spotify.com/v1/tracks/7BpYWzZwrsljT1eIjb0TqR,0.904,67
+134,Paramore,Ignorance,3.6437666666666666,0.00109,0.522,0.964,0.000389,11,0.0387,-2.645,0,0.095,170.944,4,https://api.spotify.com/v1/tracks/47No93LxERvV6MtOAmQzHS,0.51,67
+135,Paramore,Brick By Boring Brick,4.232433333333334,9.56e-05,0.436,0.942,0.000438,9,0.209,-2.206,1,0.0496,164.975,4,https://api.spotify.com/v1/tracks/1a9YW7fATU351ok4zWjU7a,0.5,63
+136,Paramore,The Only Exception,4.460883333333333,0.144,0.452,0.563,0.0,4,0.143,-6.607,1,0.0272,137.715,3,https://api.spotify.com/v1/tracks/7JIuqL4ZqkpfGKQhYlrirs,0.209,70
+137,Paramore,Feeling Sorry,3.0857666666666668,0.000109,0.395,0.928,0.000136,1,0.0938,-3.672,0,0.0604,195.862,3,https://api.spotify.com/v1/tracks/2F9JloTNvfkIvwXJP0bZUO,0.649,52
+138,Paramore,Hard Times,3.0448833333333334,0.00647,0.695,0.818,4.87e-06,5,0.0219,-5.379,0,0.0334,119.965,4,https://api.spotify.com/v1/tracks/5hHudNsfZXmdgefWxAX2LG,0.916,59
+139,Paramore,Ain't It Fun,4.942,0.154,0.61,0.893,4.41e-05,9,0.021,-3.681,1,0.0921,104.031,4,https://api.spotify.com/v1/tracks/1j8z4TTjJ1YOdoFEDwJTQa,0.673,71
+140,Paramore,Still Into You,3.600216666666667,0.0098,0.602,0.923,0.0,5,0.0561,-3.763,1,0.044,136.01,4,https://api.spotify.com/v1/tracks/1yjY7rpaAQvKwpdUliHx0d,0.765,72
+141,Paramore,That's What You Get,3.6746666666666665,9.43e-05,0.528,0.831,0.0,8,0.141,-3.607,1,0.0429,131.094,3,https://api.spotify.com/v1/tracks/1JdKrFyoU05abww0Zv0ayQ,0.632,63
+142,Paramore,Misery Business,3.525333333333333,0.00272,0.517,0.906,9.26e-06,1,0.113,-3.677,1,0.0735,172.977,4,https://api.spotify.com/v1/tracks/6SpLc7EXZIPpy0sVko0aoU,0.731,72
+143,Paramore,Let The Flames Begin,3.3037666666666667,0.000202,0.514,0.92,0.0185,6,0.25,-3.541,0,0.0385,161.0,4,https://api.spotify.com/v1/tracks/7fx2rt43UfclOOulPwBYk2,0.334,53
+144,Paramore,crushcrushcrush,3.1562166666666664,0.000218,0.631,0.793,5.65e-05,1,0.0976,-4.086,0,0.0468,136.96,4,https://api.spotify.com/v1/tracks/3VA4sjTMSTTF02hFGmlpJh,0.648,62
+145,Portugal. The Man,Feel It Still,2.7208833333333335,0.0417,0.801,0.795,0.000113,1,0.0717,-5.115,0,0.0504,79.028,4,https://api.spotify.com/v1/tracks/6QgjcU0zLnzq5OrUoSZ3OK,0.754,86
+146,Portugal. The Man,Live In The Moment,4.1131,0.002,0.546,0.583,0.173,6,0.115,-7.317,0,0.0348,128.017,4,https://api.spotify.com/v1/tracks/60eOMEt3WNVX1m1jmApmnX,0.235,73
+147,Rancid,Time Bomb,2.40555,0.138,0.646,0.962,0.0,9,0.471,-4.862,1,0.0536,164.79,4,https://api.spotify.com/v1/tracks/41kg2RvdwBuIv0OPpvBS4v,0.961,62
+148,Red Hot Chili Peppers,Give It Away,4.7151,0.00244,0.666,0.936,0.086,7,0.153,-9.919,1,0.0476,91.577,4,https://api.spotify.com/v1/tracks/1p9MMNzukuxDBtyrtBAwwI,0.776,48
+149,Red Hot Chili Peppers,Under The Bridge,4.4051,0.0576,0.559,0.345,0.000105,4,0.141,-13.496,1,0.0459,84.581,4,https://api.spotify.com/v1/tracks/5PclxRY6shIQzSKxxbdZso,0.458,46
+150,Red Hot Chili Peppers,By The Way,3.616216666666667,0.016,0.452,0.976,0.00631,0,0.0985,-4.349,1,0.117,123.035,4,https://api.spotify.com/v1/tracks/2t0ZYmVXMR36fchq1Egs2d,0.178,60
+151,Red Hot Chili Peppers,Can't Stop,4.483333333333333,0.0201,0.62,0.934,0.0,4,0.19,-3.427,0,0.0411,91.234,4,https://api.spotify.com/v1/tracks/4BcS4LomxUnQpzx4hCaJTs,0.887,61
+152,Red Hot Chili Peppers,The Zephyr Song,3.86555,0.013,0.725,0.803,3.66e-05,2,0.0891,-4.083,1,0.0337,117.391,4,https://api.spotify.com/v1/tracks/1ndGB6rvxKYN9seCYO1dTF,0.403,66
+153,Red Hot Chili Peppers,Scar Tissue,3.5984333333333334,0.0779,0.437,0.717,0.00274,0,0.108,-4.803,1,0.039,178.085,4,https://api.spotify.com/v1/tracks/2QOMGq8wVTZbLmh7McrvgF,0.547,62
+154,Red Hot Chili Peppers,Otherside,4.256216666666667,0.00316,0.458,0.795,0.000202,0,0.0756,-3.265,1,0.0574,123.229,4,https://api.spotify.com/v1/tracks/3CeYdUfGPCjKMDYyI1PpCh,0.513,63
+155,Red Hot Chili Peppers,Californication,5.49555,0.0021,0.592,0.767,0.00165,9,0.127,-2.788,0,0.027,96.483,4,https://api.spotify.com/v1/tracks/34KTEhpPjq6IAgQg2yzJAL,0.328,66
+156,Red Hot Chili Peppers,Dark Necessities,5.033333333333333,0.0722,0.7,0.742,0.0199,5,0.11,-6.777,0,0.0716,91.959,4,https://api.spotify.com/v1/tracks/2oaK4JLVnmRGIO9ytBE1bt,0.197,74
+157,Red Hot Chili Peppers,Dani California,4.716666666666667,0.017,0.553,0.865,1.05e-05,9,0.267,-4.751,0,0.0409,96.161,4,https://api.spotify.com/v1/tracks/10Nmj3JCNoMeBQ87uw5j8k,0.735,76
+158,Red Hot Chili Peppers,Snow (Hey Oh),5.584433333333333,0.127,0.432,0.895,1.16e-05,11,0.141,-3.682,1,0.0504,104.458,4,https://api.spotify.com/v1/tracks/2aibwv5hGXSgw7Yru8IYTO,0.625,79
+159,Red Hot Chili Peppers,Tell Me Baby,4.127766666666667,0.00194,0.695,0.993,0.00217,0,0.0877,-3.102,1,0.0614,107.933,4,https://api.spotify.com/v1/tracks/0itNMuBHye9fu392b4e9oa,0.28,65
+160,The Red Jumpsuit Apparatus,Face Down,3.2,0.000665,0.545,0.932,0.0,7,0.127,-2.189,0,0.0399,92.956,4,https://api.spotify.com/v1/tracks/4wzjNqjKAKDU82e8uMhzmr,0.465,73
+161,Royal Blood,How Did We Get So Dark?,3.2988833333333334,0.00177,0.568,0.871,0.000406,1,0.36,-5.235,1,0.0494,133.064,4,https://api.spotify.com/v1/tracks/51txLjbvSBRvtxjCjAFLkM,0.693,61
+162,Royal Blood,Lights Out,3.9404333333333335,0.000127,0.501,0.824,0.000311,0,0.0922,-7.25,1,0.0413,89.972,4,https://api.spotify.com/v1/tracks/1060gzllf4b0UETAXisR5l,0.57,66
+163,Royal Blood,I Only Lie When I Love You,2.828666666666667,0.00111,0.65,0.886,0.000129,11,0.334,-4.821,1,0.0483,124.013,4,https://api.spotify.com/v1/tracks/1LbwMX3159t6QxG3u7DRWe,0.88,65
+164,Royal Blood,Hole In Your Heart,3.7682166666666665,0.00458,0.596,0.811,1.62e-05,1,0.0971,-5.501,0,0.0587,100.032,4,https://api.spotify.com/v1/tracks/5Q6BEkgHxYuEJmHidFLy9L,0.475,65
+165,Royal Blood,Figure It Out,3.06755,0.262,0.657,0.817,0.00674,0,0.248,-4.415,1,0.0554,107.995,4,https://api.spotify.com/v1/tracks/6V0A3jkb9ntudO0kmcJ1xd,0.651,60
+166,Royal Blood,Little Monster,3.538483333333333,0.00122,0.454,0.882,0.00156,5,0.138,-4.251,1,0.06,95.999,4,https://api.spotify.com/v1/tracks/3cuxZTcxBj7AL3bgSCIuWL,0.497,51
+167,Royal Blood,Ten Tonne Skeleton,3.1308833333333332,0.000488,0.488,0.879,1.19e-06,7,0.14,-3.329,0,0.0393,86.986,4,https://api.spotify.com/v1/tracks/78ZTkIlW7NLXRCCPecwUyd,0.557,53
+168,Royal Blood,Out Of The Black,4.009533333333334,0.000867,0.52,0.981,0.00177,2,0.197,-2.75,1,0.0906,158.937,4,https://api.spotify.com/v1/tracks/2nIulsLMiP2SMTDrtxfQXX,0.633,55
+169,Saint Motel,Move,3.157766666666667,0.0179,0.638,0.817,0.0,10,0.338,-5.021,0,0.0636,101.028,4,https://api.spotify.com/v1/tracks/61brtUJwrAQjyZjWpMBRXf,0.716,44
+170,Shinedown,Second Chance,3.7011,0.00107,0.46,0.796,0.0,0,0.106,-4.501,0,0.0333,100.011,4,https://api.spotify.com/v1/tracks/0CwYG1UnRmOx8Q1EzElCIL,0.182,69
+171,Silversun Pickups,Lazy Eye,5.906,0.0438,0.629,0.809,0.714,4,0.115,-4.886,1,0.0466,127.401,4,https://api.spotify.com/v1/tracks/7emyMM3g0FzmnD63w3TNoE,0.333,0
+172,Silversun Pickups,Panic Switch,5.700666666666667,0.000228,0.258,0.879,0.00607,5,0.281,-4.486,0,0.0687,132.229,4,https://api.spotify.com/v1/tracks/2MadCwJX7HVtlWcrc78OX9,0.582,0
+173,Simple Plan,Perfect,4.6171,0.0273,0.494,0.672,0.0,3,0.105,-4.877,1,0.0405,156.208,4,https://api.spotify.com/v1/tracks/2TeiKDPE3RdamZG0pp5okI,0.557,43
+174,Simple Plan,Welcome To My Life,3.4462166666666665,0.0134,0.421,0.858,0.0,1,0.067,-4.535,1,0.0963,173.255,4,https://api.spotify.com/v1/tracks/10rChmECwPcvTTj4w07hq4,0.491,67
+175,Taking Back Sunday,MakeDamnSure,3.4713333333333334,0.00941,0.553,0.837,0.0,6,0.372,-5.608,1,0.0452,140.495,4,https://api.spotify.com/v1/tracks/48O6kz322Dzu1R6Al5147q,0.432,66
+176,Starset,Down With the Fallen,4.292933333333333,0.000215,0.317,0.907,0.0,10,0.839,-5.284,0,0.139,175.816,3,https://api.spotify.com/v1/tracks/49oKVRxC5c6yluskBj9zlX,0.247,0
+177,Starset,It Has Begun,5.2802,0.00876,0.254,0.724,0.0012,5,0.186,-6.513,1,0.0675,127.888,4,https://api.spotify.com/v1/tracks/3gmTG7nZT01KvhVtiJcKBf,0.123,0
+178,Starset,My Demons,4.8006,0.00768,0.274,0.652,6.42e-05,5,0.108,-6.196,0,0.0625,173.009,4,https://api.spotify.com/v1/tracks/0zXXWXseqUw4F7W2PRkRl3,0.1,2
+179,Starset,Monster,4.272,0.00146,0.394,0.871,1.29e-06,1,0.0726,-6.772,0,0.0509,97.51,4,https://api.spotify.com/v1/tracks/0criiQKIY1hyU0lRbVhZ8L,0.286,58
+180,State Champs,Secrets,3.7403833333333334,0.000143,0.561,0.964,0.0,8,0.0603,-3.312,1,0.0487,105.009,4,https://api.spotify.com/v1/tracks/6XA12laU5GUhas6GcWDLuU,0.579,58
+181,Sublime,What I Got,2.8511,0.0172,0.795,0.706,0.000384,7,0.326,-7.494,1,0.101,95.593,4,https://api.spotify.com/v1/tracks/3oVSsJXNADnYAnZWiEWFJH,0.623,25
+182,Sublime,Wrong Way,2.2733333333333334,0.0738,0.662,0.667,0.0,9,0.0896,-6.199,1,0.0366,149.388,4,https://api.spotify.com/v1/tracks/1kWja6NVaLZThMop9MYVDz,0.916,5
+183,Sublime,Santeria,3.0533333333333332,0.0223,0.673,0.772,1.23e-06,1,0.141,-5.246,0,0.0427,90.356,4,https://api.spotify.com/v1/tracks/6cJqlSO19vsfCsH1FeFI35,0.585,24
+184,Sublime,Date Rape,3.5928833333333334,0.0087,0.62,0.706,0.000112,4,0.422,-8.023,0,0.23,102.029,4,https://api.spotify.com/v1/tracks/0ManjhaoAvBeijzAqTmSK3,0.796,54
+185,Sum 41,Fat Lip,2.9711,0.000618,0.574,0.911,0.0,9,0.0769,-5.176,1,0.0715,98.075,4,https://api.spotify.com/v1/tracks/4KacUpvbA3Mfo05gttTjhN,0.573,67
+186,Sum 41,In Too Deep,3.45155,0.000178,0.577,0.838,1.07e-06,9,0.0588,-5.793,1,0.0586,116.048,4,https://api.spotify.com/v1/tracks/1HNE2PX70ztbEl6MLxrpNL,0.802,66
+187,Sum 41,We're All To Blame,3.648433333333333,0.00168,0.211,0.898,0.0,8,0.0943,-4.79,0,0.118,159.623,4,https://api.spotify.com/v1/tracks/5VHlPVjm2Qis5txaHXbzlw,0.3,0
+188,Sum 41,The Hell Song,3.3082166666666666,0.00014,0.356,0.929,0.00674,8,0.359,-5.464,0,0.0904,173.413,4,https://api.spotify.com/v1/tracks/17XgxMFNzBYv38TEJRC18D,0.694,57
+189,Sum 41,Over My Head (Better Off Dead),2.4884333333333335,0.00227,0.444,0.916,0.00295,7,0.0779,-4.394,1,0.0822,184.292,4,https://api.spotify.com/v1/tracks/3SO0vfryYv381w1ImgWONG,0.848,49
+190,Sum 41,Still Waiting,2.64555,0.000859,0.424,0.949,5.84e-05,7,0.279,-4.821,1,0.265,191.928,4,https://api.spotify.com/v1/tracks/2OMqSRS11ly56zg9u5za6c,0.528,63
+191,Sum 41,Underclass Hero,3.23555,0.00109,0.353,0.986,0.0,9,0.0944,-2.933,1,0.149,191.987,4,https://api.spotify.com/v1/tracks/6dXizHF3KbmdvOgvMAhnQC,0.756,48
+192,Third Eye Blind,Semi-Charmed Life,4.472666666666667,0.00832,0.64,0.864,0.0,7,0.123,-6.576,1,0.0315,102.026,4,https://api.spotify.com/v1/tracks/42et6fnHCw1HIPSrdPprMl,0.7,74
+193,Thirty Seconds To Mars,ATTACK,3.136433333333333,0.00339,0.333,0.877,0.000925,5,0.769,-1.894,0,0.0602,175.011,4,https://api.spotify.com/v1/tracks/0lHSJ0ZP8uUPnJXhMdGjOK,0.286,57
+194,Thirty Seconds To Mars,A Beautiful Lie,4.088433333333334,0.00291,0.479,0.929,0.292,9,0.171,-5.106,0,0.0921,159.949,3,https://api.spotify.com/v1/tracks/0mmaX70fKuhgg0hDrfsS29,0.344,54
+195,Thirty Seconds To Mars,The Kill,3.8588833333333334,0.0014,0.309,0.912,0.000271,4,0.582,-3.881,0,0.0646,183.035,3,https://api.spotify.com/v1/tracks/0lP4HYLmvowOKdsQ7CVkuq,0.302,70
+196,Thirty Seconds To Mars,From Yesterday,4.122883333333333,0.00578,0.467,0.876,0.00592,10,0.035,-4.841,1,0.0693,135.055,4,https://api.spotify.com/v1/tracks/1JBa9B1iA4yNVpJ5wVGrZH,0.131,56
+197,Thirty Seconds To Mars,Kings and Queens,5.794433333333333,0.0401,0.293,0.816,2.95e-05,8,0.13,-5.432,1,0.0844,164.982,4,https://api.spotify.com/v1/tracks/4sjLcE0GQ6urc4iUXsUPe9,0.148,66
+198,Thirty Seconds To Mars,Walk On Water,3.1371166666666666,0.000119,0.492,0.761,0.0,8,0.0934,-7.041,1,0.0363,139.98,4,https://api.spotify.com/v1/tracks/5UMD1Iz7yyVK8Q5FLsVt3q,0.395,39
+199,Tickle Me Pink,Madeline,3.633766666666667,0.0149,0.462,0.847,6.22e-06,11,0.221,-3.518,1,0.0498,157.025,4,https://api.spotify.com/v1/tracks/35sFrMX75ZeZmGdrkGuGH8,0.364,30
+200,Train,Drive By,3.2662166666666668,0.00107,0.765,0.837,1.06e-05,1,0.0801,-3.113,0,0.032,122.028,4,https://api.spotify.com/v1/tracks/0KAiuUOrLTIkzkpfpn9jb9,0.721,62
+201,WALK THE MOON,One Foot,4.356183333333333,0.00773,0.581,0.826,1.56e-06,0,0.792,-4.87,1,0.0357,100.018,4,https://api.spotify.com/v1/tracks/3yWsWi2PAo9s6elIhnywIS,0.492,72
+202,We The Kings,"Check Yes, Juliet",3.6691,0.00232,0.349,0.914,0.0,2,0.157,-4.169,1,0.0721,166.839,4,https://api.spotify.com/v1/tracks/3Jkp1ZJykzl8dy27WzaLP5,0.361,1
+203,Weezer,Beverly Hills,3.2682166666666665,0.107,0.542,0.819,0.0,5,0.187,-3.735,1,0.161,175.711,4,https://api.spotify.com/v1/tracks/1yKu2MhpwzDXXH2tzG6xoa,0.714,66
+204,Weezer,Buddy Holly,2.6597666666666666,0.00611,0.535,0.931,7.26e-05,8,0.0887,-4.012,1,0.0451,120.958,4,https://api.spotify.com/v1/tracks/7GptbanebPZYkLPvjNfd6m,0.825,66
+205,Weezer,Say It Ain't So,4.281333333333333,0.00328,0.635,0.435,6.78e-06,3,0.071,-7.521,1,0.031,76.098,4,https://api.spotify.com/v1/tracks/4YPhn26bIFm2KUkL1VLzQG,0.459,70
+206,Weezer,Island In The Sun,3.338433333333333,0.0108,0.646,0.778,0.00654,4,0.144,-6.222,0,0.0273,114.647,4,https://api.spotify.com/v1/tracks/2MLHyLy5z5l5YRp7momlgw,0.782,73
+207,Weezer,Pork And Beans,3.1524833333333335,0.0116,0.597,0.632,8.15e-06,6,0.155,-6.615,1,0.0326,119.821,4,https://api.spotify.com/v1/tracks/1iYJ7LzmVg5SMlsA6er8HD,0.685,0
+208,The White Stripes,Seven Nation Army,3.8633333333333333,0.00576,0.75,0.462,0.545,0,0.307,-7.664,1,0.0779,123.865,4,https://api.spotify.com/v1/tracks/3ctoHckjyd13eBi2IDw2Ip,0.309,19
+209,The Wombats,Greek Tragedy,3.4926166666666667,0.00257,0.515,0.869,2.01e-06,11,0.21,-4.732,1,0.0672,93.24,4,https://api.spotify.com/v1/tracks/28C4nmrd7BTu0XbOmaTHZr,0.452,58
+210,The Wombats,Jump Into The Fog,3.87235,0.00214,0.462,0.897,0.0,4,0.254,-7.168,1,0.0516,157.948,4,https://api.spotify.com/v1/tracks/3l8dM1wjgFh98jpiq5ZCe7,0.671,46
+211,X Ambassadors,Jungle - The MADE Edit,4.5713333333333335,8.61e-05,0.407,0.868,0.205,2,0.369,-5.556,1,0.0926,77.968,4,https://api.spotify.com/v1/tracks/6dAIC2Hqes5KXEap8ADXEo,0.11,33
+212,X Ambassadors,Renegades,3.2431,0.0123,0.528,0.866,0.0388,11,0.347,-5.96,0,0.0831,89.989,4,https://api.spotify.com/v1/tracks/3wLfy6C6qhOxHpU64YYKGz,0.542,8
+213,X Ambassadors,Unsteady,3.2257666666666664,0.177,0.598,0.673,0.000316,9,0.203,-6.134,0,0.0469,117.02,4,https://api.spotify.com/v1/tracks/7lGKEWMXVWWTt3X71Bv44I,0.255,73
+214,Yellowcard,Lights And Sounds,3.4697666666666667,8.48e-05,0.344,0.972,0.0,11,0.293,-3.675,0,0.116,167.819,4,https://api.spotify.com/v1/tracks/4XOZaPYeMn9hcbpyS90NnD,0.387,61
+215,Yellowcard,Way Away,3.3682166666666666,6.93e-06,0.357,0.959,3.91e-05,2,0.0825,-4.081,0,0.113,179.644,4,https://api.spotify.com/v1/tracks/63IIUzd6eJBfCGIcF8MFnJ,0.364,58
+216,Yellowcard,Breathing,3.6451,3.5e-05,0.382,0.932,0.0,4,0.243,-3.726,0,0.0716,179.581,4,https://api.spotify.com/v1/tracks/0DxN6Ywom8nnndyQXdSBPy,0.57,59
+217,Yellowcard,Ocean Avenue,3.3044333333333333,3.43e-05,0.486,0.904,2.83e-05,6,0.0947,-3.751,0,0.0638,173.734,4,https://api.spotify.com/v1/tracks/23oxJmDc1V9uLUSmN2LIvx,0.786,72
+218,Yellowcard,Only One,4.289983333333334,8e-05,0.477,0.907,7.82e-05,1,0.149,-4.814,0,0.0899,81.291,4,https://api.spotify.com/v1/tracks/0gZp88SA5OcujHLDGkxtI3,0.304,64
+219,Young Guns,Bones,3.2946666666666666,3.26e-06,0.351,0.88,0.552,6,0.298,-3.651,0,0.0564,157.016,4,https://api.spotify.com/v1/tracks/7e5xSRGOpvzqIGN40g5Rtp,0.536,46
+220,Young the Giant,My Body,4.073333333333333,0.0011,0.488,0.909,1.02e-05,10,0.456,-6.591,1,0.0929,129.774,4,https://api.spotify.com/v1/tracks/1KDYN3odJHnj9pqGHN3FVs,0.643,65
+221,Young the Giant,Cough Syrup,4.158666666666667,0.0343,0.534,0.721,6.24e-06,11,0.115,-7.307,0,0.0417,128.978,3,https://api.spotify.com/v1/tracks/1UqhkbzB1kuFwt2iy4h29Q,0.225,70
+222,Foo Fighters,Monkey Wrench,3.858,1.83e-05,0.399,0.953,2.53e-05,4,0.149,-4.276,1,0.0752,174.216,4,https://api.spotify.com/v1/tracks/44wXefe8WB9Fd6xwtmAwbR,0.555,67
+223,Foo Fighters,My Hero,4.3337666666666665,6.2e-05,0.374,0.927,0.000177,4,0.0575,-4.212,1,0.0652,154.047,4,https://api.spotify.com/v1/tracks/4dVbhS6OiYvFikshyaQaCN,0.301,69
+224,Foo Fighters,Everlong,4.175766666666667,5.96e-05,0.412,0.882,0.00031,11,0.0805,-5.54,0,0.0369,158.066,4,https://api.spotify.com/v1/tracks/5UWwZ5lm5PKu6eKsHAGxOk,0.356,78
+225,Foo Fighters,The Sky Is A Neighborhood,4.076216666666666,0.000799,0.358,0.549,0.00503,11,0.22,-7.843,0,0.0693,130.733,4,https://api.spotify.com/v1/tracks/3kdMzXOcrDIdSWLdONHNK5,0.533,73
+226,Foo Fighters,The Pretender,4.48955,0.000917,0.433,0.959,0.0,9,0.028,-4.04,1,0.0431,172.984,4,https://api.spotify.com/v1/tracks/7x8dCjCr0x6x2lXKujYD34,0.365,76
+227,Foo Fighters,Best of You,4.24955,0.00092,0.377,0.942,8.88e-05,1,0.126,-4.543,0,0.07,129.955,4,https://api.spotify.com/v1/tracks/1sn6iOK93jnp0Hn5BnNOXy,0.348,62
+228,Foo Fighters,No Way Back,3.2762166666666666,1.26e-05,0.254,0.959,7.31e-06,9,0.483,-3.447,1,0.0672,186.438,4,https://api.spotify.com/v1/tracks/2MKEQhvPb2VaJXjx5X8Yg6,0.525,55
+229,Foo Fighters,Learn to Fly,3.92155,1.83e-05,0.465,0.919,2.07e-05,4,0.262,-4.025,1,0.0408,135.997,4,https://api.spotify.com/v1/tracks/5OQsiBsky2k2kDKy2bX2eT,0.537,73
+230,Foo Fighters,All My Life,4.3788833333333335,0.000231,0.583,0.586,0.000633,5,0.494,-5.683,1,0.0518,167.798,4,https://api.spotify.com/v1/tracks/40Gxnw5Vc8hnhGFknXHe3R,0.622,70
+231,Foo Fighters,Times Like These,4.427333333333333,1.17e-05,0.373,0.905,7.53e-06,4,0.321,-3.793,0,0.0823,144.574,4,https://api.spotify.com/v1/tracks/2ql32BJPN3hnyboml4JfER,0.274,60
+232,blink-182,I Miss You,3.7875,0.00123,0.421,0.729,3.33e-06,11,0.0891,-8.328,1,0.0477,110.002,4,https://api.spotify.com/v1/tracks/1AdYZ6X00nXmO613Y7GJOl,0.603,59
+233,blink-182,Always,4.198216666666666,0.00974,0.468,0.955,0.0125,11,0.164,-3.82,1,0.0892,158.328,4,https://api.spotify.com/v1/tracks/1JfNuvdAIqI3ggkzXuBvPp,0.592,53
+234,blink-182,Bored To Death,3.9268833333333335,0.00575,0.502,0.966,1.56e-06,0,0.117,-3.876,1,0.0946,159.948,4,https://api.spotify.com/v1/tracks/34hoCwSsssai61QCqzGYtX,0.638,58
+235,blink-182,She's Out Of Her Mind,2.712,0.00448,0.447,0.967,0.0,0,0.487,-2.706,1,0.0793,179.991,4,https://api.spotify.com/v1/tracks/6EE19skJ32p58xihYj2Waa,0.606,67
+236,blink-182,Left Alone,3.1624333333333334,0.0113,0.463,0.952,0.0,9,0.0715,-3.828,1,0.147,170.066,4,https://api.spotify.com/v1/tracks/4GWOuX0NMBTLKyUb8aLHnL,0.429,49
+237,blink-182,What's My Age Again?,2.4762166666666667,0.017,0.403,0.956,7.09e-05,6,0.0893,-7.376,1,0.0732,157.706,4,https://api.spotify.com/v1/tracks/5JZcX7TTLx4l0xFIXJ3DBt,0.561,71
+238,blink-182,Adam's Song,4.16255,0.039,0.514,0.771,0.0,0,0.262,-5.756,1,0.0364,136.058,4,https://api.spotify.com/v1/tracks/43NhiKnrtGqztxDqXrcUux,0.359,64
+239,blink-182,All The Small Things,2.8,0.0122,0.439,0.891,0.0,0,0.547,-4.764,1,0.057,148.599,4,https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx,0.695,73
+240,blink-182,Anthem,3.6266666666666665,0.00129,0.254,0.912,0.0,4,0.109,-5.1,1,0.175,101.515,4,https://api.spotify.com/v1/tracks/0tf5uvGacL1KMmB7E24BCN,0.647,49
+241,blink-182,Dammit,2.7711,2.54e-05,0.384,0.981,1.9e-05,0,0.106,-4.209,1,0.0872,109.052,4,https://api.spotify.com/v1/tracks/1iZTuY3wspO4DxFXBD58WX,0.307,7
+242,blink-182,Feeling This,2.8962166666666667,0.0983,0.401,0.979,0.0,4,0.202,-3.423,1,0.129,173.745,4,https://api.spotify.com/v1/tracks/5oomlbcQ6EkLuHWNsyUd1x,0.556,0
+243,blink-182,Anthem Part Two,3.7866666666666666,0.00015,0.555,0.922,1.44e-06,0,0.114,-3.789,1,0.0445,103.096,4,https://api.spotify.com/v1/tracks/24CRDgNOgA72JLL7PHFjgB,0.592,56
+244,blink-182,First Date,2.8588833333333334,0.000642,0.582,0.914,0.0,0,0.187,-4.269,1,0.0415,95.597,4,https://api.spotify.com/v1/tracks/1fJFuvU2ldmeAm5nFIHcPP,0.857,67
+245,blink-182,The Rock Show,2.86,0.000389,0.418,0.959,0.0,9,0.0708,-4.563,1,0.111,193.074,4,https://api.spotify.com/v1/tracks/2ydUT1pFhuLDnouelIv4WH,0.824,61
+246,blink-182,Stay Together For The Kids,3.9888833333333333,0.00148,0.515,0.766,1.11e-05,2,0.146,-4.831,1,0.0346,145.125,4,https://api.spotify.com/v1/tracks/3YD9EehnGOf88rGSZFrnHg,0.235,56
+247,American Authors,Best Day Of My Life,3.2373333333333334,0.0629,0.673,0.902,0.000174,2,0.0552,-2.378,1,0.0347,100.016,4,https://api.spotify.com/v1/tracks/5Hroj5K7vLpIG4FNCRIjbP,0.521,70
+248,American Authors,I'm Born To Run,3.4486666666666665,0.0547,0.618,0.934,0.0,8,0.11,-5.562,1,0.0498,126.035,4,https://api.spotify.com/v1/tracks/6zDs6zI94L761vd0cVScTT,0.724,60
+249,Switchfoot,Meant to Live,3.330216666666667,0.00415,0.396,0.905,0.0,2,0.42,-3.948,1,0.0467,151.503,4,https://api.spotify.com/v1/tracks/79cAPxneo5AvbNgR6ch3Cj,0.514,56
+250,Eve 6,Inside Out,3.657766666666667,0.114,0.483,0.818,0.0,11,0.367,-7.666,1,0.0444,175.668,4,https://api.spotify.com/v1/tracks/4GiVcDqNQI0fc0yYuRGH9m,0.691,66
+251,Good Charlotte,The Anthem,2.9182166666666665,0.00666,0.494,0.939,0.0,1,0.139,-3.127,1,0.126,177.751,4,https://api.spotify.com/v1/tracks/0BRHnOFm6sjxN1i9LJrUDu,0.893,72
+252,Good Charlotte,Lifestyles of the Rich & Famous,3.16955,0.00043,0.62,0.93,0.0,1,0.0686,-3.685,1,0.0374,106.22,4,https://api.spotify.com/v1/tracks/2g2a5kDeZexbUTD8abcvm6,0.609,69
+253,Good Charlotte,I Don't Wanna Be In Love (Dance Floor Anthem),4.066666666666666,0.0226,0.64,0.884,0.0,6,0.187,-2.609,1,0.0428,124.968,4,https://api.spotify.com/v1/tracks/6BLLQndvA0rLbLcIZmuuEJ,0.573,61
+254,Good Charlotte,Misery,3.8228833333333334,0.0747,0.343,0.977,0.0,11,0.345,-1.708,1,0.223,123.284,4,https://api.spotify.com/v1/tracks/4bvTJU3T4h32HsXmrQmn3r,0.564,41
+255,Good Charlotte,Girls & Boys,3.0582166666666666,0.00212,0.663,0.72,0.0,3,0.358,-5.497,1,0.0331,135.342,4,https://api.spotify.com/v1/tracks/65mxB9IWpmVo4qUjdGSxRB,0.608,62
+256,Taking Back Sunday,Cute Without The 'E' (Cut From The Team),3.5257666666666667,0.0333,0.361,0.868,0.0,1,0.0713,-4.366,0,0.0483,93.948,4,https://api.spotify.com/v1/tracks/6PsISpFaCEKwysPfwO9SfC,0.534,65
+257,Story Of The Year,Until The Day I Die,3.92,0.127,0.597,0.931,0.0,11,0.0504,-4.591,0,0.0984,92.003,4,https://api.spotify.com/v1/tracks/0DKNNR9iDjwfCEpMiFXMJq,0.534,64
+258,Relient K,Who I Am Hates Who I've Been,3.8711,0.00289,0.398,0.902,0.0,3,0.066,-3.518,1,0.0861,166.823,4,https://api.spotify.com/v1/tracks/23zxVVtHjo2mbtAoAg5XB4,0.491,54
+259,Relient K,Be My Escape,4.00755,0.00605,0.554,0.864,0.0,9,0.132,-5.062,1,0.0394,112.523,4,https://api.spotify.com/v1/tracks/3Vi93V7o1tT28Cut4gSWi3,0.299,62
+260,The Classic Crime,The Fight - Albatross Album Version,3.2948833333333334,0.0167,0.613,0.964,0.0,5,0.75,-5.199,0,0.0736,112.069,4,https://api.spotify.com/v1/tracks/5qbNox9Z5Ya6QpA4rYa8zE,0.588,33
+261,Fall Out Boy,"Dance, Dance",3.0044333333333335,0.00494,0.616,0.961,0.0,11,0.078,-3.144,0,0.139,114.492,4,https://api.spotify.com/v1/tracks/0a7BloCiNzLDD9qSQHh5m7,0.523,70
+262,The Classic Crime,Gravedigging,3.7497666666666665,4.03e-05,0.204,0.939,0.0,8,0.684,-3.931,1,0.169,174.858,4,https://api.spotify.com/v1/tracks/2Ll2RNjMr4nQ8nvog9SeVb,0.534,31
+263,All Time Low,"Dear Maria, Count Me In",3.0471,0.00725,0.465,0.896,0.0,2,0.206,-3.126,1,0.0795,181.014,4,https://api.spotify.com/v1/tracks/0J69x3mqm7U6tBPKsjpsWR,0.569,65
+264,Emery,Studying Politics,3.5164333333333335,0.000906,0.446,0.964,0.0,10,0.131,-5.47,0,0.169,164.009,4,https://api.spotify.com/v1/tracks/69YAlTHsJSww392VeNOa7Z,0.308,41
+265,The Red Jumpsuit Apparatus,False Pretense,2.494,0.00137,0.509,0.93,0.0,0,0.152,-2.689,0,0.0474,154.95,4,https://api.spotify.com/v1/tracks/2ZICF8SFI5tHttaLJKMY1X,0.783,63
+266,Ivoryline,Hearts And Minds,3.78355,0.00214,0.488,0.94,0.0,5,0.366,-4.766,0,0.0675,76.999,4,https://api.spotify.com/v1/tracks/2BzyuWMhV9wp3OqrWQzX5Y,0.818,26
+267,3 Doors Down,It's Not My Time,4.032666666666667,0.00151,0.54,0.928,2.58e-06,0,0.135,-4.823,1,0.0671,128.037,4,https://api.spotify.com/v1/tracks/0uybt73QFXaLCoxuVf6fhm,0.285,62
+268,Neck Deep,Wish You Were Here,4.13755,0.428,0.528,0.496,0.0,10,0.0898,-6.318,1,0.0267,159.965,3,https://api.spotify.com/v1/tracks/41dBaqp4zM57WTfZ72NAf5,0.538,61
+269,Neck Deep,December,3.6492333333333336,0.626,0.542,0.439,0.0,2,0.109,-7.728,1,0.0272,144.945,4,https://api.spotify.com/v1/tracks/38hoUe0bZq5OYdixN0Ozki,0.466,61
+270,Neck Deep,Motion Sickness,3.41875,0.000372,0.578,0.983,0.00221,7,0.322,-3.008,1,0.0824,105.013,4,https://api.spotify.com/v1/tracks/2zb0TZbEprJhFjrbW74cWt,0.397,57
+271,Neck Deep,Happy Judgement Day,3.5501666666666667,0.00021,0.529,0.975,0.0,6,0.321,-3.484,1,0.0817,93.931,4,https://api.spotify.com/v1/tracks/4IMVgt2FWmFiZK8SLZfTDA,0.63,56
+272,All Time Low,Damned If I Do Ya (Damned If I Don't),3.1166666666666667,0.00635,0.554,0.902,0.0,4,0.328,-4.018,1,0.0569,126.022,4,https://api.spotify.com/v1/tracks/4gMeruhokXjt6JtrYoOPCk,0.657,44
+273,All Time Low,"Dear Maria, Count Me In",3.0471,0.00725,0.465,0.896,0.0,2,0.206,-3.126,1,0.0795,181.014,4,https://api.spotify.com/v1/tracks/18HtrVceFUqG9aukMZN2et,0.569,0
+274,The All-American Rejects,"Swing, Swing",3.887766666666667,7.78e-05,0.54,0.691,0.331,7,0.0413,-5.888,1,0.0306,127.946,4,https://api.spotify.com/v1/tracks/4jVhSbMMHctghoOTFuLPB2,0.367,63
+275,The All-American Rejects,Dirty Little Secret,3.22755,0.0004,0.453,0.942,2.65e-06,10,0.667,-4.256,1,0.0466,143.85,4,https://api.spotify.com/v1/tracks/5lDriBxJd22IhOH9zTcFrV,0.457,69
+276,The All-American Rejects,Stab My Back,3.1551,0.000209,0.538,0.878,0.0,4,0.0534,-3.421,0,0.0442,135.824,4,https://api.spotify.com/v1/tracks/1j0FJGKv1ZEaTjNz7wAPwF,0.721,40
+277,The All-American Rejects,It Ends Tonight,4.080433333333334,0.00275,0.335,0.676,0.0,0,0.141,-4.68,1,0.0301,175.845,4,https://api.spotify.com/v1/tracks/1FMHNVeJ9s1x1l1WlaRs2I,0.341,61
+278,The All-American Rejects,Move Along,3.981333333333333,0.000198,0.529,0.922,0.0,3,0.26,-3.84,1,0.0459,109.847,4,https://api.spotify.com/v1/tracks/2l57cfmCnOkwNX1tky02n1,0.628,67
+279,Fall Out Boy,"A Little Less Sixteen Candles, A Little More ""Touch Me""",2.838,0.00518,0.544,0.9,0.0,7,0.271,-3.117,1,0.0618,133.08,4,https://api.spotify.com/v1/tracks/3IcGfl8jVOapoWGRV9QP3u,0.708,40
+280,Fall Out Boy,"Dance, Dance",3.024,0.00465,0.628,0.967,0.0,11,0.0415,-2.828,0,0.108,114.495,4,https://api.spotify.com/v1/tracks/4GKQVC6SImVOlYabUNLBtD,0.527,46
+281,Boys Like Girls,The Great Escape,3.442,0.00166,0.423,0.94,0.0,1,0.178,-4.012,0,0.0635,149.934,4,https://api.spotify.com/v1/tracks/6GIrIt2M39wEGwjCQjGChX,0.505,67
+282,New Found Glory,My Friends Over You,3.67,0.000291,0.398,0.978,0.0,2,0.0947,-4.001,1,0.133,177.797,4,https://api.spotify.com/v1/tracks/12mF5rnbbT7jNqiBv8NBFt,0.441,64
+283,Oasis,Wonderwall - Remastered,4.3122,0.000453,0.372,0.865,0.0,2,0.234,-4.918,1,0.0381,174.53,4,https://api.spotify.com/v1/tracks/5wj4E6IsrVtn8IBJQOd0Cl,0.478,74
+284,Kings of Leon,Sex on Fire,3.3891,0.00172,0.542,0.905,0.0104,9,0.136,-5.653,1,0.054,153.398,4,https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45,0.374,78
+285,Franz Ferdinand,Take Me Out,3.9504333333333332,0.000423,0.278,0.676,0.000899,9,0.136,-8.821,1,0.0371,104.545,4,https://api.spotify.com/v1/tracks/6ooluO7DiEhI1zmK94nRCM,0.494,74
+286,3 Doors Down,Kryptonite,3.8971,0.00624,0.545,0.86,2.18e-05,11,0.165,-5.054,0,0.0306,99.031,4,https://api.spotify.com/v1/tracks/6ZOBP3NvffbU4SZcrnt1k6,0.581,73
+287,Moose Blood,It's Too Much,3.9426666666666668,1.32e-05,0.532,0.598,2.29e-05,8,0.0729,-5.826,0,0.0276,92.033,4,https://api.spotify.com/v1/tracks/5cfWjuHbGmQdroEhiuNbwv,0.133,54
+288,Moose Blood,Knuckles,3.747333333333333,4.12e-05,0.579,0.781,8.66e-05,6,0.108,-6.131,0,0.0363,137.965,4,https://api.spotify.com/v1/tracks/5U9qCuVeVJBWfW7dktnCDe,0.728,54
+289,Moose Blood,Gum,3.0231166666666667,0.00848,0.501,0.667,0.0,4,0.281,-6.196,1,0.0284,82.522,4,https://api.spotify.com/v1/tracks/1r1jsjelmYpyE8aBdPcHun,0.283,56
+290,Sugar Ray,Someday,4.046666666666667,0.0105,0.745,0.682,0.0862,1,0.21,-4.39,0,0.0287,110.857,4,https://api.spotify.com/v1/tracks/6zeDYmP3ARpURvpK29Q09P,0.938,55
+291,Sugar Ray,Fly,4.0689,0.0202,0.835,0.648,0.225,1,0.308,-8.15,1,0.0488,99.701,4,https://api.spotify.com/v1/tracks/3uPfVXcjnpOjyzI3jb3js4,0.674,65
+292,Sugar Ray,Every Morning,3.664433333333333,0.0834,0.833,0.679,0.00258,8,0.0769,-4.496,1,0.0365,109.916,4,https://api.spotify.com/v1/tracks/2ouURa1AIXp3AvkS52Jry5,0.975,61
+293,Panic! At The Disco,Say Amen (Saturday Night),3.1531,0.167,0.491,0.867,0.0,6,0.458,-2.313,0,0.103,167.965,4,https://api.spotify.com/v1/tracks/4qSsjDGXplb6422X2INvFW,0.602,79
+294,M83,Midnight City,4.024,0.0161,0.526,0.712,0.0,11,0.179,-6.525,0,0.0356,105.009,4,https://api.spotify.com/v1/tracks/1eyzqe2QqGZUmfcPZtrIyt,0.32,72
+295,Foo Fighters,Let It Die,4.082666666666666,0.027,0.596,0.557,1.64e-05,0,0.0914,-6.401,1,0.0299,124.023,4,https://api.spotify.com/v1/tracks/2XvrMHbSO077Ajg7QTTNdY,0.314,58
+296,Foo Fighters,Walk,4.266,3.62e-05,0.231,0.866,0.000552,9,0.29,-5.131,1,0.0517,138.311,4,https://api.spotify.com/v1/tracks/76Je5Wklky23mVoxiRszcN,0.191,68
+297,Foo Fighters,Bridge Burning,4.7744333333333335,2.86e-05,0.42,0.914,0.0282,6,0.22,-4.322,0,0.0431,170.199,4,https://api.spotify.com/v1/tracks/0bHD1nLe7Nhw55ZGJ92332,0.301,57
+298,Sum 41,Pieces,3.02755,0.00799,0.452,0.844,0.0087,5,0.32,-5.238,1,0.0342,99.92,4,https://api.spotify.com/v1/tracks/4D6k7r6H97vB0ErRTedQPK,0.549,53
+299,Sum 41,Handle This,3.6171,6.69e-05,0.326,0.88,5.22e-05,2,0.177,-4.763,1,0.0571,164.387,4,https://api.spotify.com/v1/tracks/6qi4wZ9nexHsIVWFFgE3wW,0.562,40
+300,Sum 41,Goddamn I'm Dead Again,3.36785,6.15e-05,0.362,0.984,0.132,8,0.341,-3.439,1,0.123,177.976,4,https://api.spotify.com/v1/tracks/1WXKBNlQstOm9sCqpHPB3f,0.311,51
+301,Sum 41,Blood In My Eyes,4.278433333333333,0.000716,0.198,0.909,0.0113,4,0.345,-5.473,0,0.0699,90.034,3,https://api.spotify.com/v1/tracks/6sfU2LwBKxjbukPZnUbGtt,0.32,39
+302,Sum 41,Screaming Bloody Murder,3.410433333333333,0.000658,0.363,0.99,0.0,8,0.271,-4.213,1,0.189,189.941,4,https://api.spotify.com/v1/tracks/1zqAXXA12UEVS7iDmAVeay,0.153,45
+303,Sum 41,Walking Disaster,4.772883333333334,0.0057,0.285,0.943,0.0,11,0.151,-3.06,1,0.0957,111.231,4,https://api.spotify.com/v1/tracks/7xuhVUJmBpHR276Yc7AsgW,0.429,47
+304,Linkin Park,BURN IT DOWN,3.83755,0.0143,0.585,0.972,0.0,9,0.0707,-4.45,0,0.0534,110.006,4,https://api.spotify.com/v1/tracks/7oVEtyuv9NBmnytsCIsY5I,0.585,71
+305,Linkin Park,Somewhere I Belong,3.56555,0.00038,0.451,0.951,2.39e-06,1,0.261,-3.754,1,0.0645,162.065,4,https://api.spotify.com/v1/tracks/1d5UuboIPRMD4HaU3yycKC,0.442,59
+306,Linkin Park,One More Light,4.2511,0.904,0.593,0.2,0.0,8,0.0897,-11.063,1,0.0311,83.966,4,https://api.spotify.com/v1/tracks/3xXBsjrbG1xQIm1xv1cKOt,0.17,75
+307,Three Days Grace,Life Starts Now,3.1346666666666665,0.0014,0.234,0.835,0.0,0,0.143,-3.952,1,0.0446,162.064,3,https://api.spotify.com/v1/tracks/4Rtc87aysfzgqRMFcSqWme,0.323,50
+308,Three Days Grace,On My Own,3.096,0.0201,0.566,0.848,0.0,7,0.216,-4.103,1,0.0376,117.02,4,https://api.spotify.com/v1/tracks/4FGQwSKgEykxtBwb2px8ug,0.268,54
+309,Three Days Grace,It's All Over,4.155333333333333,0.00305,0.321,0.82,0.0,0,0.34,-4.459,0,0.0422,166.859,4,https://api.spotify.com/v1/tracks/2QZxpZDfJjhEGclSszvMVX,0.198,54
+310,Three Days Grace,Bitter Taste,4.012883333333333,0.000764,0.491,0.91,1.43e-06,5,0.326,-2.812,0,0.0464,78.06,4,https://api.spotify.com/v1/tracks/1cYtqvYDbuzjgSJsAkTRaH,0.345,54
+311,Panic! At The Disco,Nine In The Afternoon - Radio Mix,3.1926666666666668,0.0843,0.405,0.689,0.0,10,0.207,-5.75,1,0.0365,155.189,4,https://api.spotify.com/v1/tracks/1S30kHvkkdMkcuCTGSgS41,0.397,66
+312,Panic! At The Disco,The Ballad Of Mona Lisa,3.778,0.000362,0.436,0.893,0.0,9,0.103,-4.18,0,0.0556,124.113,4,https://api.spotify.com/v1/tracks/5rLi8B8qgk6qThwRnKHW2P,0.0794,70
+313,Panic! At The Disco,Time To Dance,3.3671,0.0135,0.426,0.97,0.0,9,0.291,-2.512,0,0.164,170.196,4,https://api.spotify.com/v1/tracks/4C2i4NymWRem1LOVEqwWV6,0.431,58
+314,Weezer,Perfect Situation,4.238883333333333,0.0321,0.474,0.79,0.000149,6,0.246,-4.012,1,0.0319,93.828,4,https://api.spotify.com/v1/tracks/1D7UBHqaPWDbBHs2S5YXge,0.427,53
+315,Weezer,(If You're Wondering If I Want You To) I Want You To,3.47955,0.0016,0.7,0.878,0.000221,11,0.127,-5.727,0,0.0411,110.013,4,https://api.spotify.com/v1/tracks/7akwKkIS6sp7Orbq7LEj5a,0.777,43
+316,Weezer,Holiday,3.41555,0.000484,0.487,0.802,1.51e-05,8,0.197,-6.989,1,0.0435,120.177,3,https://api.spotify.com/v1/tracks/5vkkhwtKWnGkFu3tagE71D,0.345,48
+317,Weezer,My Name Is Jonas,3.4048833333333333,0.000278,0.294,0.923,0.00117,11,0.275,-5.198,1,0.0468,185.929,3,https://api.spotify.com/v1/tracks/4nzyOwogJuWn1s6QuGFZ6w,0.576,50
+318,Paramore,All I Wanted,3.7631,0.0192,0.494,0.723,0.0322,6,0.134,-4.559,0,0.0441,144.036,4,https://api.spotify.com/v1/tracks/1Bv3h7Vc4AaYA2BcSM3rVd,0.152,57
+319,Paramore,Playing God,3.046666666666667,0.00105,0.583,0.96,2.97e-05,1,0.0801,-3.597,0,0.0511,137.991,4,https://api.spotify.com/v1/tracks/7hInOqJnlEayXao08yVYAn,0.626,59
+320,OneRepublic,Love Runs Out,3.7371,0.165,0.714,0.933,0.0,7,0.111,-3.714,1,0.0571,120.019,4,https://api.spotify.com/v1/tracks/5BJSZocnCeSNeYMj3iVqM7,0.714,62
+321,Finger Eleven,Paralyzer,3.4684333333333335,0.169,0.645,0.941,0.0,4,0.251,-3.425,0,0.0448,106.015,4,https://api.spotify.com/v1/tracks/28IEbk5a7twNTbUEvWslUb,0.881,66
+322,Fall Out Boy,"Champagne For My Real Friends, Real Pain For My Sham Friends",3.3968833333333333,0.000715,0.439,0.962,0.0,0,0.72,-3.276,1,0.101,160.195,4,https://api.spotify.com/v1/tracks/78A2FZKzGtkaIIlov5te9S,0.533,49
+323,Fall Out Boy,Dead On Arrival,3.24155,0.0002,0.543,0.968,0.0,0,0.539,-4.028,1,0.0702,100.982,4,https://api.spotify.com/v1/tracks/7naGWci9bflvfdzxphFjAw,0.494,53
+324,Fall Out Boy,Grand Theft Autumn/Where Is Your Boy,3.18955,0.000706,0.628,0.886,0.0,2,0.275,-3.805,1,0.0608,135.45,4,https://api.spotify.com/v1/tracks/3JOdLCIBzQYwHIvpN3isVf,0.72,61
+325,Fall Out Boy,The Pros And Cons Of Breathing,3.358433333333333,4.59e-05,0.498,0.958,0.0,8,0.0841,-3.454,0,0.103,87.269,4,https://api.spotify.com/v1/tracks/3koOoLN69AAiw5JCQNaZMe,0.753,46
+326,Fall Out Boy,Tell That Mick He Just Made My List Of Things To Do Today,3.5071,0.000617,0.444,0.963,0.0,1,0.202,-3.565,0,0.108,197.073,4,https://api.spotify.com/v1/tracks/6mCjOSXkABONouTVa6PQOy,0.418,51
+327,Fall Out Boy,Thriller,3.4953333333333334,0.00687,0.372,0.898,5.6e-06,2,0.316,-3.338,1,0.118,178.829,4,https://api.spotify.com/v1/tracks/07kBp5VuebubsozpQd3nyK,0.299,48
+328,Fall Out Boy,The Carpal Tunnel Of Love,3.3973333333333335,0.00342,0.463,0.949,3.88e-06,2,0.316,-2.753,0,0.051,140.824,4,https://api.spotify.com/v1/tracks/6FAUi2Xm6RCF0wpwG8oXGZ,0.632,46
+329,Fall Out Boy,The (Shipped) Gold Standard,3.3133333333333335,0.00498,0.443,0.766,0.0,8,0.226,-4.281,0,0.038,172.015,4,https://api.spotify.com/v1/tracks/26TpDCzZwjrYUZkua2X6HF,0.785,47
+330,New Found Glory,Situations,3.455766666666667,0.000338,0.524,0.983,0.000144,2,0.111,-3.215,1,0.0642,87.973,4,https://api.spotify.com/v1/tracks/4ACIgHDvwrCUtnv0KZYAq7,0.604,45
+331,Paramore,Looking Up,3.4904333333333333,0.000125,0.416,0.98,0.0,4,0.332,-2.175,1,0.108,195.972,4,https://api.spotify.com/v1/tracks/3mzV0WDATjcpzcTNK2TLJw,0.612,52
+332,Green Day,Give Me Novacaine/She's A Rebel,5.4366666666666665,0.00185,0.312,0.949,1.78e-05,9,0.0569,-3.533,1,0.0784,154.795,4,https://api.spotify.com/v1/tracks/11I3KKHv7g2pXiuqRDabRA,0.65,54
+333,Green Day,Minority,2.8037666666666667,0.00576,0.551,0.965,0.0,0,0.171,-2.772,1,0.0452,137.841,4,https://api.spotify.com/v1/tracks/4qjfQnccStTR8zNsb6Mizo,0.708,59
+334,Green Day,Extraordinary Girl/Letterbomb,7.666666666666667,0.00089,0.317,0.958,0.000184,9,0.103,-4.051,1,0.0989,137.921,4,https://api.spotify.com/v1/tracks/3RBXNeUbe3X7ZBch00D2St,0.422,51
+335,Green Day,Bouncing Off the Wall,2.6597666666666666,0.000495,0.518,0.944,3.05e-05,4,0.426,-4.602,1,0.055,128.994,4,https://api.spotify.com/v1/tracks/2OEXuupzwtyc5kufQE6QLY,0.678,51
+336,Green Day,Restless Heart Syndrome,4.327333333333334,0.0013,0.253,0.826,1.6e-06,2,0.0735,-4.654,0,0.0309,164.228,4,https://api.spotify.com/v1/tracks/0CHmnY1V3tmxrIZAkpyxNh,0.424,46
+337,All Time Low,Lost In Stereo,3.7911,0.00315,0.471,0.963,0.0,10,0.244,-3.795,1,0.0572,150.033,4,https://api.spotify.com/v1/tracks/5sB6K9vUUDl2nQQwApqQB1,0.581,43
+338,All Time Low,A Party Song (The Walk of Shame),2.9862166666666665,0.014,0.548,0.958,0.0,3,0.122,-2.981,1,0.041,98.986,4,https://api.spotify.com/v1/tracks/2F0cf9kFigeAQu3M3UMv9z,0.612,37
+339,All Time Low,Walls,3.1862166666666667,0.00795,0.489,0.967,0.0,7,0.0616,-3.168,1,0.151,153.037,4,https://api.spotify.com/v1/tracks/5Jwk62CLEKZAAEthF7TqfY,0.397,36
+340,All Time Low,Backseat Serenade,3.35125,6.58e-05,0.512,0.965,3.06e-05,6,0.191,-3.7,1,0.0456,140.07,4,https://api.spotify.com/v1/tracks/0WKIGF4Bm3YdjIq4n0ID9x,0.483,51
+341,All Time Low,For Baltimore,3.1498666666666666,7.57e-05,0.363,0.952,0.0,11,0.0887,-4.153,1,0.0664,166.727,4,https://api.spotify.com/v1/tracks/4bKE8zuzZg8e3fNdpK7QY9,0.46,44
+342,All Time Low,To Live and Let Go,3.7215,0.00015,0.405,0.985,0.0,6,0.231,-2.952,1,0.065,174.956,3,https://api.spotify.com/v1/tracks/5lVdGChswnVeJu95CzdChy,0.662,42
+343,All Time Low,Under A Paper Moon,3.018666666666667,0.00182,0.48,0.992,0.0,4,0.318,-2.408,1,0.096,152.99,4,https://api.spotify.com/v1/tracks/5iQ0q8OkIrWoJZiChvcMO6,0.511,36
+344,The Killers,A Dustland Fairytale,3.752666666666667,0.0533,0.441,0.87,3.7e-06,2,0.0936,-4.845,1,0.057,134.469,4,https://api.spotify.com/v1/tracks/1MrqlDkxsrMsxHni2Yb9Tx,0.274,52
+345,The Killers,All These Things That I've Done,5.0262166666666666,0.00192,0.558,0.74,8.97e-06,6,0.129,-6.22,1,0.0448,118.293,4,https://api.spotify.com/v1/tracks/0kYUrLVQOfx21xuXu7OGrT,0.217,67
+346,The Killers,Bones,3.783333333333333,0.000853,0.471,0.89,0.163,9,0.0818,-3.561,1,0.0652,139.533,4,https://api.spotify.com/v1/tracks/4shKoD4U0rsE6UDjyPEjyK,0.557,55
+347,Paramore,Now,4.181333333333333,0.000569,0.419,0.951,0.000342,0,0.196,-3.201,1,0.0897,161.922,4,https://api.spotify.com/v1/tracks/0LBz07gAdgUukYvpFyW87y,0.326,56
+348,Waterparks,Stupid for You,3.1924,0.024,0.581,0.922,0.0,1,0.202,-3.408,0,0.0666,118.408,4,https://api.spotify.com/v1/tracks/1N7Aep1OewK9diaN9WbuuR,0.596,55
+349,Waterparks,Blonde,3.3451,0.0056,0.577,0.934,0.0,7,0.0484,-3.999,1,0.128,137.003,4,https://api.spotify.com/v1/tracks/6Donz2zn7kxsRyA7g5l158,0.54,53
+350,Muse,Muscle Museum,4.382883333333333,0.00779,0.447,0.534,0.000125,6,0.0933,-7.502,1,0.0345,79.99,4,https://api.spotify.com/v1/tracks/5rupf5kRDLhhFPxH15ZmBF,0.373,56
+351,Muse,Hyper Music,3.358433333333333,1.23e-05,0.27,0.91,0.000187,7,0.133,-4.544,1,0.0851,121.386,4,https://api.spotify.com/v1/tracks/3LwfE3USKwANPjPz34iGDZ,0.397,38
+352,Muse,Starlight,4.00355,0.000436,0.55,0.874,1.02e-05,4,0.206,-4.046,1,0.0321,121.61,4,https://api.spotify.com/v1/tracks/3skn2lauGk7Dx6bVIt5DVj,0.318,71
+353,Muse,Hysteria,3.7906666666666666,0.000456,0.412,0.92,0.0026,9,0.11,-4.852,0,0.0575,93.162,4,https://api.spotify.com/v1/tracks/7xyYsOvq5Ec3P4fr6mM9fD,0.455,67
+354,Muse,Unnatural Selection,6.916,0.000337,0.327,0.918,0.246,7,0.0679,-5.067,1,0.0623,161.088,4,https://api.spotify.com/v1/tracks/28FJMlLUu9NHuwlZWFKDn7,0.107,54
+355,Muse,Reapers,5.992,3.33e-05,0.421,0.892,0.00331,7,0.141,-4.235,1,0.0564,95.866,4,https://api.spotify.com/v1/tracks/1244xKUG27TnmQhUJlo3gU,0.398,60
+356,Muse,Stockholm Syndrome,4.95,0.00187,0.434,0.977,0.166,2,0.347,-4.845,1,0.0786,128.223,4,https://api.spotify.com/v1/tracks/5VVWgWH8HFLAtM8lbttvn9,0.0939,59
+357,Muse,Butterflies and Hurricanes,5.028883333333333,0.31,0.42,0.691,0.0427,9,0.109,-8.56,1,0.0501,115.326,4,https://api.spotify.com/v1/tracks/0xJLcjd0gaZct43xG1UlXS,0.0383,55
+358,My Chemical Romance,Welcome to the Black Parade,5.1851,0.000289,0.217,0.905,0.00011,2,0.222,-4.103,1,0.0752,96.95,4,https://api.spotify.com/v1/tracks/5wQnmLuC1W7ATsArWACrgW,0.236,76
+359,The All-American Rejects,Gives You Hell,3.5517666666666665,0.0156,0.714,0.725,0.0,4,0.0726,-6.411,1,0.0402,99.988,4,https://api.spotify.com/v1/tracks/6ihL9TjfRjadfEePzXXyVF,0.59,70
+360,Linkin Park,Leave Out All The Rest,3.4884333333333335,0.209,0.509,0.629,1.99e-06,0,0.369,-6.434,1,0.0335,80.012,4,https://api.spotify.com/v1/tracks/0sp00HSXkQyqTa6QqM0O8V,0.237,68
+361,Linkin Park,Waiting For The End,3.8613333333333335,0.0415,0.487,0.961,1.15e-06,4,0.553,-4.139,1,0.132,170.005,4,https://api.spotify.com/v1/tracks/01pOtDU5YHWbxuNBzlRUem,0.323,57
+362,Green Day,Are We The Waiting/St. Jimmy,5.635766666666667,0.00016,0.276,0.909,4.76e-06,9,0.0933,-3.664,1,0.0618,138.497,4,https://api.spotify.com/v1/tracks/42d6bxB7OQ6f8ct2ihYNBw,0.344,54
+363,Green Day,Extraordinary Girl/Letterbomb,7.666666666666667,0.00089,0.317,0.958,0.000184,9,0.103,-4.051,1,0.0989,137.921,4,https://api.spotify.com/v1/tracks/2M38zNMI7gCoCwfEUZQPq5,0.422,50
+364,Green Day,Waiting,3.206,0.0219,0.557,0.834,0.0,8,0.329,-4.371,1,0.0335,137.69,4,https://api.spotify.com/v1/tracks/390SemxFYgPZ3FfGVqiIqt,0.659,54
+365,Broadside,Coffee Talk,2.902433333333333,0.000298,0.287,0.96,0.00364,8,0.375,-2.856,1,0.144,173.998,4,https://api.spotify.com/v1/tracks/0wNhTMsDRLWAPxGOQRqkOR,0.457,55
+366,Paramore,Turn It Off,4.328666666666667,8.08e-05,0.573,0.902,0.000102,0,0.304,-3.209,1,0.0299,111.944,4,https://api.spotify.com/v1/tracks/0q99swv2f9L5m8JHkF3sDC,0.304,54
+367,Paramore,Careful,3.8406666666666665,0.00019,0.417,0.945,8.63e-05,8,0.2,-3.703,1,0.0805,164.997,4,https://api.spotify.com/v1/tracks/63L9AjBDN3SOMbJlBkFqiZ,0.607,55
+368,blink-182,Story Of A Lonely Guy,3.6611,0.00112,0.556,0.889,0.000371,9,0.565,-4.345,1,0.0335,152.109,4,https://api.spotify.com/v1/tracks/6c9UjtsLpfK5hTwTrdRDbR,0.554,48
+369,blink-182,Reckless Abandon,3.102883333333333,0.0017,0.508,0.967,0.0,11,0.548,-3.857,1,0.111,124.914,4,https://api.spotify.com/v1/tracks/4N9fFHRxns1B86F8YTneBz,0.512,50
+370,Green Day,Prosthetic Head,3.6342166666666667,0.00125,0.408,0.915,3.83e-05,4,0.0351,-5.124,1,0.0451,137.444,4,https://api.spotify.com/v1/tracks/76XpBAo45nP84Mq3hx3wVX,0.854,42
+371,Green Day,Platypus (I Hate You),2.3573333333333335,5.36e-06,0.227,0.985,2.57e-06,4,0.0621,-4.451,0,0.0905,172.726,4,https://api.spotify.com/v1/tracks/6SFL3a2JotvZFwTiggc4cb,0.606,44
+372,Green Day,Revolution Radio,3.0142166666666665,4.63e-05,0.419,0.971,1.43e-05,7,0.171,-3.622,1,0.0909,180.033,4,https://api.spotify.com/v1/tracks/3oqYMRKQcwyNmFn1VD2ukD,0.677,61
+373,Green Day,Bang Bang,3.424,0.000326,0.499,0.958,2.19e-06,9,0.432,-5.417,1,0.0898,127.491,4,https://api.spotify.com/v1/tracks/278Ao6KQDxWGGszv24uvhI,0.359,64
+374,AFI,Love Like Winter,2.760883333333333,0.000363,0.59,0.912,5.14e-05,10,0.0437,-4.815,0,0.0614,120.008,4,https://api.spotify.com/v1/tracks/3cDE9Yn4GrsxSrlMCLdmTT,0.535,47
+375,CHVRCHES,Get Out,3.8564333333333334,0.0011,0.482,0.853,0.0498,3,0.229,-4.15,1,0.0331,162.058,4,https://api.spotify.com/v1/tracks/5MbeIktglgTouqOHnVunxp,0.196,55
+376,Seether,Got It Made,5.168216666666667,0.000576,0.605,0.827,0.000237,6,0.0967,-3.866,0,0.0316,127.684,4,https://api.spotify.com/v1/tracks/4erfKUZFnZsxZnvMe2auoh,0.459,35
+377,I Prevail,My Heart I Surrender,3.4511166666666666,0.603,0.499,0.516,5.22e-06,2,0.111,-6.896,1,0.0275,133.145,4,https://api.spotify.com/v1/tracks/1MZxQrYszhFP3Sb603swtM,0.338,0
+378,A Day To Remember,Have Faith In Me,3.1468833333333333,7.12e-05,0.507,0.933,0.0,0,0.105,-4.7,1,0.0868,149.998,4,https://api.spotify.com/v1/tracks/3pJQ5ziSj0QTCQg3Qt6BI8,0.714,49
+379,Highly Suspect,Serotonia,5.856433333333333,0.000372,0.297,0.506,0.000225,2,0.104,-6.609,1,0.033,140.716,4,https://api.spotify.com/v1/tracks/0aaOrTcwzvbTni3zUarEaT,0.11,56
+380,WALK THE MOON,Anna Sun,5.354666666666667,0.00173,0.472,0.844,0.0,10,0.24,-6.578,1,0.054,140.034,4,https://api.spotify.com/v1/tracks/3e0yTP5trHBBVvV32jwXqF,0.34,66
+381,WALK THE MOON,Kamikaze,3.27555,0.0158,0.575,0.694,0.0,1,0.108,-5.675,1,0.0709,77.539,4,https://api.spotify.com/v1/tracks/3YQ96qkxiEwTLwgu2Izcmq,0.442,67
+382,WALK THE MOON,Avalanche,3.6453333333333333,0.00059,0.594,0.858,3.11e-06,9,0.0642,-4.339,1,0.0387,138.021,4,https://api.spotify.com/v1/tracks/3JxaZPq4UjkOaxnpyMUtAC,0.663,60
+383,WALK THE MOON,Work This Body,2.931766666666667,0.0283,0.421,0.831,0.0,4,0.464,-5.128,1,0.107,134.027,4,https://api.spotify.com/v1/tracks/76EeScTnI2sCjDY0SfEoSb,0.488,61
+384,WALK THE MOON,Aquaman,4.0,0.51,0.63,0.772,2.26e-05,1,0.0881,-6.986,1,0.0297,99.964,4,https://api.spotify.com/v1/tracks/71wT7aMCFPYfzutF66OLac,0.721,51
+385,WALK THE MOON,Jenny,4.08555,0.000366,0.544,0.788,0.0,5,0.141,-5.593,0,0.0474,148.121,4,https://api.spotify.com/v1/tracks/7eMpW9I1ZpVs6VQ90naDBh,0.818,55
+386,WALK THE MOON,Tightrope,3.4864333333333333,8.39e-05,0.467,0.794,0.00204,1,0.103,-6.174,0,0.0349,162.435,4,https://api.spotify.com/v1/tracks/44psOy0D0SP8rcIiUgKgBs,0.589,57
+387,WALK THE MOON,Quesadilla,3.2546666666666666,0.0019,0.551,0.732,0.0,9,0.0764,-6.081,1,0.0627,145.107,4,https://api.spotify.com/v1/tracks/2CdNHP8DJ5tfbRoIRdcTeE,0.635,51
+388,WALK THE MOON,Portugal,4.020883333333333,0.00749,0.446,0.881,0.0,2,0.13,-4.368,1,0.0545,169.889,4,https://api.spotify.com/v1/tracks/3MYWKl8ScgDu3sAvyneMCG,0.415,55
+389,My Chemical Romance,Dead!,3.2586666666666666,0.0037,0.481,0.973,0.000877,7,0.325,-1.945,1,0.0542,99.331,4,https://api.spotify.com/v1/tracks/0uukw2CgEIApv4IWAjXrBC,0.362,63
+390,Panic! At The Disco,Ready to Go [Get Me Out Of My Mind],3.6171,0.000463,0.57,0.922,0.000188,0,0.363,-5.433,1,0.0424,135.01,4,https://api.spotify.com/v1/tracks/7m4HUtdXRUHEitLIqbVWxf,0.32,62
+391,Snow Patrol,Chasing Cars,4.46555,0.193,0.557,0.609,7.69e-05,9,0.135,-4.463,1,0.0259,104.01,4,https://api.spotify.com/v1/tracks/11bD1JtSjlIgKgZG2134DZ,0.172,74
+392,Muse,Time Is Running Out,3.95065,0.00242,0.585,0.842,0.00686,9,0.0866,-5.883,0,0.0556,118.211,4,https://api.spotify.com/v1/tracks/2takcwOaAZWiXQijPHIx7B,0.428,67
+393,Rooney,When Did Your Heart Go Missing?,3.55555,0.00182,0.599,0.925,0.0,7,0.0348,-3.915,1,0.0498,175.771,4,https://api.spotify.com/v1/tracks/60okmgzrYnFh2nXfi0XxWR,0.969,52
+394,Coldplay,Yellow,4.4462166666666665,0.00239,0.429,0.661,0.00013,11,0.234,-7.227,1,0.0281,173.365,4,https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg,0.285,81
+395,The Smashing Pumpkins,1979,4.4366666666666665,0.0166,0.765,0.788,0.588,3,0.0513,-9.896,1,0.0332,126.879,4,https://api.spotify.com/v1/tracks/3Y8Ff1nH44jFywAtpgmleZ,0.964,71
+396,Coldplay,Talk,5.188183333333333,0.00548,0.413,0.557,0.00227,7,0.155,-10.841,0,0.0335,120.318,4,https://api.spotify.com/v1/tracks/4wzt5Rrk3W98pHXAqutuJw,0.158,62
+397,My Chemical Romance,Bulletproof Heart,4.94555,0.00033,0.405,0.95,3.47e-06,6,0.108,-2.8,1,0.071,139.715,4,https://api.spotify.com/v1/tracks/2EGF4JrisrJ4D4HOdTyYEO,0.383,56
+398,Lifehouse,Hanging By A Moment,3.6011,0.000983,0.531,0.855,0.0,1,0.0716,-4.95,1,0.0352,124.578,4,https://api.spotify.com/v1/tracks/0wqOReZDnrefefEsrIGeR4,0.424,64
+399,Plain White T's,Hey There Delilah,3.87555,0.886,0.651,0.293,0.0,2,0.112,-10.575,1,0.0279,104.063,4,https://api.spotify.com/v1/tracks/4RCWB3V8V0dignt99LZ8vH,0.313,72
+400,Dashboard Confessional,Vindicated,3.355766666666667,0.0328,0.517,0.79,0.0,8,0.084,-3.334,1,0.0323,85.983,4,https://api.spotify.com/v1/tracks/1EotcFbWTbMCXeKFVEtX6Y,0.357,57
+401,The Maine,Black Butterflies and Déjà Vu,3.3842833333333333,0.0364,0.45,0.945,4.38e-05,5,0.22,-4.515,1,0.103,167.948,4,https://api.spotify.com/v1/tracks/6QZ8h3RqIgTRTo3hfaqryx,0.505,62
+402,The Maine,Bad Behavior,3.1718,0.00468,0.575,0.983,3.61e-06,2,0.371,-2.683,1,0.112,102.978,4,https://api.spotify.com/v1/tracks/4Kc1BGRuyicJaqIXi3Rysi,0.671,60
+403,Panic! At The Disco,High Hopes,3.1824333333333334,0.193,0.579,0.904,0.0,5,0.064,-2.729,1,0.0618,82.014,4,https://api.spotify.com/v1/tracks/2djdCbLj1pzRmrDNe7PkW2,0.681,81
+404,DON BROCO,Pretty,3.59355,0.0144,0.704,0.874,3.73e-05,9,0.422,-4.866,0,0.094,107.549,4,https://api.spotify.com/v1/tracks/3qKle2dRbjUW5kt9XKLsr0,0.607,53
