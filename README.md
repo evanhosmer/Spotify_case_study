@@ -9,7 +9,7 @@ For this project, I explored the popularity of songs from three of my personal p
 
 ## Data Source:
 
-By using the Spotify API and the python library called Spotipy, audio features for each song were pulled into a dataframe. Similarly, these tracks all have a metric called popularity which were extracted and placed into the same dataframe and used as the target for linear regression. The dataset for logistic regression was acquired from Kaggle where the user used the same process with the API to generate the audio features data. This dataset contains 1000 songs that the user liked and 1000 that the user did not like, which was used as the target for logistic regression.
+By using the Spotify API and the python library called `Spotipy`, audio features for each song were pulled into a dataframe. Similarly, these tracks all have a metric called popularity which were extracted and placed into the same dataframe and used as the target for linear regression. The dataset for logistic regression was acquired from Kaggle where the user used the same process with the API to generate the audio features data. This dataset contains 1000 songs that the user liked and 1000 that the user did not like, which was used as the target for logistic regression.
 
 Some of the main audio features included are:
 - Danceability (how suitable a song is for dancing)
