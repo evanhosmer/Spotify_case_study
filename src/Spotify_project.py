@@ -359,21 +359,11 @@ def model_comparison(X_train, X_test, y_train, y_test):
     print("Final EN RMSE: {:2.3f}".format(np.sqrt(final_en_rss)))
 
 def bootstrap_train(model, X, y, bootstraps=1000, **kwargs):
-    """Train a (linear) model on multiple bootstrap samples of some data and
-    return all of the parameter estimates.
-    Parameters
-    ----------
-    model: A sklearn class whose instances have a `fit` method, and a `coef_`
-    attribute.
-    X: A two dimensional numpy array of shape (n_observations, n_features).
-
-    y: A one dimensional numpy array of shape (n_observations).
-    bootstraps: An integer, the number of boostrapped models to train.
-    Returns
-    -------
-    bootstrap_coefs: A (bootstraps, n_features) numpy array.  Each row contains
-    the parameter estimates for one trained boostrapped model.
-    """
+    '''
+    INPUT: Model, numpy array of features, numpy array of target, number of
+           bootstrap samples
+    OUTPUT: bootstrap models for each sample
+    '''
     bootstrap_models = []
     for i in range(bootstraps):
         boot_idxs = np.random.choice(X.shape[0], size=X.shape[0], replace=True)
@@ -397,8 +387,10 @@ def get_bootstrap_coefs(bootstrap_models):
     return bootstrap_coefs
 
 def plot_bootstrap_coefs(models, coef_names, n_col=4):
-    """Plot histograms of the bootstrapped parameter estimates from a model.
-    """
+    '''
+    INPUT: Bootstrapped models, numpy array of coefficient names
+    OUTPUT: histograms of the bootstrapped parameter estimates from a model.
+    '''
     bootstrap_coefs = get_bootstrap_coefs(models)
     n_coeffs = bootstrap_coefs.shape[1]
 #     n_row = int(ceil(n_coeffs / n_col)) + 1
