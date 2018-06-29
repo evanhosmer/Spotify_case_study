@@ -1,4 +1,4 @@
-# Investigating Audio Features using Spotify Data
+# Analyzing Audio Features Using Spotify Data
 
 ## Project Description:
 
