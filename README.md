@@ -55,6 +55,7 @@ Ultimately the EDA was devoid of any discernible insights. The plots did not sho
 For this study, I performed the following for feature engineering:
 - Converted the duration data from ms to minutes.
 - Used dummy variables for the three different genres.
+- Log transform of features most right skewed.
 
 ## Part 1: Linear Regression
 Using regular linear regression, the studentized residuals
