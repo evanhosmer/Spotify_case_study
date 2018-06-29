@@ -1,0 +1,594 @@
+,Artist,Title,Duration(m),acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,valence,Popularity
+0,Abandon All Ships,Take One Last Breath,3.6597666666666666,0.00115,0.313,0.961,0.0,5,0.12,-4.51,1,0.193,138.721,4,https://api.spotify.com/v1/tracks/2tpQV2QzHhviFMsJWpK8bR,0.21,45
+1,Adept,Death Dealers,3.3848833333333332,0.00205,0.46,0.871,0.144,5,0.566,-6.261,1,0.118,91.046,4,https://api.spotify.com/v1/tracks/1oGNZv18BpWpXx7d5PdSwc,0.211,25
+2,Adept,From the Depths of Hell,3.9424333333333332,3.42e-05,0.177,0.959,1.94e-05,8,0.403,-4.964,1,0.0721,87.847,4,https://api.spotify.com/v1/tracks/6AAj9C5weV6Z5hcuxPYLKf,0.308,27
+3,Adept,Hope,2.830433333333333,7.06e-06,0.387,0.947,0.172,8,0.141,-5.014,1,0.0692,97.544,4,https://api.spotify.com/v1/tracks/6jpABYYFMdYqPKP1dNtJNt,0.213,26
+4,Adept,Shark! Shark! Shark!,4.323316666666667,0.000606,0.389,0.886,0.000526,7,0.338,-2.815,0,0.0816,97.798,4,https://api.spotify.com/v1/tracks/5vqLZXjnxaPL1wpJ2oY1jN,0.207,39
+5,Adept,Sound the Alarm,4.644666666666667,3.97e-05,0.402,0.931,2.35e-05,7,0.35,-2.221,0,0.0561,97.62,4,https://api.spotify.com/v1/tracks/6cezG1hzez2rX6O72cwxBV,0.239,39
+6,Adept,"At Least Give Me My Dreams Back, You Negligent Whore!",5.184433333333334,0.000102,0.427,0.887,7.96e-05,6,0.357,-2.419,0,0.0537,101.011,4,https://api.spotify.com/v1/tracks/7JqCTw6vmJc8jzqIXCYLhF,0.339,48
+7,Adept,"Grow Up, Peter Pan",3.4793333333333334,0.00025,0.313,0.929,0.0,9,0.319,-2.787,1,0.11,200.199,4,https://api.spotify.com/v1/tracks/23xmDqTpfZzBOXq4SpPVwo,0.282,38
+8,Adept,Everything Dies,6.024666666666667,5.91e-05,0.371,0.923,0.00108,9,0.357,-4.333,0,0.0753,154.982,4,https://api.spotify.com/v1/tracks/5V84CYJPs1i2Qoh3t5U5o9,0.0932,25
+9,After The Burial,Lost In The Static,4.553233333333333,0.000989,0.602,0.955,0.0133,6,0.207,-4.888,1,0.154,126.009,4,https://api.spotify.com/v1/tracks/6iGXUJW99KAwbRiwxIjKPU,0.193,0
+10,After The Burial,A Wolf Amongst Ravens,5.137033333333333,0.000225,0.483,0.975,0.166,1,0.128,-6.839,1,0.0526,136.019,3,https://api.spotify.com/v1/tracks/7pwkMTD1dDqHZyCuUko2Aw,0.301,49
+11,All That Remains,This Calling,3.6422166666666667,1.05e-05,0.542,0.988,0.000319,2,0.317,-2.661,0,0.0878,108.061,4,https://api.spotify.com/v1/tracks/47iP5sZyWr9bZFYEohhOP0,0.25,0
+12,All That Remains,Not Alone,3.5,4.74e-05,0.544,0.98,0.000768,5,0.27,-2.648,0,0.0972,102.997,4,https://api.spotify.com/v1/tracks/4B9N9yKVjE1g6BRy7nBTiB,0.291,0
+13,All That Remains,The Weak Willed,4.094216666666667,0.000177,0.509,0.945,0.0425,2,0.105,-4.004,1,0.0543,105.703,4,https://api.spotify.com/v1/tracks/5eR7uepAGMF07CRaj3VEVG,0.182,0
+14,All That Remains,Six,3.374,0.000121,0.241,0.961,0.00639,7,0.105,-3.466,1,0.0867,97.083,4,https://api.spotify.com/v1/tracks/5DYetPPTekzO0x1PJwA14z,0.169,0
+15,All That Remains,Empty Inside,3.375766666666667,9.12e-06,0.339,0.976,0.0149,2,0.0937,-2.967,1,0.11,102.177,4,https://api.spotify.com/v1/tracks/0bVHuYFYhfI2KVIXhZ6x7I,0.318,0
+16,All That Remains,For We Are Many,2.99355,0.000419,0.546,0.986,0.00175,6,0.361,-2.279,0,0.053,104.986,4,https://api.spotify.com/v1/tracks/1YjQg8FMoplbigdmBOHqqX,0.381,0
+17,All That Remains,Before The Damned,2.894216666666667,0.00194,0.467,0.974,0.0092,8,0.105,-3.853,0,0.0956,171.985,4,https://api.spotify.com/v1/tracks/4aWXILqrliDWdnNX2urH7M,0.445,0
+18,All That Remains,Undone,3.2066666666666666,0.00109,0.353,0.975,1.67e-05,1,0.0761,-4.216,1,0.133,195.982,4,https://api.spotify.com/v1/tracks/1fWBsarNwJ267SboQHiKN7,0.149,0
+19,All That Remains,Chiron,4.4131,0.00109,0.413,0.957,0.0113,9,0.0756,-5.313,1,0.0988,103.045,4,https://api.spotify.com/v1/tracks/00uinskawJXZvfbrz7UXeN,0.14,0
+20,The Amity Affliction,Pittsburgh - No Intro,3.98545,0.000133,0.386,0.943,0.0,5,0.0928,-3.033,0,0.185,148.008,4,https://api.spotify.com/v1/tracks/6RcsAN8XF5KX6mMh6dum8e,0.402,61
+21,The Amity Affliction,Don't Lean On Me,3.564433333333333,9.24e-05,0.45,0.986,0.0,7,0.183,-3.544,1,0.144,141.998,4,https://api.spotify.com/v1/tracks/1X6vl2Wy5yY708C8EfRUCS,0.309,58
+22,The Amity Affliction,The Weigh Down,3.5231,0.000485,0.484,0.953,0.0,7,0.235,-3.602,1,0.107,93.984,4,https://api.spotify.com/v1/tracks/63wYoblqcJImFMIIscrkPT,0.249,47
+23,The Amity Affliction,Open Letter,4.342666666666666,4.57e-05,0.244,0.972,0.0,0,0.19,-4.703,0,0.156,143.521,4,https://api.spotify.com/v1/tracks/3FmozBceLhYhTXUfg2qtTv,0.184,56
+24,The Amity Affliction,Pabst Blue Ribbon On Ice,4.060883333333333,4.44e-05,0.374,0.978,0.0,3,0.0903,-4.215,1,0.0962,159.943,4,https://api.spotify.com/v1/tracks/5up10YQR1AU1JVmPBzet6B,0.38,44
+25,The Amity Affliction,Bondi St. Blues,4.388883333333333,0.000162,0.437,0.954,0.0,0,0.124,-3.666,0,0.0573,135.043,4,https://api.spotify.com/v1/tracks/6OvaEIqO5rUdOx3lZAQely,0.337,43
+26,The Amity Affliction,Flowerbomb,3.9924333333333335,1.8e-06,0.383,0.96,1.53e-05,1,0.347,-4.203,1,0.057,164.89,4,https://api.spotify.com/v1/tracks/03fShOmxoMwFwulNoLJDJv,0.52,40
+27,Architects,The Empty Hourglass,4.197933333333333,8.91e-05,0.282,0.933,0.00273,1,0.0845,-5.49,0,0.0529,176.455,4,https://api.spotify.com/v1/tracks/56FEvdSTKtKWhVKWbGmMw7,0.397,37
+28,Architects,Gravity,3.301616666666667,8.45e-05,0.342,0.952,0.000367,8,0.106,-4.983,0,0.143,175.001,4,https://api.spotify.com/v1/tracks/7r6mn2ZFiJh6y7zaNkwdwd,0.31,44
+29,Architects,From The Wilderness,3.74555,2.15e-05,0.239,0.942,0.000142,2,0.127,-4.626,1,0.115,186.336,3,https://api.spotify.com/v1/tracks/2fjWOrjJFlxvqxpsLUy0CO,0.17,35
+30,Architects,These Colours Don't Run,4.0231,0.000614,0.237,0.969,0.00717,8,0.106,-3.845,0,0.275,119.749,4,https://api.spotify.com/v1/tracks/63Gzrq2kU1Br77l5IOEUbV,0.0511,0
+31,Architects,Alpha Omega,3.9324333333333334,0.000112,0.373,0.987,0.00545,6,0.0831,-3.112,1,0.189,142.294,4,https://api.spotify.com/v1/tracks/2ertbhNn2vSRKxkubjMwbL,0.109,0
+32,Architects,Doomsday,4.117016666666666,3.15e-05,0.3,0.985,0.000275,6,0.0839,-3.734,0,0.265,124.925,4,https://api.spotify.com/v1/tracks/05uxnskdh9Wx4ZOwvhlUTR,0.205,53
+33,Architects,Gone With The Wind,3.763333333333333,0.000314,0.421,0.942,1.04e-06,6,0.0704,-5.289,0,0.14,77.573,4,https://api.spotify.com/v1/tracks/3F4dfVVgCVEebzMBUQ910T,0.303,18
+34,Architects,Broken Cross,3.8823166666666666,3.02e-05,0.434,0.956,0.000252,8,0.119,-4.888,1,0.141,159.977,4,https://api.spotify.com/v1/tracks/5khYt7SYG94k4o8SsfWUHK,0.174,38
+35,Architects,Naysayer,3.4277166666666665,6.05e-05,0.381,0.988,0.0,1,0.303,-3.651,1,0.12,92.575,4,https://api.spotify.com/v1/tracks/6Nh41sxeSi3vZOR0VCoaRS,0.191,39
+36,Architects,C.A.N.C.E.R,4.3204,1.99e-05,0.508,0.98,0.000633,1,0.366,-4.294,1,0.0799,112.497,4,https://api.spotify.com/v1/tracks/7wDNU4hUfNusCTHwHEz2QF,0.21,34
+37,Architects,Castles In The Air,3.7100666666666666,1.48e-05,0.338,0.959,3.55e-05,9,0.404,-3.984,1,0.109,194.9,4,https://api.spotify.com/v1/tracks/0l1uTLUmtnwuxcvN60XVfn,0.406,31
+38,Architects,A Match Made In Heaven,3.8002833333333332,4.97e-05,0.517,0.977,0.00129,7,0.105,-4.627,1,0.0741,121.503,4,https://api.spotify.com/v1/tracks/3pz8g6W2Oi5yUrXSc2D4KS,0.135,21
+39,As I Lay Dying,Cauterize,3.63155,1.36e-05,0.472,0.995,0.0103,1,0.244,-2.526,1,0.211,114.995,4,https://api.spotify.com/v1/tracks/0aypXp56jCD4GN3UxMIy4y,0.16,46
+40,As I Lay Dying,Whispering Silence,4.502666666666666,5.04e-06,0.411,0.991,0.000126,1,0.0607,-2.878,0,0.134,149.99,4,https://api.spotify.com/v1/tracks/3ghwX3sKpSZk1BCkrYQtgQ,0.385,43
+41,As I Lay Dying,Resilience,4.127766666666667,9.01e-06,0.316,0.979,0.000199,7,0.0661,-3.419,0,0.0673,148.361,4,https://api.spotify.com/v1/tracks/40QjwKmDbCSTE2z4XKXSit,0.205,44
+42,As I Lay Dying,Overcome,4.610883333333334,2.11e-05,0.291,0.99,0.000119,1,0.0807,-2.71,0,0.121,174.995,4,https://api.spotify.com/v1/tracks/4uX9aXMqpy8Lu3DVa359Pw,0.158,43
+43,As I Lay Dying,Defender,4.0793333333333335,1.25e-05,0.359,0.98,0.000974,2,0.0891,-2.736,1,0.08,99.61,4,https://api.spotify.com/v1/tracks/3TsVUm99FO2BESTHKmxCZW,0.309,45
+44,As I Lay Dying,Nothing Left,3.72755,6.34e-05,0.388,0.979,0.0567,0,0.663,-4.389,1,0.176,183.905,4,https://api.spotify.com/v1/tracks/2zy79BntQ1kumEUeqM5O84,0.0547,57
+45,As I Lay Dying,An Ocean Between Us,4.218,1.39e-05,0.437,0.997,0.00624,7,0.133,-3.95,1,0.115,112.523,4,https://api.spotify.com/v1/tracks/2wVY3XAbaIK0Kw2fzpuTSN,0.0419,49
+46,As I Lay Dying,I Never Wanted,4.7351,0.000596,0.371,0.972,9.78e-05,5,0.172,-5.055,0,0.0969,138.095,4,https://api.spotify.com/v1/tracks/0RAqGFqsW6moDVpJw4ky8c,0.133,45
+47,As I Lay Dying,The Sound Of Truth,4.346433333333334,2.02e-05,0.368,0.981,0.00549,2,0.129,-4.084,0,0.12,165.018,4,https://api.spotify.com/v1/tracks/7lYrz70DntWR7o8Sqfz0Ok,0.277,56
+48,As I Lay Dying,Anger and Apathy,4.4271,1.39e-05,0.475,0.945,0.0017,5,0.106,-4.863,0,0.0887,154.011,4,https://api.spotify.com/v1/tracks/2uKQ1p3Hqj3khZFpU8tKJl,0.604,40
+49,As I Lay Dying,Anodyne Sea,4.5811,1e-05,0.477,0.981,0.0226,6,0.125,-3.857,0,0.134,134.941,4,https://api.spotify.com/v1/tracks/5XlgvmakaU9N7IoGabsJyk,0.166,45
+50,As I Lay Dying,Parallels,4.9571,6.35e-06,0.282,0.97,0.358,7,0.385,-4.086,1,0.18,200.005,4,https://api.spotify.com/v1/tracks/50mHTNxev0bSYQhuAASe17,0.0391,51
+51,As I Lay Dying,Upside Down Kingdom,4.002,1.99e-05,0.444,0.979,0.00112,7,0.425,-5.409,1,0.166,151.999,4,https://api.spotify.com/v1/tracks/6faKQnSrAnVWk1dhYY8dXL,0.136,42
+52,As I Lay Dying,The Darkest Nights,3.863766666666667,9.49e-06,0.367,0.983,0.00049,8,0.184,-4.264,1,0.0649,175.006,4,https://api.spotify.com/v1/tracks/5URJEznfi3XiVHQCyC3sII,0.85,54
+53,As I Lay Dying,Through Struggle,3.96955,6.86e-05,0.195,0.976,0.000912,8,0.263,-4.381,1,0.0808,180.372,4,https://api.spotify.com/v1/tracks/0fmwyv8VP8Jh71e87oCHv1,0.531,51
+54,Asking Alexandria,Circled By The Wolves,3.49915,0.000533,0.154,0.976,5.65e-05,11,0.317,-3.41,0,0.246,200.022,4,https://api.spotify.com/v1/tracks/0ZITmDKp01oRCzifItydpK,0.256,42
+55,Asking Alexandria,Run Free,4.178566666666667,0.00113,0.25,0.929,0.000225,11,0.334,-5.132,0,0.0867,199.975,4,https://api.spotify.com/v1/tracks/2MFuhlzJNTPe9UMuTXuFhh,0.107,50
+56,Asking Alexandria,Into The Fire,3.96365,0.000568,0.384,0.981,4.34e-05,8,0.306,-2.238,0,0.183,174.948,4,https://api.spotify.com/v1/tracks/56LbBPU6EfIGKqSIpWNrTw,0.351,55
+57,Asking Alexandria,I Won't Give In,3.8533333333333335,0.00141,0.459,0.85,0.0,2,0.279,-4.152,1,0.0488,150.092,4,https://api.spotify.com/v1/tracks/48sPWqixR6kpwypgem58rA,0.404,2
+58,Asking Alexandria,Breathless,4.166433333333333,4.97e-05,0.319,0.995,0.00463,1,0.105,-3.611,1,0.234,159.889,4,https://api.spotify.com/v1/tracks/6BBfPO1ZdpxvdZ4WMikajX,0.146,49
+59,Asking Alexandria,Morte et Dabo,5.24955,0.00016,0.374,0.993,0.144,5,0.146,-2.952,1,0.222,105.003,4,https://api.spotify.com/v1/tracks/5sKhsH1B09qjo3WUoZN0GC,0.0342,44
+60,Asking Alexandria,Dear Insanity,3.15955,1.08e-05,0.233,0.996,0.00613,0,0.4,-1.636,0,0.16,99.913,4,https://api.spotify.com/v1/tracks/5jwttcPG6hynYxMs4mqOMp,0.0607,49
+61,Asking Alexandria,Closure,3.969333333333333,7.81e-05,0.203,0.988,0.247,8,0.534,-3.631,1,0.353,90.003,4,https://api.spotify.com/v1/tracks/5BODRfhgnHa4I5rDrkxs3x,0.137,51
+62,Asking Alexandria,To The Stage,3.5102166666666665,0.000102,0.218,0.987,0.000407,7,0.617,-2.225,1,0.222,129.803,4,https://api.spotify.com/v1/tracks/1zalQPA3y0Latbiis4motB,0.0552,51
+63,Asking Alexandria,Not The American Average,4.653766666666667,0.0305,0.236,0.892,0.0,2,0.278,-4.106,0,0.188,184.981,4,https://api.spotify.com/v1/tracks/17C4oPQ3sTpF11pi9yvGcs,0.0685,61
+64,Asking Alexandria,The Final Episode (Let's Change Channel),4.034666666666666,0.00156,0.213,0.957,0.0,3,0.394,-2.967,1,0.235,196.118,3,https://api.spotify.com/v1/tracks/0CqCpm4LLQbHUX5ysizWJS,0.157,59
+65,Asking Alexandria,A Candlelit Dinner With Inamorta,4.065333333333333,0.0133,0.225,0.988,5.75e-06,7,0.509,-2.728,1,0.198,138.375,4,https://api.spotify.com/v1/tracks/1pHnPHL2oDLZFzzI8w323Q,0.186,51
+66,Asking Alexandria,If You Can't Ride Two Horses At Once...You Should Get Out Of The Circus,3.7651,0.000715,0.299,0.965,0.0,2,0.443,-3.738,0,0.142,128.838,4,https://api.spotify.com/v1/tracks/2UPbu0k0o9SmqvckvFbDXg,0.148,49
+67,Asking Alexandria,A Prophecy,3.5606666666666666,0.00878,0.233,0.943,0.0,2,0.359,-3.443,0,0.171,149.992,4,https://api.spotify.com/v1/tracks/0Fk2NcRQpungRyAx9Y6KTk,0.0501,56
+68,Atreyu,Doomsday,3.3266666666666667,0.00164,0.441,0.975,0.0546,0,0.153,-3.528,0,0.271,163.062,4,https://api.spotify.com/v1/tracks/3zpG7VWuAZz5KWQsr4Kgag,0.241,43
+69,Atreyu,Lip Gloss & Black,5.076883333333333,0.000248,0.266,0.806,0.024,0,0.317,-7.194,0,0.0796,74.719,4,https://api.spotify.com/v1/tracks/5ozzyFmsJgcI42jIbapo8Y,0.216,0
+70,Atreyu,Ain't Love Grand,3.7211,1.39e-05,0.329,0.891,0.0008,8,0.0942,-6.084,1,0.0422,103.45,4,https://api.spotify.com/v1/tracks/5RjiUp4BxOqXTo4HSYxBq7,0.577,0
+71,Atreyu,Bleeding Mascara,2.436,0.00013,0.286,0.953,0.152,1,0.334,-4.716,1,0.154,137.458,3,https://api.spotify.com/v1/tracks/4qCRhk26eYtvbdmnvdf5kS,0.399,0
+72,Atreyu,Right Side of the Bed,3.7077666666666667,0.00168,0.253,0.926,0.00554,8,0.3,-4.83,1,0.152,171.368,4,https://api.spotify.com/v1/tracks/3NoQ4X6xYebrtzNJg8d4oi,0.722,0
+73,Atreyu,You Eclipsed By Me,3.6471,0.00257,0.378,0.957,0.213,8,0.266,-4.511,1,0.0848,157.521,4,https://api.spotify.com/v1/tracks/29UfQw5L8rcUkx8dWBPWgW,0.587,0
+74,Atreyu,The Crimson,4.030433333333334,0.00159,0.292,0.918,0.00385,5,0.212,-4.828,0,0.132,162.38,4,https://api.spotify.com/v1/tracks/48UYVUCksbY7aSdInFrU8l,0.635,0
+75,Atreyu,Demonology and Heartache,3.7082166666666665,0.00482,0.292,0.967,0.0572,2,0.626,-5.746,0,0.103,131.215,4,https://api.spotify.com/v1/tracks/0PBda1REUfKBTdD8zXEG8q,0.385,0
+76,Atreyu,Creature,2.9833333333333334,6.17e-05,0.374,0.952,7.01e-06,0,0.182,-3.427,1,0.0859,165.885,3,https://api.spotify.com/v1/tracks/3iBHmCREiH9NMPtFDGBRJT,0.249,0
+77,Atreyu,Our Sick Story (Thus Far),5.274666666666667,1.92e-05,0.353,0.969,0.148,0,0.281,-4.879,1,0.12,84.79,4,https://api.spotify.com/v1/tracks/6ipInq12hUCuqfpUkVIsov,0.226,0
+78,Atreyu,Ex's and Oh's,3.514883333333333,1.62e-05,0.336,0.986,0.119,2,0.247,-3.178,0,0.215,159.956,4,https://api.spotify.com/v1/tracks/5ZlJDHedchB4Q7Rd6Vp9W1,0.138,0
+79,Atreyu,Untitled Finale,3.4904333333333333,4.05e-05,0.354,0.97,0.00071,0,0.038,-3.13,0,0.0743,160.929,4,https://api.spotify.com/v1/tracks/30x9lUgO2yEZO6kjrHCPhS,0.324,0
+80,Atreyu,Storm to Pass,3.7951,0.00238,0.313,0.985,0.00621,7,0.232,-4.102,0,0.368,150.02,4,https://api.spotify.com/v1/tracks/3x6VZhM04zZ2IHWuMtU2pY,0.0618,37
+81,Atreyu,Becoming the Bull,3.6766666666666667,0.000494,0.478,0.943,1.2e-05,8,0.128,-3.498,1,0.0826,95.032,4,https://api.spotify.com/v1/tracks/3alR818PhuUHGV3FftmjfW,0.439,53
+82,Atreyu,When Two Are One,4.682666666666667,0.00188,0.216,0.974,0.00759,5,0.156,-3.964,0,0.234,156.785,4,https://api.spotify.com/v1/tracks/0iI5VacagdGcD3FntgLx9G,0.445,43
+83,Atreyu,Slow Burn,3.441333333333333,0.00735,0.465,0.952,1.28e-06,2,0.199,-4.509,0,0.143,154.967,4,https://api.spotify.com/v1/tracks/3SVk1pRtLGxn7xtiqJwmZZ,0.363,39
+84,Atreyu,Blow,4.157333333333334,0.0045,0.523,0.98,9.22e-06,5,0.188,-3.615,0,0.147,154.979,4,https://api.spotify.com/v1/tracks/17DmJXyncq1Wg2s6tGMQyf,0.33,51
+85,Atreyu,Start To Break,4.675333333333334,0.00147,0.425,0.959,0.0027,8,0.315,-3.535,1,0.106,160.088,4,https://api.spotify.com/v1/tracks/6ufAB1HnPX5u3vFct7VayT,0.269,33
+86,Atreyu,Long Live,3.4802166666666667,0.000727,0.52,0.97,0.0456,8,0.117,-3.634,1,0.145,115.04,4,https://api.spotify.com/v1/tracks/0o5mA3QgFWsdj5PVwcW7pv,0.304,39
+87,August Burns Red,White Washed,3.7708833333333334,7.07e-06,0.214,0.964,0.114,10,0.453,-5.248,0,0.0733,106.536,4,https://api.spotify.com/v1/tracks/5xcYdoWHur82zA5KYHlgJk,0.328,53
+88,August Burns Red,Mariana's Trench,4.3017666666666665,2.78e-05,0.204,0.984,0.252,1,0.148,-5.172,1,0.109,115.38,1,https://api.spotify.com/v1/tracks/6E4DqnxPVMoVrtOyf0DJhG,0.207,51
+89,August Burns Red,Meddler,3.8964333333333334,6.16e-06,0.143,0.975,0.741,8,0.155,-4.105,1,0.202,180.086,4,https://api.spotify.com/v1/tracks/4gCq3tl5CzHIlKyQAYkUYe,0.29,42
+90,August Burns Red,Identity,4.32355,2.49e-05,0.15,0.964,0.00152,0,0.114,-4.613,1,0.119,143.641,4,https://api.spotify.com/v1/tracks/4XRl4HOTsG4p61MOSpMAU6,0.123,0
+91,August Burns Red,The Frost,4.776666666666666,3.08e-05,0.469,0.986,0.00765,4,0.168,-5.287,0,0.175,120.046,4,https://api.spotify.com/v1/tracks/4awHl18OgSYnqrbGHd9yyb,0.109,0
+92,August Burns Red,Invisible Enemy,4.628216666666667,1.09e-05,0.182,0.975,0.0212,6,0.0969,-5.177,1,0.263,143.976,4,https://api.spotify.com/v1/tracks/3XImYxSYg6ksTSgteW85MA,0.049,2
+93,August Burns Red,Salt & Light,3.6811,0.000459,0.275,0.954,0.411,7,0.398,-4.655,1,0.132,161.008,4,https://api.spotify.com/v1/tracks/1lH9nHBudGBvwYDv2bhFBI,0.216,13
+94,August Burns Red,Empire,3.8746666666666667,9.52e-06,0.227,0.993,0.0071,8,0.0526,-4.22,1,0.123,114.205,4,https://api.spotify.com/v1/tracks/5EPEzCxIrKAUYwRmTh7PCn,0.162,20
+95,August Burns Red,Poor Millionaire,4.480666666666667,1.36e-05,0.232,0.991,0.113,0,0.316,-4.173,1,0.197,146.513,4,https://api.spotify.com/v1/tracks/1z5kdEgNPmCsCB1n7yEQ2E,0.156,13
+96,August Burns Red,Back Burner,3.70955,7.12e-06,0.311,0.941,0.0652,8,0.372,-2.687,1,0.0987,110.279,1,https://api.spotify.com/v1/tracks/34aTmQ5ZmJFHlxQTRB5LDy,0.292,42
+97,August Burns Red,Composure,4.222883333333334,8.74e-06,0.233,0.982,0.176,8,0.175,-2.527,1,0.143,159.301,4,https://api.spotify.com/v1/tracks/3xtu0ECoDDexecQwPjM3oI,0.181,47
+98,August Burns Red,An American Dream,4.698433333333333,4.56e-06,0.236,0.97,0.182,10,0.52,-2.972,0,0.197,77.475,4,https://api.spotify.com/v1/tracks/5v3vNJfXpGfyBviUpzj4QB,0.133,31
+99,August Burns Red,Black Sheep,3.88955,7.32e-06,0.276,0.953,0.517,1,0.137,-2.67,1,0.104,105.989,4,https://api.spotify.com/v1/tracks/6BKRrx8qrJ4BXlshG0tIob,0.221,31
+100,August Burns Red,The Wake,3.4448833333333333,2.95e-06,0.142,0.961,0.000137,1,0.365,-5.136,1,0.0651,96.803,3,https://api.spotify.com/v1/tracks/13vlNe8TUQfZho2pzeA8NE,0.2,0
+101,August Burns Red,Dangerous,4.388216666666667,7.7e-05,0.252,0.98,0.00267,6,0.136,-5.036,1,0.225,136.073,4,https://api.spotify.com/v1/tracks/6nrNAXtMMz57dKez4Ry3g8,0.173,43
+102,Bad Omens,Exit Wounds,3.4381666666666666,9.35e-06,0.336,0.991,1.32e-06,5,0.603,-2.114,0,0.133,189.926,4,https://api.spotify.com/v1/tracks/3JeJemqDJPYOHB37pT87Bj,0.226,0
+103,Beartooth,Aggressive,4.139116666666666,0.000667,0.604,0.987,9.04e-05,2,0.37,-3.577,1,0.223,119.014,4,https://api.spotify.com/v1/tracks/0GfeeczySXlnq6FmXu8X5v,0.287,0
+104,Beartooth,Rock Is Dead,3.740666666666667,3.1e-05,0.515,0.978,0.121,7,0.212,-3.218,1,0.0851,92.512,4,https://api.spotify.com/v1/tracks/7xrn0V5jmR4jotKrAKNyqM,0.546,44
+105,Beartooth,Sick of Me,3.259333333333333,4.11e-05,0.609,0.974,0.00681,5,0.418,-3.556,1,0.0636,113.97,4,https://api.spotify.com/v1/tracks/2wVKxqK3ZtXnmk1SI4Fwzt,0.498,55
+106,Beartooth,The Lines,3.7885166666666668,0.000263,0.303,0.982,0.0,1,0.326,-2.115,1,0.182,107.557,4,https://api.spotify.com/v1/tracks/0qLMogpL6n41qhzmFJnhfS,0.326,55
+107,Beartooth,Beaten in Lips,3.545516666666667,0.00106,0.467,0.973,0.0,5,0.358,-3.01,0,0.136,160.066,4,https://api.spotify.com/v1/tracks/6QLTabgzA4CXdXrCV7aTuV,0.699,51
+108,Beartooth,Keep Your American Dream,3.513,0.00316,0.46,0.989,0.0,8,0.333,-2.503,1,0.141,85.055,4,https://api.spotify.com/v1/tracks/0JhOvpHCgX3lHe3h81BwGu,0.525,39
+109,Beartooth,In Between,3.5596,0.00285,0.462,0.972,0.0,7,0.666,-2.642,0,0.138,128.092,4,https://api.spotify.com/v1/tracks/03jdl5GTBhKsgB1Yw8mVPh,0.449,63
+110,Beartooth,Ignorance Is Bliss,3.268683333333333,0.00155,0.531,0.965,0.0,1,0.21,-1.843,1,0.0927,95.003,4,https://api.spotify.com/v1/tracks/5HbJ3N0iDslnCmLE8T2xbh,0.615,37
+111,Beartooth,Relapsing,3.928933333333333,0.000173,0.505,0.987,0.0,0,0.347,-1.543,1,0.161,124.987,4,https://api.spotify.com/v1/tracks/4ItSX2RElqJFVZfMxQIMOA,0.285,38
+112,Beartooth,Hated,3.523833333333333,0.000285,0.458,0.99,0.000893,8,0.454,-3.717,1,0.183,166.904,4,https://api.spotify.com/v1/tracks/5N0ToFp1DWQnG3EX24TNPs,0.46,3
+113,blessthefall,"Hey Baby, Here's That Song You Wanted",3.2466666666666666,0.00223,0.201,0.94,1.87e-05,3,0.142,-2.724,0,0.0959,185.187,4,https://api.spotify.com/v1/tracks/6RbeLGGRcELEeKjMAplpap,0.496,51
+114,blessthefall,40 Days...,4.30665,6.38e-05,0.448,0.879,0.000772,2,0.118,-6.361,0,0.047,94.99,3,https://api.spotify.com/v1/tracks/45Uto4UhEPsCLDLFgtR4eY,0.218,0
+115,blessthefall,Meet Me at the Gates,7.382666666666666,0.000472,0.377,0.761,0.146,2,0.129,-7.482,0,0.0327,76.963,4,https://api.spotify.com/v1/tracks/6sNzA9FddT8LyVQExRTIn1,0.0759,0
+116,blessthefall,You Wear a Crown but You're No King,3.721233333333333,1.16e-05,0.432,0.981,0.00239,7,0.67,-3.041,1,0.148,134.906,4,https://api.spotify.com/v1/tracks/1MrTonTtRzJFV99Vl2474n,0.154,0
+117,blessthefall,Youngbloods (feat. Jesse Barnett),2.9465,2.37e-05,0.263,0.933,0.00447,8,0.153,-2.823,1,0.12,141.081,4,https://api.spotify.com/v1/tracks/31Rb0cGg9ZmIgajIIIYtZO,0.166,0
+118,blessthefall,Carry On (feat. Jake Luhrs),3.255333333333333,1.45e-05,0.455,0.989,0.000624,11,0.43,-3.217,0,0.123,112.547,4,https://api.spotify.com/v1/tracks/4hg1SRK7703bQfH1nwFfom,0.0758,0
+119,blessthefall,Hollow Bodies,4.297866666666667,2.76e-05,0.345,0.969,0.352,8,0.462,-2.55,1,0.15,153.781,4,https://api.spotify.com/v1/tracks/6CnqEMkpDvlqXlJpyqMgXO,0.159,0
+120,blessthefall,Standing on the Ashes,3.206916666666667,5.38e-06,0.238,0.974,0.0632,7,0.539,-2.693,1,0.146,91.789,4,https://api.spotify.com/v1/tracks/7k1KQkHWmtA1HbQ6lKjX2k,0.133,0
+121,blessthefall,Dead Air,3.8076833333333333,6.68e-05,0.377,0.962,0.107,0,0.15,-4.041,0,0.0709,130.101,4,https://api.spotify.com/v1/tracks/4cif50UtZ3niKFmPWNgmZy,0.219,0
+122,blessthefall,Walk on Water,3.912,0.000396,0.408,0.976,4.62e-06,6,0.356,-4.05,0,0.113,125.013,4,https://api.spotify.com/v1/tracks/3hOvDMtUvBgB1kAiEX1Ca8,0.191,0
+123,blessthefall,Up in Flames,3.523066666666667,9.19e-05,0.396,0.981,0.0,11,0.179,-3.046,0,0.0778,130.038,4,https://api.spotify.com/v1/tracks/3KbR5CAfGwihWVpipNPIhm,0.21,0
+124,blessthefall,"I'm Bad News, In the Best Way",3.8457666666666666,1.85e-05,0.461,0.902,0.0769,2,0.103,-6.759,1,0.0542,115.006,4,https://api.spotify.com/v1/tracks/6hITEtSKAzhsz5ZcTphgQp,0.316,0
+125,blessthefall,Promised Ones,3.6108833333333332,0.000267,0.338,0.948,0.00801,9,0.234,-5.093,1,0.0759,200.2,4,https://api.spotify.com/v1/tracks/1ClSgImDYEKoNvU6ilzdDT,0.451,0
+126,Born Of Osiris,Illuminate,4.761283333333333,0.000378,0.435,0.983,0.0,2,0.177,-3.309,1,0.222,155.04,4,https://api.spotify.com/v1/tracks/6MSNbqrkFFtODFkTr3x6b9,0.217,39
+127,Born Of Osiris,Machine,4.412883333333333,0.00398,0.443,0.991,0.000579,1,0.106,-3.458,1,0.281,155.045,4,https://api.spotify.com/v1/tracks/7sxiG6BuAb28nh3qGmbz7L,0.0519,52
+128,Born Of Osiris,Glorious Day,2.4982166666666665,0.0007,0.258,0.922,0.244,10,0.114,-4.947,0,0.122,164.612,3,https://api.spotify.com/v1/tracks/6YT8l34XSqJsEupVAHjqTy,0.281,35
+129,Born Of Osiris,Exhilarate,3.5677333333333334,0.00023,0.413,0.979,6.13e-05,11,0.0882,-3.462,1,0.142,155.121,4,https://api.spotify.com/v1/tracks/5xXXQtmCm9gYryDfKMyanw,0.132,36
+130,Breakdown of Sanity,The Writer,5.133633333333333,3.15e-05,0.224,0.969,0.691,11,0.293,-2.822,0,0.161,150.036,4,https://api.spotify.com/v1/tracks/0KKDKjmPFCaMOHLZEu8s3T,0.224,45
+131,Breakdown of Sanity,The Gift,5.68325,0.000394,0.239,0.966,0.818,0,0.194,-3.692,1,0.134,144.959,4,https://api.spotify.com/v1/tracks/5WYQslaRi3T3aVhN0B0S41,0.0869,42
+132,Bring Me The Horizon,The Sadness Will Never End,5.3726666666666665,4.24e-05,0.166,0.851,0.00111,8,0.0835,-5.44,1,0.128,102.251,4,https://api.spotify.com/v1/tracks/3t8FOM4UQlSgofb36tKRMS,0.0636,37
+133,Bring Me The Horizon,Antivist,3.2272833333333333,2.23e-05,0.499,0.991,0.0,0,0.176,-2.249,1,0.158,137.026,4,https://api.spotify.com/v1/tracks/0VGXyzdRuqnpk5Tz2mRdlx,0.317,50
+134,Bring Me The Horizon,The House of Wolves,3.4193333333333333,0.000104,0.425,0.98,1.46e-06,8,0.346,-2.219,1,0.189,152.0,4,https://api.spotify.com/v1/tracks/7hntkdvG3jWdFKm7pGCCzd,0.279,53
+135,Bring Me The Horizon,Sleepwalking,3.8348333333333335,0.000244,0.399,0.963,5.16e-06,2,0.279,-3.28,0,0.122,148.892,4,https://api.spotify.com/v1/tracks/0EL6IHybknhDsSmo0DOtru,0.294,0
+136,Bring Me The Horizon,Shadow Moses,4.049616666666667,0.000241,0.45,0.986,0.0018,6,0.158,-2.932,1,0.281,143.036,4,https://api.spotify.com/v1/tracks/1BPIax5qBXlsvJlfgqUoaS,0.183,0
+137,Bring Me The Horizon,Chelsea Smile,5.042666666666666,3.61e-05,0.406,0.891,0.0175,10,0.328,-5.201,0,0.105,99.898,4,https://api.spotify.com/v1/tracks/2dOUgDzGwfmWp7XUteaDUy,0.22,0
+138,Bring Me The Horizon,Diamonds Aren't Forever,3.8011,0.000138,0.228,0.858,0.0,6,0.0805,-5.379,1,0.2,153.738,4,https://api.spotify.com/v1/tracks/072AfHDU9nGf9ipnSfMCwq,0.124,0
+139,Bring Me The Horizon,The Comedown,4.154883333333333,1.04e-05,0.224,0.879,0.000478,10,0.098,-4.829,0,0.195,102.567,4,https://api.spotify.com/v1/tracks/7FlYbHhLM1gstJjYcZ5Bnj,0.215,41
+140,Bring Me The Horizon,Suicide Season,8.288,0.00499,0.258,0.877,0.00106,8,0.0429,-6.387,1,0.108,120.306,4,https://api.spotify.com/v1/tracks/1FDALxp7EoPKm9xEN9I2l7,0.0867,32
+141,Bring Me The Horizon,It Never Ends,4.568883333333333,9.87e-05,0.395,0.949,0.00026,0,0.38,-5.443,0,0.0907,105.046,4,https://api.spotify.com/v1/tracks/6yXwzAdml0MyRURctW038w,0.135,45
+142,Bring Me The Horizon,Crucify Me,6.325333333333333,0.000507,0.153,0.898,0.00446,8,0.106,-6.145,1,0.168,101.029,4,https://api.spotify.com/v1/tracks/0m4ksAbXgykdSr45iPEBjG,0.0435,0
+143,The Browning,Bloodlust,4.046883333333334,0.000299,0.451,0.976,0.22,8,0.352,-5.121,1,0.0751,150.064,4,https://api.spotify.com/v1/tracks/6NBc4IopeLa3B2gYqZEeeE,0.188,29
+144,The Browning,Standing On The Edge,2.7077666666666667,3.09e-05,0.212,0.959,0.124,5,0.156,-4.801,0,0.113,160.038,4,https://api.spotify.com/v1/tracks/0A2qIuvOfXZIWqiveH3yNL,0.264,25
+145,Bullet For My Valentine,Your Betrayal,4.8571,8.6e-05,0.566,0.888,9.5e-05,2,0.083,-4.424,0,0.0719,134.022,4,https://api.spotify.com/v1/tracks/2OIFDm5niz1wSaGkyOpVIj,0.366,42
+146,Bullet For My Valentine,Hand Of Blood,3.624216666666667,0.000246,0.375,0.985,0.0,8,0.07,-2.754,1,0.0936,94.468,4,https://api.spotify.com/v1/tracks/5JWDt4NZNiZQR8iMenaa7h,0.455,50
+147,Bullet For My Valentine,Cries In Vain,3.992,0.00402,0.478,0.905,1.37e-06,7,0.0781,-3.989,0,0.172,84.023,4,https://api.spotify.com/v1/tracks/12OTo686ieXa8b1FfuNrMG,0.463,30
+148,Bullet For My Valentine,No Control,3.5624333333333333,0.000299,0.507,0.953,0.000353,0,0.278,-3.217,1,0.0986,96.043,4,https://api.spotify.com/v1/tracks/7dixPHbBrofjjs1rj3gogf,0.478,30
+149,Bullet For My Valentine,4 Words (To Choke Upon),3.7293333333333334,8.79e-05,0.379,0.95,0.000309,8,0.109,-2.895,1,0.0845,92.489,4,https://api.spotify.com/v1/tracks/0qB5jLzJHDyhMTLcTtzSbG,0.316,51
+150,Bullet For My Valentine,Her Voice Resides,4.30465,0.000249,0.311,0.984,1.61e-05,8,0.373,-3.081,1,0.119,95.134,4,https://api.spotify.com/v1/tracks/4nMy2uqHa7VogsuXuVjAYX,0.349,44
+151,Bullet For My Valentine,Tears Don't Fall,5.806433333333334,0.000729,0.212,0.924,2.23e-06,7,0.0831,-3.349,0,0.135,162.128,4,https://api.spotify.com/v1/tracks/3iWlbqAaoIR7H7gyO3a6rV,0.244,69
+152,Bullet For My Valentine,Suffocating Under Words Of Sorrow (What Can I Do),3.592216666666667,0.000718,0.397,0.978,1.47e-06,7,0.212,-2.256,0,0.133,93.538,4,https://api.spotify.com/v1/tracks/55L9oL9HCSFY2iiiWgpXSe,0.552,47
+153,Bullet For My Valentine,Hit The Floor,3.502,0.00106,0.199,0.921,0.0,2,0.353,-3.432,0,0.0873,195.13,4,https://api.spotify.com/v1/tracks/4nwZTGMAG2TUANfMzRbH9E,0.609,48
+154,Bullet For My Valentine,Room 409,4.021333333333334,0.000186,0.375,0.948,0.0,7,0.143,-2.31,1,0.14,93.094,4,https://api.spotify.com/v1/tracks/6PeZglovblR5qjQAqPiFS4,0.605,46
+155,Bullet For My Valentine,Scream Aim Fire,4.440666666666667,0.000116,0.359,0.994,5.89e-06,2,0.0816,-4.232,1,0.084,100.146,4,https://api.spotify.com/v1/tracks/45YjbmNrNU5JIUqDeVpVkR,0.16,50
+156,Bullet For My Valentine,Waking the Demon,4.128216666666667,2.98e-05,0.306,0.995,0.00859,2,0.254,-3.203,1,0.1,127.908,4,https://api.spotify.com/v1/tracks/1ZEoYuekZQo62DLFtPVdqT,0.135,54
+157,Bullet For My Valentine,End of Days,4.30665,0.000181,0.355,0.988,5.28e-06,0,0.0423,-2.607,0,0.0886,102.108,4,https://api.spotify.com/v1/tracks/0JrT1ejmiXXR4Bm3VWbyJU,0.458,33
+158,Buried In Verona,Hangin' Hoes By Their Toes,3.52755,4.58e-05,0.233,0.898,0.00229,10,0.312,-5.503,1,0.152,166.055,4,https://api.spotify.com/v1/tracks/4ttaPkSGLyAWgCGLCq7sbh,0.327,30
+159,Buried In Verona,Vultures Above,5.155733333333333,0.00224,0.39,0.949,0.0,9,0.132,-3.4,0,0.0763,76.833,4,https://api.spotify.com/v1/tracks/2Bqw1TPokySzHuRPIN7AKA,0.0453,0
+160,Buried In Verona,Extraction,4.751733333333333,5.12e-05,0.366,0.983,1.37e-06,9,0.117,-2.819,0,0.13,139.997,4,https://api.spotify.com/v1/tracks/1IMj2JOrDrkYss32EXNvF4,0.0632,0
+161,Bury Tomorrow,Cemetery,4.100616666666666,0.00285,0.495,0.988,1.21e-05,3,0.441,-3.258,1,0.0783,119.987,4,https://api.spotify.com/v1/tracks/7hhaR6S1ry0WoVlC9KOdEE,0.168,3
+162,Bury Tomorrow,The Eternal,3.39955,0.000337,0.403,0.977,0.00886,1,0.406,-3.745,1,0.0803,170.05,4,https://api.spotify.com/v1/tracks/6J5nBharRPaLNcimlzrXA5,0.337,5
+163,Bury Tomorrow,The Torch,4.236,0.000934,0.422,0.992,0.0,11,0.384,-2.358,0,0.157,160.022,4,https://api.spotify.com/v1/tracks/4hovGdOz0WCrXfL4iQbhox,0.258,2
+164,Bury Tomorrow,Redeemer,4.546,1.6e-05,0.309,0.902,0.0,8,0.331,-4.428,1,0.0735,119.809,4,https://api.spotify.com/v1/tracks/4cxOV3HpUIcdUWTdSAA5Ie,0.272,35
+165,Bury Tomorrow,Watcher,4.746883333333333,0.000162,0.361,0.977,1.09e-05,6,0.277,-1.64,0,0.103,164.983,4,https://api.spotify.com/v1/tracks/65biNRdWv5jBhV4XzyTpQr,0.405,2
+166,Bury Tomorrow,Lionheart,3.648433333333333,1.37e-05,0.393,0.81,4.39e-06,11,0.263,-5.003,1,0.0509,144.958,4,https://api.spotify.com/v1/tracks/4OM0b69eKQQxiPdBOE0Rfp,0.261,3
+167,Bury Tomorrow,Earthbound,3.7016833333333334,0.00438,0.473,0.988,2.37e-05,1,0.281,-3.078,1,0.0721,99.89,4,https://api.spotify.com/v1/tracks/378BPUyaHnhVHCoU2ncV0K,0.283,14
+168,Cane Hill,Time Bomb,3.4552,7.48e-05,0.517,0.954,0.0,6,0.432,-6.001,1,0.127,130.06,4,https://api.spotify.com/v1/tracks/3VLryvQIFNVknBbfFzl6f1,0.441,39
+169,Cane Hill,Too Far Gone,3.7342166666666667,6.32e-06,0.431,0.97,0.0112,1,0.363,-3.594,1,0.0817,173.043,4,https://api.spotify.com/v1/tracks/7jx7ekt4QjmMExl041n5zD,0.555,42
+170,Cane Hill,Lord of Flies,3.4172666666666665,1.1e-05,0.455,0.974,0.0339,7,0.323,-3.291,1,0.0781,129.938,4,https://api.spotify.com/v1/tracks/47SoqUBzCQnU62PA3ndUs8,0.564,42
+171,Chelsea Grin,Playing with Fire,3.93295,1.58e-05,0.402,0.99,0.0112,1,0.314,-1.589,1,0.134,129.947,4,https://api.spotify.com/v1/tracks/76nn51rRcf39uNylrSXlky,0.209,0
+172,Chiodos,"Baby, You Wouldn't Last A Minute On The Creek",4.6811,0.0295,0.38,0.908,0.0,2,0.101,-6.425,0,0.193,97.613,4,https://api.spotify.com/v1/tracks/6p4jnIWFWyLz0zUo2RD9iu,0.0974,52
+173,Chiodos,"The Words ""Best Friend"" Become Redefined",3.6048833333333334,0.00718,0.327,0.873,0.000488,9,0.663,-6.876,0,0.0902,109.058,4,https://api.spotify.com/v1/tracks/6GKhlcZeyEW9Y5ZLZ37HZ3,0.219,50
+174,"Chunk! No, Captain Chunk!",Playing Dead,3.4972666666666665,0.000403,0.512,0.982,0.000162,10,0.313,-4.245,1,0.165,121.979,4,https://api.spotify.com/v1/tracks/7nuscPeiQq9mnzJD88tsN4,0.385,0
+175,Code Orange,Kill The Creator,2.4368833333333333,5.38e-05,0.299,0.899,0.918,0,0.332,-4.236,1,0.152,102.407,3,https://api.spotify.com/v1/tracks/1DhH1YK8QQKnQepDiuIlY1,0.182,43
+176,Code Orange,Real,3.121766666666667,2.11e-05,0.275,0.898,0.748,10,0.358,-4.652,0,0.108,162.11,5,https://api.spotify.com/v1/tracks/59kPuehEgpJFO30Mh8LlAv,0.259,40
+177,Code Orange,Forever,3.132433333333333,1.21e-05,0.306,0.883,0.774,7,0.185,-4.205,1,0.0855,81.188,4,https://api.spotify.com/v1/tracks/1G6czdqgskwJ4cBgx9CDAJ,0.43,48
+178,Code Orange,The New Reality,2.052216666666667,8.03e-06,0.348,0.885,0.629,7,0.462,-4.836,1,0.086,131.355,4,https://api.spotify.com/v1/tracks/5SpzDtuwYt2ekJOKmLCpqY,0.664,39
+179,The Color Morale,Learned Behavior,3.9506666666666668,0.000125,0.348,0.986,0.2,8,0.988,-3.124,1,0.139,139.903,4,https://api.spotify.com/v1/tracks/0y7cw9S9yl7Na8NAJTVb5B,0.129,42
+180,The Color Morale,Strange Comfort,3.8853333333333335,0.000184,0.2,0.977,0.169,8,0.263,-2.571,1,0.129,142.92,4,https://api.spotify.com/v1/tracks/2hv6tP5nZTOgc3LZ3iE4CS,0.116,40
+181,Confide,Now Or Never,3.4062666666666668,8.16e-05,0.415,0.966,0.0,5,0.445,-3.516,0,0.0976,160.051,4,https://api.spotify.com/v1/tracks/0TRcgtJA7EFCFNOfVDDCsU,0.469,33
+182,Converge,A Single Tear,3.9980333333333333,0.0,0.242,0.946,0.925,1,0.178,-4.436,1,0.0632,135.177,4,https://api.spotify.com/v1/tracks/23ijbpmuTVn6xfJoLx09Gs,0.292,44
+183,Crown The Empire,Memories Of A Broken Heart,4.221333333333333,2.47e-05,0.473,0.973,7.21e-06,8,0.415,-3.862,1,0.0646,140.012,4,https://api.spotify.com/v1/tracks/4vpx7k6ZJ1KfPuqK9Vo9bR,0.492,42
+184,Crown The Empire,Makeshift Chemistry,4.183333333333334,0.00026,0.525,0.958,0.0,8,0.391,-3.642,1,0.0653,120.06,4,https://api.spotify.com/v1/tracks/0YSZ8vuwoqxS8Eo4jhyZVZ,0.461,47
+185,Denis Shaforostov,Limitless (feat. Dennis Shaforostov Of Make Me Famous),4.458333333333333,0.000222,0.243,0.976,5.51e-05,6,0.353,-5.037,0,0.143,143.253,4,https://api.spotify.com/v1/tracks/4D9da6V1bhx7MaAEBJ5wxw,0.168,32
+186,Crown The Empire,Johnny's Revenge,4.25155,0.000233,0.58,0.971,3.18e-06,4,0.598,-4.038,1,0.0675,115.033,4,https://api.spotify.com/v1/tracks/2xoG88poPOqbdDx89hEkLk,0.362,42
+187,Crown The Empire,Cross Our Bones,3.428,0.000242,0.544,0.938,0.0,0,0.21,-5.999,0,0.0612,125.079,4,https://api.spotify.com/v1/tracks/1OvKgjdZA1RljjOl8EsP4O,0.503,40
+188,Crown The Empire,Rise of the Runaways,3.5886666666666667,0.00126,0.4,0.992,0.0,6,0.0838,-3.803,0,0.338,159.976,4,https://api.spotify.com/v1/tracks/3ghQorhC4VYQ4k0n5pzXGQ,0.166,40
+189,Crown The Empire,Initiation,4.6768833333333335,4.41e-05,0.452,0.989,0.0,10,0.574,-4.689,0,0.126,135.963,4,https://api.spotify.com/v1/tracks/1VCSv7oBX9az7XPcE2WQxO,0.272,39
+190,Currents,Apnea,3.4270666666666667,0.000403,0.501,0.969,3.67e-05,0,0.262,-4.508,1,0.102,139.885,4,https://api.spotify.com/v1/tracks/5koE7PVlCtJRF1IGzV70Kr,0.34,8
+191,Currents,Night Terrors,3.76585,0.000283,0.549,0.98,0.0,1,0.437,-3.518,1,0.102,120.001,4,https://api.spotify.com/v1/tracks/5eMMVhMOvEVyphWPsktUKE,0.279,7
+192,Dance Gavin Dance,We Own The Night,3.4284333333333334,0.0509,0.224,0.905,0.0,5,0.281,-3.239,0,0.0722,78.318,4,https://api.spotify.com/v1/tracks/4rc2WNOt2w8BHfQjBC8PO0,0.485,62
+193,Dance Gavin Dance,"Stroke God, Millionaire",3.1726666666666667,0.00334,0.433,0.956,2.99e-06,8,0.0657,-3.018,1,0.0703,148.11,4,https://api.spotify.com/v1/tracks/44cVmdFQrPS3skiJx26OOS,0.727,51
+194,Dance Gavin Dance,On The Run,4.2328833333333336,0.067,0.244,0.957,0.0,5,0.419,-2.714,1,0.0695,142.033,4,https://api.spotify.com/v1/tracks/0RXKYa6WpyIft96HFM37Gd,0.501,50
+195,Dance Gavin Dance,Inspire The Liars,4.58755,0.0583,0.152,0.975,0.0,7,0.124,-3.072,0,0.26,178.947,3,https://api.spotify.com/v1/tracks/2DdluBZleLq30PlfUAqSD5,0.365,58
+196,Dance Gavin Dance,Death Of A Strawberry,4.182883333333334,0.0297,0.576,0.955,0.0,4,0.054,-3.122,1,0.0458,124.972,4,https://api.spotify.com/v1/tracks/0ZcQUwVyXgpUepJsvgOYgk,0.752,57
+197,A Day To Remember,You Should Have Killed Me When You Had The Chance,3.566666666666667,0.0336,0.316,0.952,0.0,0,0.132,-5.369,0,0.274,130.71,1,https://api.spotify.com/v1/tracks/4MWnrs6VW8SsaMOiSM9pmE,0.174,41
+198,A Day To Remember,1958,4.483333333333333,0.0099,0.209,0.954,0.0816,5,0.463,-5.277,1,0.308,156.447,4,https://api.spotify.com/v1/tracks/3eqgWADdXhyfu84oQXebs9,0.239,38
+199,A Day To Remember,Violence (Enough Is Enough),4.027533333333333,4.88e-05,0.174,0.993,0.000121,10,0.11,-3.623,0,0.143,165.007,4,https://api.spotify.com/v1/tracks/3BHN0XXiptupmFhgIbinvo,0.195,49
+200,A Day To Remember,The Document Speaks for Itself,4.730283333333333,0.000123,0.367,0.986,0.0,5,0.946,-4.504,0,0.284,155.058,4,https://api.spotify.com/v1/tracks/7oMwun7Y8xOxiARFoAyKm7,0.0697,44
+201,A Day To Remember,The Danger In Starting a Fire,3.044,0.000534,0.318,0.91,1.99e-06,0,0.297,-3.962,1,0.0773,92.374,4,https://api.spotify.com/v1/tracks/2i5BhTOcsnH6jfBspDNuLM,0.365,51
+202,A Day To Remember,The Plot to Bomb the Panhandle,4.066216666666667,0.000304,0.371,0.978,0.0,3,0.37,-4.188,1,0.0873,199.841,4,https://api.spotify.com/v1/tracks/5ozvYiSPEuhUoHDJBDYN9n,0.454,55
+203,A Day To Remember,Heartless,3.002666666666667,0.000413,0.321,0.986,0.000519,7,0.491,-5.184,1,0.143,106.5,1,https://api.spotify.com/v1/tracks/0GqGG2AL4G0Uhpruzxjku8,0.339,42
+204,A Day To Remember,Start the Shooting,4.74,0.000127,0.406,0.92,0.0,4,0.168,-4.548,0,0.0528,90.73,4,https://api.spotify.com/v1/tracks/7zZcHzLRBn6xUh9mVYDpm0,0.499,42
+205,A Day To Remember,The Downfall of Us All,3.4848833333333333,0.000256,0.589,0.881,0.0,0,0.327,-4.62,1,0.0666,129.95,4,https://api.spotify.com/v1/tracks/1h8i0jqiQthR3Obo3aJ3dh,0.709,50
+206,A Day To Remember,"I'm Made of Wax, Larry, What Are You Made Of?",3.014,7.35e-05,0.241,0.97,0.0,10,0.904,-4.246,0,0.104,159.93,4,https://api.spotify.com/v1/tracks/49WmLvy3dH89XLdviCW9RR,0.621,51
+207,A Day To Remember,Mr. Highway's Thinking About the End,4.263766666666666,0.000136,0.301,0.916,1.73e-05,10,0.293,-6.218,0,0.092,150.093,4,https://api.spotify.com/v1/tracks/3XMJUllN5uIuQwGNyshCqF,0.45,47
+208,A Day To Remember,Welcome to the Family,2.998883333333333,0.000266,0.417,0.943,0.0,10,0.099,-4.994,0,0.118,170.141,4,https://api.spotify.com/v1/tracks/3hem8OBqVounj08b4w94BH,0.714,42
+209,A Day To Remember,Holdin' It Down for the Underground,3.398216666666667,0.000413,0.354,0.948,3.23e-06,8,0.831,-5.739,1,0.154,75.113,4,https://api.spotify.com/v1/tracks/05gfMcZKSBtCg1hpOLZ5Sq,0.441,42
+210,A Day To Remember,2nd Sucks,2.4604333333333335,0.000133,0.501,0.989,1.6e-06,7,0.57,-4.369,1,0.173,140.029,4,https://api.spotify.com/v1/tracks/6UZ8PjuMPQI6i7NOImb2mA,0.162,57
+211,A Day To Remember,"You Be Tails, I'll Be Sonic",3.798216666666667,7.76e-05,0.471,0.988,0.0,7,0.302,-3.575,1,0.14,138.051,4,https://api.spotify.com/v1/tracks/6KEnGwmF5rAgP9NyZqcYPj,0.282,55
+212,A Day To Remember,Sticks & Bricks,3.27755,4.71e-05,0.465,0.98,0.0,10,0.309,-3.709,0,0.167,140.026,4,https://api.spotify.com/v1/tracks/3Z1TXmTCI3nqXnOi7MRclW,0.145,51
+213,Dayseeker,Vultures,4.002066666666667,0.000298,0.259,0.912,0.0,5,0.914,-5.776,0,0.11,135.113,4,https://api.spotify.com/v1/tracks/7uFwybzCuhAjD9dRMEJL4S,0.206,39
+214,Dayseeker,Hurricane,4.657383333333334,0.00678,0.465,0.897,0.0,6,0.0821,-2.633,1,0.057,108.847,4,https://api.spotify.com/v1/tracks/2fEkUQ6rb2XllwwAMwqG1J,0.088,42
+215,Dayseeker,The Earth Will Turn,4.7153833333333335,0.000542,0.249,0.993,0.0,6,0.129,-3.73,1,0.311,125.534,4,https://api.spotify.com/v1/tracks/5mHRWl1iFllpQYNd1taKkq,0.0604,0
+216,Deftones,My Own Summer (Shove It),3.5793333333333335,1.33e-05,0.443,0.781,0.205,1,0.166,-4.277,1,0.0377,71.841,4,https://api.spotify.com/v1/tracks/1158ckiB5S4cpsdYHDB9IF,0.372,66
+217,Destroy The Runner,Columbia,4.489766666666666,0.000208,0.339,0.866,0.0727,8,0.0359,-3.24,1,0.0435,175.039,4,https://api.spotify.com/v1/tracks/4GWGWr9Uh895hvHJKaoiXd,0.488,21
+218,The Devil Wears Prada,HTML Rulez DOOd,3.962666666666667,0.000275,0.194,0.969,5.67e-06,7,0.242,-4.139,1,0.301,91.073,4,https://api.spotify.com/v1/tracks/0H70ZBhiNQIMPNZDQkOvoa,0.125,41
+219,The Devil Wears Prada,Danger: Wildman,4.024,0.00105,0.265,0.973,0.0,2,0.439,-2.973,1,0.115,148.033,4,https://api.spotify.com/v1/tracks/1okd0AdSAmPxGOb7z4jFB7,0.0828,47
+220,The Devil Wears Prada,Big Wiggly Style,4.2202166666666665,0.000156,0.22,0.96,7.66e-06,0,0.527,-3.009,1,0.15,151.222,4,https://api.spotify.com/v1/tracks/3mpHOCy0ePkRoHJ5PI3dJn,0.239,43
+221,The Devil Wears Prada,Assistant To The Regional Manager,3.6208833333333335,0.00143,0.442,0.972,1.37e-06,1,0.0969,-3.03,0,0.107,145.003,4,https://api.spotify.com/v1/tracks/1ZS0Lgc8Esdg0Bf1JO6KF0,0.216,45
+222,The Devil Wears Prada,I Hate Buffering,3.0902166666666666,0.000601,0.48,0.97,0.0,0,0.443,-2.972,1,0.0864,92.488,4,https://api.spotify.com/v1/tracks/4iVwQzFOycifzx28z6C0cW,0.239,38
+223,The Devil Wears Prada,Dez Moines,4.06,0.000537,0.426,0.981,0.0,10,0.357,-2.749,1,0.162,150.052,4,https://api.spotify.com/v1/tracks/05NRKMTDuXA5ehLLe0wtL0,0.0983,49
+224,The Devil Wears Prada,Born To Lose,3.07955,0.000189,0.229,0.99,0.0447,4,0.263,-2.901,1,0.158,164.892,4,https://api.spotify.com/v1/tracks/4WsQCb1Atrhbb2I78hHCNG,0.173,37
+225,Down & Dirty,I Will Never Lose My Way,4.104633333333333,1.28e-05,0.339,0.995,0.000194,1,0.357,-2.764,1,0.241,172.023,4,https://api.spotify.com/v1/tracks/0cE67n5CRWtr7LkOS9sRPa,0.299,34
+226,Down & Dirty,Move It,4.862916666666667,0.000515,0.415,0.988,1.2e-05,1,0.0769,-3.581,1,0.157,103.04,4,https://api.spotify.com/v1/tracks/12EhOKHAvqXDMilwuVwrCH,0.211,41
+227,Dreamshade,Dreamers Don't Sleep,3.5359166666666666,0.000485,0.407,0.993,0.00108,9,0.207,-5.0,0,0.211,155.019,4,https://api.spotify.com/v1/tracks/3SEegCCbaXD6pz5oCks9Fe,0.0635,33
+228,Emmure,Smokey,2.0222166666666666,0.0025,0.545,0.983,0.0927,10,0.231,-5.154,1,0.194,139.951,3,https://api.spotify.com/v1/tracks/0AJdd5tLbokDkD3D1Voq2D,0.0381,6
+229,Emmure,Natural Born Killer,2.6277666666666666,3.82e-06,0.276,0.959,0.00122,5,0.0778,-2.766,1,0.113,159.913,4,https://api.spotify.com/v1/tracks/3NrM42v9yhqj6CadCJL8KC,0.432,7
+230,Emmure,Flag of the Beast,3.3916666666666666,2.05e-05,0.535,0.974,0.000149,10,0.263,-3.566,0,0.172,116.956,4,https://api.spotify.com/v1/tracks/63H8IjCocVCG8FzrX2NO94,0.436,9
+231,Emmure,Russian Hotel Aftermath,3.007216666666667,4.5e-06,0.463,0.978,1.41e-05,8,0.396,-3.067,1,0.196,125.005,4,https://api.spotify.com/v1/tracks/4vVRg7MwNsh8DZ1qbJaRoB,0.313,40
+232,Erra,Alpha Seed,4.950383333333333,0.000156,0.274,0.989,2.56e-05,1,0.151,-2.81,1,0.102,175.09,4,https://api.spotify.com/v1/tracks/3I0FhXPnEOEGGNi3zu1DQJ,0.103,43
+233,Erra,Pulse,4.028216666666666,0.000164,0.329,0.989,0.000188,10,0.287,-3.143,0,0.173,195.013,4,https://api.spotify.com/v1/tracks/6UevPknPIGDy71vgGtZdzP,0.241,39
+234,Erra,Dreamwalkers,3.9446666666666665,9.7e-05,0.3,0.985,0.0,1,0.428,-2.568,1,0.0953,175.024,4,https://api.spotify.com/v1/tracks/1RJzQoLiRLCnItNMiIPhxQ,0.161,37
+235,Erra,Frostbite,3.870433333333333,9.51e-05,0.239,0.989,5.15e-06,1,0.362,-2.457,1,0.119,195.138,4,https://api.spotify.com/v1/tracks/1C93FP06z00t750aNHGPwB,0.126,37
+236,Erra,Hybrid Earth,4.340433333333333,3.25e-05,0.469,0.972,1.67e-06,6,0.4,-3.156,1,0.145,129.958,4,https://api.spotify.com/v1/tracks/1BUEtWDb6mRIZ4DxfqMax3,0.306,39
+237,Erra,Rebirth,4.8486666666666665,0.00108,0.139,0.994,8.35e-05,10,0.145,-3.733,0,0.501,159.884,4,https://api.spotify.com/v1/tracks/2icOstx7ePS0SttvNngTE7,0.0368,37
+238,Erra,Ultraviolet,4.8533333333333335,0.000296,0.339,0.991,0.000154,10,0.381,-2.99,0,0.207,164.958,4,https://api.spotify.com/v1/tracks/735Haz7N4rsb6ppNbWilHi,0.119,36
+239,Erra,Spirits Away,4.31,0.000438,0.235,0.989,1.21e-06,5,0.38,-3.363,1,0.224,125.02,4,https://api.spotify.com/v1/tracks/6z6MRN2QKHQnAov1T80BWB,0.0747,36
+240,Erra,Prometheus,4.2411,0.000204,0.329,0.989,0.000372,6,0.287,-3.268,1,0.247,195.07,4,https://api.spotify.com/v1/tracks/0At46meFNoHZH9r3mrlOBt,0.187,35
+241,Erra,Crimson,4.522433333333334,6.97e-05,0.278,0.989,8.47e-06,1,0.226,-2.685,1,0.126,174.98,4,https://api.spotify.com/v1/tracks/0IkTvBoTjbhBprumR6EA7Z,0.0891,34
+242,Erra,Dementia,7.594883333333334,0.000126,0.0882,0.983,0.0162,7,0.343,-3.124,0,0.274,83.488,4,https://api.spotify.com/v1/tracks/54uiEdLCl6c85W0o6syW9t,0.0428,37
+243,Erra,White Noise,4.037333333333334,0.000115,0.31,0.947,2.45e-05,1,0.402,-4.524,1,0.0775,174.978,4,https://api.spotify.com/v1/tracks/76hBYBB5k43oakHbnpqrl6,0.274,37
+244,Erra,Pattern Interrupt,3.1626666666666665,6.51e-05,0.327,0.927,1.92e-05,6,0.345,-3.54,1,0.0741,174.987,4,https://api.spotify.com/v1/tracks/4sOEqj902n9vEGiyUJxoFW,0.242,35
+245,Erra,Seven,3.2842,0.000458,0.467,0.928,0.0029,10,0.149,-4.33,0,0.139,145.021,4,https://api.spotify.com/v1/tracks/0BW88H75QXknEWSyViU91n,0.265,36
+246,Erra,The Architect,3.2662833333333334,7.03e-05,0.417,0.967,3.44e-06,10,0.402,-2.931,0,0.0889,145.064,4,https://api.spotify.com/v1/tracks/3WQJMoVlOmGIfEIT4O3UAg,0.319,35
+247,Erra,Efflorescent,3.9675,0.000123,0.417,0.938,6.46e-06,10,0.337,-3.855,0,0.0967,145.009,4,https://api.spotify.com/v1/tracks/7pSVC3eLIaw8NtwPdbB6Z8,0.36,33
+248,Erra,Vaalbara,4.242883333333333,3.66e-05,0.165,0.932,0.00199,10,0.322,-4.104,0,0.143,196.082,5,https://api.spotify.com/v1/tracks/15dk5WScw0UFerV8me2rnY,0.267,33
+249,Erra,Heart,3.5328833333333334,9.93e-06,0.31,0.951,7.92e-06,10,0.729,-3.761,1,0.075,165.342,3,https://api.spotify.com/v1/tracks/5rFni6q6idl2FrL8YkThii,0.244,33
+250,Erra,Obscure Words,3.0777666666666668,0.000236,0.222,0.975,0.000487,5,0.316,-4.124,0,0.11,90.597,4,https://api.spotify.com/v1/tracks/7kXx3fBmwKvvRcl8Oggm4m,0.186,31
+251,Erra,Invent,4.71155,1.95e-05,0.388,0.95,0.000401,1,0.411,-3.384,1,0.0627,92.652,4,https://api.spotify.com/v1/tracks/1LNeIKK9OxAsxjbHhHgG9O,0.211,32
+252,Erra,Render The Void,5.796,0.000168,0.312,0.953,3.43e-05,10,0.183,-3.954,0,0.0624,174.988,4,https://api.spotify.com/v1/tracks/66r7VvYDm5RqXGAM0cd62C,0.294,33
+253,Erra,Luminesce,3.3982,0.0186,0.456,0.979,0.0,8,0.778,-2.687,0,0.131,122.985,4,https://api.spotify.com/v1/tracks/2ERtrtuafvEoue7fUDQ3jj,0.378,50
+254,Erra,Irreversible,4.392,0.00318,0.53,0.968,5.59e-06,8,0.211,-4.539,0,0.0833,124.941,4,https://api.spotify.com/v1/tracks/02XPPX3y9bLcaKqs8VJyUY,0.359,48
+255,Erra,Skyline,4.7285,0.00708,0.484,0.95,0.000407,5,0.519,-4.006,1,0.0572,128.013,4,https://api.spotify.com/v1/tracks/10uLt6pkF4qaEmToTjnyLc,0.273,52
+256,Erra,Hourglass,3.908333333333333,0.000781,0.216,0.939,9.5e-06,5,0.261,-3.576,1,0.0768,119.965,4,https://api.spotify.com/v1/tracks/6vH0hyFqdIOxfAbnxNQ3RQ,0.454,44
+257,Erra,Orchid,4.3826,0.000206,0.488,0.981,0.0,5,0.727,-3.922,1,0.0862,114.964,4,https://api.spotify.com/v1/tracks/7JtOqr5QFTtoIT1fRxMSET,0.202,44
+258,Erra,Drift,4.564283333333333,0.00596,0.493,0.963,0.000132,1,0.1,-4.147,1,0.0549,139.982,4,https://api.spotify.com/v1/tracks/48QdDH5IiLzH96HAsKMWms,0.384,48
+259,Erra,Sleeper,3.3011333333333335,0.00169,0.488,0.97,0.00136,1,0.382,-3.34,1,0.109,125.053,4,https://api.spotify.com/v1/tracks/3vaeTFFlgIsgBjzAu9MHPO,0.304,41
+260,Erra,Continuum,4.25885,0.000171,0.476,0.978,6.97e-06,6,0.288,-3.643,1,0.117,119.997,4,https://api.spotify.com/v1/tracks/0dCPpei0tYMBN1yvdFSnae,0.28,41
+261,Erra,Safehaven,6.368,0.0455,0.463,0.967,7.15e-06,0,0.351,-3.927,1,0.073,125.039,4,https://api.spotify.com/v1/tracks/4Hk2SfFH6tv3Sd8NZt8Als,0.341,40
+262,Erra,The Hypnotist,5.91845,0.00213,0.453,0.972,0.0001,8,0.0879,-4.247,0,0.0981,128.009,4,https://api.spotify.com/v1/tracks/3AviPVI6QESdMi0QbqYiox,0.187,46
+263,Escape the Fate,Situations,3.1313333333333335,0.0261,0.503,0.881,0.0,0,0.482,-4.502,0,0.0827,101.038,4,https://api.spotify.com/v1/tracks/1Fu9o08qEKVEwzU8siVcig,0.597,60
+264,Escape the Fate,Not Good Enough For Truth In Cliche',3.858433333333333,0.007,0.372,0.904,1.34e-06,5,0.112,-4.438,1,0.106,159.081,4,https://api.spotify.com/v1/tracks/50NQdrO55nqwZrDwKny5NH,0.362,60
+265,Escape the Fate,This War Is Ours (The Guillotine II),4.4381,0.00838,0.399,0.955,0.0,4,0.0802,-5.593,0,0.163,95.498,4,https://api.spotify.com/v1/tracks/13EHiO7jbAati2fkGlCS4a,0.152,0
+266,Escape the Fate,The Guillotine,4.530983333333333,0.0127,0.442,0.947,2.58e-06,4,0.406,-4.817,0,0.181,100.044,4,https://api.spotify.com/v1/tracks/53h5MHVgsbvlV8AJxr6qvi,0.0925,0
+267,Feed Her to the Sharks,The World Is Yours,3.892,2.36e-06,0.422,0.944,0.604,8,0.0784,-5.127,1,0.0765,100.027,4,https://api.spotify.com/v1/tracks/2tzHZZRc7C2EobxCFXhJIt,0.0946,42
+268,Feed Her to the Sharks,Chasing Glory,3.7431,6.27e-06,0.464,0.97,0.0417,8,0.214,-4.832,1,0.0723,102.497,4,https://api.spotify.com/v1/tracks/5QkPqeTDJ6R1g1bKmWM9Ee,0.148,45
+269,Fit For A King,Warpath,3.2551,3e-05,0.426,0.98,0.0,6,0.375,-4.098,1,0.0997,100.058,4,https://api.spotify.com/v1/tracks/1pVaLwl0noSte1Yq9D2G4a,0.432,37
+270,Fit For A King,Hollow King (Sound of the End),3.5942166666666666,1.93e-05,0.373,0.988,0.0,6,0.422,-4.005,1,0.174,139.471,4,https://api.spotify.com/v1/tracks/3ahND6eWbmj1XNuvhokmb4,0.288,40
+271,Fit For A King,Bitter End,3.291333333333333,0.000268,0.436,0.995,0.0,3,0.102,-3.856,0,0.158,138.594,4,https://api.spotify.com/v1/tracks/3tlvBC4afBJ4nIzAiz6MeF,0.189,37
+272,Fit For A King,The Resistance,4.261333333333333,7.33e-05,0.487,0.99,0.0,10,0.369,-4.035,0,0.17,125.077,4,https://api.spotify.com/v1/tracks/3eTB2ZjuW6OdUxHARmtDqr,0.246,34
+273,Fit For A King,Destruction,3.4433333333333334,0.000103,0.289,0.992,1.59e-06,6,0.374,-3.961,1,0.219,139.085,4,https://api.spotify.com/v1/tracks/5bx0FIHbY1QDREoEDWlxDL,0.0735,32
+274,Fit For A King,The Lioness,3.3391,0.000298,0.328,0.995,0.0,1,0.0605,-5.002,1,0.222,199.868,4,https://api.spotify.com/v1/tracks/7aPzbRddc3U2FvExoipZmg,0.154,32
+275,Fit For A King,Pissed Off,3.5175666666666667,0.000477,0.453,0.987,0.000856,10,0.511,-4.225,1,0.177,160.12,4,https://api.spotify.com/v1/tracks/6stp2jmcYmixSqA7PqomgJ,0.34,50
+276,Fit For A King,Deathgrip,4.2499666666666664,0.00744,0.407,0.947,4.31e-05,5,0.103,-6.575,0,0.216,159.935,4,https://api.spotify.com/v1/tracks/5hC0PHHxcPJnhg6Mnncub4,0.245,52
+277,Fit For A King,Dead Memory (feat. Jake Luhrs),4.2213,0.000387,0.473,0.983,4.19e-06,6,0.57,-4.06,1,0.101,105.026,4,https://api.spotify.com/v1/tracks/04tBSM1jLxfYZoPjeWwRbd,0.155,45
+278,Fit For A King,Cold Room,2.860516666666667,0.00116,0.481,0.983,2.02e-06,3,0.121,-3.73,0,0.155,140.052,4,https://api.spotify.com/v1/tracks/5mAbeNmPiyJ089q3eptg8P,0.47,42
+279,Fit For A King,Ancient Waters,3.926,4.67e-05,0.424,0.978,0.0,6,0.0818,-2.747,1,0.105,145.035,4,https://api.spotify.com/v1/tracks/6GdSeAvyLi7lzCmRbVXTXV,0.35,33
+280,Fit For A King,The Architect,3.648,6.09e-05,0.439,0.973,0.0,6,0.421,-2.868,1,0.0986,155.007,4,https://api.spotify.com/v1/tracks/6iWwzAsZhIpBca6oeODUIn,0.283,29
+281,Fit For A King,Descendants,2.336883333333333,0.000104,0.498,0.934,2.25e-06,7,0.341,-3.064,1,0.0909,90.029,4,https://api.spotify.com/v1/tracks/64JdZ532ZT8G3kYEixU8wF,0.436,30
+282,Fit For A King,"Messenger, Messenger",3.062,7.6e-05,0.274,0.958,0.0,6,0.37,-2.802,1,0.128,135.1,4,https://api.spotify.com/v1/tracks/0ej6k3QmRADKagk9oNJyJl,0.319,29
+283,Fit For A King,Hollow Eyes,3.4017666666666666,0.000264,0.447,0.98,0.0,10,0.37,-2.919,0,0.0827,145.065,4,https://api.spotify.com/v1/tracks/1nIsozlOW8BDBe08J8foLT,0.326,28
+284,Fit For A King,Slave to Nothing,3.9442166666666667,0.000801,0.48,0.989,0.0,10,0.272,-3.263,0,0.194,106.506,4,https://api.spotify.com/v1/tracks/3DORXsokB9S68sMo9XXqHl,0.214,37
+285,Fit For A King,Hooked,3.2062166666666667,0.00391,0.331,0.961,2.64e-05,10,0.125,-3.503,0,0.154,107.073,4,https://api.spotify.com/v1/tracks/1yTxH6iJaZebErNHvEZG6q,0.289,34
+286,For All Those Sleeping,Demons,4.202916666666667,2.99e-05,0.177,0.94,0.0115,0,0.939,-2.854,1,0.0912,158.22,4,https://api.spotify.com/v1/tracks/0If53tPT43NKeO770Vs5YA,0.193,0
+287,For All Those Sleeping,Follow My Voice,3.9091,0.000588,0.382,0.993,0.0,3,0.131,-4.1,0,0.132,84.989,4,https://api.spotify.com/v1/tracks/7tmAwfTiehL8UXk3ToBFuI,0.113,0
+288,For Today,Devastator,3.668,0.00561,0.323,0.876,3.16e-06,1,0.222,-5.108,1,0.116,134.947,4,https://api.spotify.com/v1/tracks/61fHf3cAlh3vXFV2oKCdPM,0.337,44
+289,For Today,Break the Cycle (feat. Matty Mullins),4.200433333333334,0.000487,0.473,0.974,0.0,11,0.348,-1.692,0,0.111,134.959,4,https://api.spotify.com/v1/tracks/1kuf1RvZwt5KzKSR52bBPS,0.365,0
+290,For Today,Fearless,3.7771,0.000303,0.216,0.949,0.0,0,0.591,-4.138,1,0.165,94.16,4,https://api.spotify.com/v1/tracks/2vk7Km8P5hvEMgDncfbHRF,0.204,0
+291,Forevermore,Moths and Rust,3.145383333333333,0.000253,0.305,0.986,0.0,0,0.235,-2.998,1,0.204,122.156,4,https://api.spotify.com/v1/tracks/7nVVmhmkcpGGaPfIZzJqNm,0.0602,30
+292,The Ghost Inside,Avalanche,3.5394833333333335,8.62e-05,0.551,0.986,9.76e-06,10,0.364,-4.217,0,0.154,115.145,4,https://api.spotify.com/v1/tracks/2Mw7cLQMNoexIOTKHDFXeq,0.125,51
+293,The Ghost Inside,Dear Youth (Day 52),3.9635666666666665,3.38e-05,0.525,0.973,1.15e-06,10,0.267,-4.083,0,0.121,119.949,4,https://api.spotify.com/v1/tracks/5DtfTqxAYMg76AQgFaHqq3,0.397,47
+294,The Ghost Inside,My Endnote,4.036416666666667,9.08e-05,0.434,0.941,0.0,0,0.0874,-4.02,0,0.0926,124.026,4,https://api.spotify.com/v1/tracks/68NCQR4xBOv59JZQBC7GiY,0.259,37
+295,The Ghost Inside,Faith Or Forgiveness,2.83555,0.000119,0.241,0.994,0.00255,7,0.163,-0.745,1,0.162,186.017,4,https://api.spotify.com/v1/tracks/1VlNPiVrvBMCyTWYpNMqrX,0.528,36
+296,The Ghost Inside,The Lion War,2.374216666666667,0.000379,0.31,0.975,0.000813,6,0.0523,-1.027,1,0.212,196.901,4,https://api.spotify.com/v1/tracks/4fCocLW3DBrA8C3TBOEvOT,0.466,30
+297,The Ghost Inside,Blue And Gold,3.232666666666667,3.18e-05,0.475,0.995,0.067,7,0.351,-1.066,1,0.128,175.007,4,https://api.spotify.com/v1/tracks/4sOWjeOLLXnwxzCGDEwQYe,0.436,31
+298,The Ghost Inside,Destined,2.3737666666666666,0.000327,0.539,0.979,0.00688,6,0.343,-0.906,1,0.104,95.135,4,https://api.spotify.com/v1/tracks/4Cyt2LhWv6vRvUaqJNL33O,0.567,32
+299,The Ghost Inside,Engine 45,4.202583333333333,0.000296,0.493,0.948,0.0,10,0.267,-4.18,0,0.0964,146.526,4,https://api.spotify.com/v1/tracks/70SkWedrjKzDgKrqHZwAf4,0.482,55
+300,The Ghost Inside,Dark Horse,3.3443833333333335,9.31e-05,0.534,0.91,0.0,9,0.186,-3.676,1,0.0731,114.955,4,https://api.spotify.com/v1/tracks/1ll885yKfJ7L81ypmiJgFM,0.196,47
+301,The Ghost Inside,Unspoken,3.720666666666667,4.94e-05,0.276,0.985,0.000107,6,0.139,-4.059,1,0.211,94.992,4,https://api.spotify.com/v1/tracks/6dtEv4PRNEuy6WkYNIPvkp,0.419,40
+302,Gideon,Calloused,3.6746666666666665,0.00122,0.555,0.994,0.0,6,0.362,-2.139,1,0.0909,114.956,4,https://api.spotify.com/v1/tracks/6QhzpxVOPMeku3Yuz3aeEl,0.318,34
+303,Gideon,Survive (feat. Caleb Shomo of Beartooth),3.5,0.0108,0.655,0.996,0.0,6,0.344,-1.467,1,0.16,124.995,4,https://api.spotify.com/v1/tracks/55O7u30dc4HSPpMokrn3ls,0.274,39
+304,Gideon,Bad Blood,2.7348833333333333,0.000195,0.525,0.957,0.000115,6,0.396,-3.419,1,0.162,107.491,4,https://api.spotify.com/v1/tracks/5O7A6fe7HJ5S3CmxKrfjzE,0.223,30
+305,I Killed The Prom Queen,Thirty One & Sevens,3.4167666666666667,3.02e-06,0.408,0.988,0.000553,11,0.283,-3.586,0,0.0964,92.13,4,https://api.spotify.com/v1/tracks/36AheSgFmpF0Chue69lh7J,0.362,40
+306,I Killed The Prom Queen,To The Wolves,3.361666666666667,4.59e-06,0.221,0.991,0.0018,7,0.134,-3.63,1,0.11,99.645,4,https://api.spotify.com/v1/tracks/6glqBcivlMa7OyEoAaQOXL,0.149,33
+307,I See Stars,What This Means To Me,3.38,0.00161,0.45,0.946,0.0,5,0.128,-7.102,1,0.0638,140.036,4,https://api.spotify.com/v1/tracks/3r46RT7dY4iYnOih2dy37G,0.326,34
+308,I See Stars,NZT48,4.328,0.000181,0.51,0.992,0.0149,4,0.287,-3.177,0,0.224,125.049,4,https://api.spotify.com/v1/tracks/4JFw1ctN7Tx69BAl1aRko3,0.0732,35
+309,I See Stars,Filth Friends Unite,3.997333333333333,7.39e-05,0.23,0.949,0.275,0,0.089,-3.634,1,0.168,179.893,4,https://api.spotify.com/v1/tracks/46muDjhBE7uR4nrka2zI1G,0.132,39
+310,I See Stars,Ten Thousand Feet,5.736433333333333,0.000532,0.264,0.96,0.00123,6,0.214,-2.968,1,0.0906,139.967,4,https://api.spotify.com/v1/tracks/3wcnWZU7iLFh3H2XD3voPU,0.212,55
+311,I See Stars,Violent Bounce [People Like ¥øµ],4.665766666666666,0.000481,0.307,0.981,2.83e-05,9,0.126,-2.964,0,0.281,83.889,4,https://api.spotify.com/v1/tracks/6lHtGRjsKMeLwUMXzRmeJW,0.165,43
+312,I See Stars,Murder Mitten,5.036,0.000281,0.399,0.974,0.0517,4,0.137,-3.423,0,0.105,143.009,4,https://api.spotify.com/v1/tracks/7xsfPgbNn4cNSGVaNygXEQ,0.121,53
+313,Ice Nine Kills,Enjoy Your Slay,4.27,0.0265,0.225,0.954,0.0,7,0.346,-3.384,1,0.261,150.084,4,https://api.spotify.com/v1/tracks/1PtLGt35wsvUyZMBFQsV8B,0.398,42
+314,Ice Nine Kills,Communion of the Cursed,4.507416666666667,0.00138,0.415,0.991,0.000177,1,0.08,-2.972,1,0.159,74.995,4,https://api.spotify.com/v1/tracks/2auOP3r6nHpsaQKUois5aW,0.102,0
+315,Ice Nine Kills,Let's Bury the Hatchet...In Your Head,3.859766666666667,1.28e-05,0.478,0.993,0.000422,7,0.262,-2.482,1,0.154,109.847,4,https://api.spotify.com/v1/tracks/6tG3VEuLiHf32aTn6ZGIEB,0.109,0
+316,Ice Nine Kills,The Fastest Way to a Girl's Heart Is Through Her Ribcage,3.13155,8.61e-05,0.408,0.98,0.0,6,0.105,-2.428,0,0.325,170.089,4,https://api.spotify.com/v1/tracks/6KxX5ae7NXKLYE3HL8Mmxe,0.357,0
+317,Ice Nine Kills,The Power In Belief,3.6586666666666665,6.91e-05,0.485,0.977,6.34e-05,11,0.37,-3.299,0,0.136,134.996,4,https://api.spotify.com/v1/tracks/14wt7SREm8vvn72CbTQNNj,0.423,35
+318,Ice Nine Kills,What Lies Beneath,3.4991,0.000355,0.525,0.982,0.0178,1,0.134,-3.608,0,0.079,139.981,4,https://api.spotify.com/v1/tracks/6N3ssNOH6rhEEFbVWsmoZp,0.382,32
+319,Ice Nine Kills,Jonathan,2.894,2.79e-05,0.387,0.976,0.0,9,0.299,-2.681,0,0.0786,90.001,3,https://api.spotify.com/v1/tracks/6YUD8qWyy1ERMfzt6htCTD,0.444,33
+320,Ice Nine Kills,Connect The Cuts,3.199333333333333,7.48e-05,0.5,0.965,2.25e-06,9,0.369,-3.567,1,0.164,105.025,4,https://api.spotify.com/v1/tracks/6kqOWNBbrkAuufJpOC5Xvq,0.307,35
+321,Ice Nine Kills,The People Under the Stairs,3.3967,0.00447,0.381,0.961,7.95e-06,1,0.297,-4.734,0,0.183,165.007,4,https://api.spotify.com/v1/tracks/066Wot1YJt4vleSZUiKAyL,0.192,8
+322,Ice Nine Kills,Acceptance in the Waves,3.2032833333333333,0.000735,0.495,0.974,0.0,1,0.0798,-3.963,0,0.0519,102.483,4,https://api.spotify.com/v1/tracks/5CNBaWhSJVSnVa7pGDKdgJ,0.495,7
+323,Ice Nine Kills,Red Sky Warning,4.098016666666667,0.000273,0.482,0.981,0.0,1,0.326,-4.288,0,0.0831,100.038,4,https://api.spotify.com/v1/tracks/7nMxeq2vFNDiV3UehjrgUO,0.295,6
+324,Ice Nine Kills,Hell in the Hallways,4.14565,0.000557,0.429,0.98,0.0811,10,0.0645,-4.4,1,0.299,145.03,4,https://api.spotify.com/v1/tracks/4xmF0VasvklppzvvGoHBaS,0.0604,0
+325,Ice Nine Kills,The People in the Attic,3.80945,7.2e-05,0.405,0.982,0.0217,10,0.375,-2.669,1,0.123,144.991,4,https://api.spotify.com/v1/tracks/5jH07XmlXXjQs5XgO1Cbyh,0.13,0
+326,Ice Nine Kills,The Plot Sickens,3.681033333333333,0.000891,0.496,0.994,0.000551,9,0.0711,-2.388,0,0.163,117.042,4,https://api.spotify.com/v1/tracks/1jFn9BMxHngsYeFl7jR2zQ,0.115,0
+327,Ice Nine Kills,The Nature of the Beast,3.634333333333333,0.00592,0.332,0.982,0.0,10,0.112,-3.492,1,0.301,160.044,4,https://api.spotify.com/v1/tracks/5913qwlPrWJEOPsvvoBVH6,0.2,0
+328,In Flames,Only For The Weak,4.920433333333333,2.32e-06,0.458,0.909,0.758,0,0.283,-4.414,0,0.0446,105.007,4,https://api.spotify.com/v1/tracks/40HsyP1bujEhU2HtdlGRtj,0.49,0
+329,In Flames,Take This Life,3.588,2.87e-06,0.451,0.993,0.559,10,0.0866,-4.688,0,0.163,119.93,4,https://api.spotify.com/v1/tracks/5peQc4JegazWwfMmonSxAx,0.124,55
+330,In Flames,Cloud Connected,3.6784333333333334,5.87e-06,0.486,0.895,0.849,8,0.0881,-5.358,1,0.0463,95.086,4,https://api.spotify.com/v1/tracks/1FCrFcZRoKLIaZ6JDocHMf,0.327,0
+331,In Hearts Wake,Passage,3.3096,0.000142,0.434,0.907,0.0,9,0.39,-2.856,0,0.0516,95.027,4,https://api.spotify.com/v1/tracks/3k0GAW8w5Uhv1ljzjKxqRi,0.146,13
+332,In Hearts Wake,DEPARTURE feat. Winston McCall (Death),3.6277666666666666,0.000804,0.338,0.981,0.0433,2,0.249,-3.971,1,0.249,184.94,4,https://api.spotify.com/v1/tracks/7BZHYo7lE0i1GmNWXzM4GC,0.0472,0
+333,In Hearts Wake,SURVIVAL (The Chariot),3.9120333333333335,3.46e-05,0.398,0.988,0.12,2,0.22,-3.358,1,0.137,91.618,4,https://api.spotify.com/v1/tracks/1nIDXifIgvNAiztHSiQWIb,0.284,0
+334,In Hearts Wake,Earthwalker (feat. Joel Birch),3.9151,3.29e-06,0.41,0.983,0.267,6,0.127,-1.941,0,0.0981,134.071,3,https://api.spotify.com/v1/tracks/2ffYJqzB90gSmZoejFg8dO,0.298,0
+335,In Hearts Wake,Divine,4.370833333333334,0.000191,0.378,0.951,0.0567,9,0.192,-3.218,0,0.0873,115.584,4,https://api.spotify.com/v1/tracks/0UtI219scumimV6VpvN23H,0.113,0
+336,In Hearts Wake,Gravity,4.668733333333333,8.3e-06,0.459,0.974,0.073,8,0.135,-1.978,0,0.0858,141.948,4,https://api.spotify.com/v1/tracks/2g4Jj2C1v0SmdKCi1JrF6t,0.461,0
+337,In Hearts Wake,Cottonmouth,3.909883333333333,7.75e-06,0.522,0.996,0.613,10,0.576,-1.82,0,0.128,120.003,4,https://api.spotify.com/v1/tracks/5TIZX7phEhVSju4VAU4jzv,0.263,0
+338,In Hearts Wake,Afterglow,3.7916666666666665,4.36e-05,0.378,0.946,0.171,1,0.113,-2.42,0,0.0874,150.133,4,https://api.spotify.com/v1/tracks/7t8OdL63RlBkRhq3QN87dE,0.336,0
+339,In Hearts Wake,Badlands,3.2593666666666667,1.03e-05,0.551,0.997,0.617,2,0.0803,-0.974,1,0.112,111.977,4,https://api.spotify.com/v1/tracks/77NsxpKIerUoWcxdmLlQdd,0.121,0
+340,Issues,King Of Amarillo,3.4879333333333333,0.000607,0.53,0.983,1.37e-06,6,0.338,-2.474,1,0.179,150.015,4,https://api.spotify.com/v1/tracks/1ydqvtdPB7LM7XLyJKNJD4,0.333,43
+341,Jamie's Elsewhere,They Said a Storm Was Coming,3.2222166666666667,6.53e-05,0.329,0.978,0.0,6,0.396,-2.855,0,0.135,182.884,4,https://api.spotify.com/v1/tracks/6ZGS1YFAI3qjs59mpgwDcm,0.384,38
+342,Jamie's Elsewhere,Giants Among Common Men,2.588433333333333,0.00033,0.298,0.97,0.0,1,0.396,-2.657,0,0.102,90.568,4,https://api.spotify.com/v1/tracks/7yvaBWOBY20Wg5RUlaxrX2,0.47,42
+343,Jamie's Elsewhere,The Cover Up,3.5768833333333334,0.000239,0.301,0.972,0.0,3,0.146,-3.34,0,0.0963,165.061,4,https://api.spotify.com/v1/tracks/6mwJDAgas2krQZEAUy9VfZ,0.286,40
+344,Killswitch Engage,My Last Serenade,4.229333333333333,0.000506,0.441,0.943,0.0397,3,0.122,-4.996,1,0.138,177.971,4,https://api.spotify.com/v1/tracks/3uXR8I4kT1WtvtHTEj4ZHG,0.142,50
+345,Killswitch Engage,This is Absolution,3.5726666666666667,2.9e-05,0.439,0.989,0.0036,2,0.362,-2.266,0,0.053,158.004,4,https://api.spotify.com/v1/tracks/53ZwCHcVQ5hOk4wFNDgmzn,0.233,40
+346,Killswitch Engage,Daylight Dies,4.096666666666667,6.35e-05,0.338,0.991,0.000532,0,0.127,-2.113,0,0.115,179.942,4,https://api.spotify.com/v1/tracks/3vC5p2qStdb9w6m2p0jIxB,0.135,39
+347,Killswitch Engage,My Curse,4.07955,7.61e-05,0.197,0.956,0.00992,10,0.261,-2.908,0,0.0663,177.018,3,https://api.spotify.com/v1/tracks/5fodi5z7BngUgku13WtF81,0.209,44
+348,Killswitch Engage,For You,4.05355,0.000102,0.442,0.971,0.0087,8,0.439,-2.28,1,0.0592,182.119,3,https://api.spotify.com/v1/tracks/3nKEShXOr902sQp5oP7XVO,0.525,35
+349,Killswitch Engage,Reject Yourself,4.751333333333333,5.72e-05,0.161,0.988,0.0596,0,0.149,-2.8,1,0.0813,178.108,3,https://api.spotify.com/v1/tracks/2ZIYvpDFpVt9eapUnUVq0h,0.14,37
+350,Killswitch Engage,Holy Diver,4.170883333333333,7.6e-05,0.369,0.995,0.00589,0,0.241,-2.584,0,0.12,185.985,4,https://api.spotify.com/v1/tracks/3a9urnht8HvfFzPwd0ipx6,0.27,65
+351,Killswitch Engage,Beyond The Flames,2.8966666666666665,8.1e-05,0.504,0.972,0.0452,5,0.384,-4.149,0,0.11,105.026,4,https://api.spotify.com/v1/tracks/4ZqoKveUcVr33IPF7B98h6,0.24,40
+352,Killswitch Engage,In Due Time,3.292883333333333,0.000203,0.486,0.959,0.0259,0,0.173,-3.857,0,0.0485,84.997,4,https://api.spotify.com/v1/tracks/1HlOGL1p6wlpOZatJ2NwFk,0.527,56
+353,Killswitch Engage,Rose Of Sharyn,3.6051,5.59e-05,0.469,0.978,0.0168,8,0.294,-4.399,1,0.0628,90.994,4,https://api.spotify.com/v1/tracks/3ZlleUP5EE2rixueLVCi2M,0.413,45
+354,Killswitch Engage,When Darkness Falls,3.875766666666667,0.000421,0.437,0.952,0.00335,8,0.248,-3.433,1,0.0769,89.996,4,https://api.spotify.com/v1/tracks/1PYdVt6VFhhHILEV0MbbY1,0.332,43
+355,Killswitch Engage,A Bid Farewell,3.9593333333333334,2.2e-05,0.26,0.985,0.00993,2,0.07,-3.741,0,0.146,119.944,3,https://api.spotify.com/v1/tracks/4jFzAJHwqi4sELhu09W1Ti,0.299,41
+356,Killswitch Engage,Strength Of The Mind,3.7668833333333334,2.65e-05,0.508,0.963,9.38e-06,8,0.281,-2.449,1,0.102,138.009,4,https://api.spotify.com/v1/tracks/6AjXt5W30GHH3pZPrYK6TH,0.242,52
+357,Killswitch Engage,Hate By Design,3.7797666666666667,2.56e-05,0.384,0.979,6.51e-05,2,0.788,-2.451,1,0.107,179.948,4,https://api.spotify.com/v1/tracks/5hIs4syVsZeEfnEOW2LKFI,0.303,29
+358,Like Moths To Flames,Bury Your Pain,3.6700333333333335,0.00379,0.524,0.997,0.0,6,0.241,-1.394,1,0.107,129.965,4,https://api.spotify.com/v1/tracks/1JhNaEvVubRXy3wnOv10Ic,0.371,54
+359,Make Them Suffer,Fireworks,4.64375,8.15e-05,0.299,0.977,1.18e-05,5,0.26,-3.674,0,0.0856,160.004,4,https://api.spotify.com/v1/tracks/5Hi09MwgvBuVlkkLg2cFs6,0.0648,26
+360,Make Them Suffer,Neverbloom,6.5696,0.000521,0.257,0.986,4.05e-05,10,0.353,-3.366,0,0.199,112.452,4,https://api.spotify.com/v1/tracks/5siXcCwEv1BCbVLxXt8LoF,0.085,37
+361,Make Them Suffer,Elegies,5.062433333333333,4.15e-05,0.185,0.975,6.14e-06,9,0.358,-3.134,0,0.268,159.174,4,https://api.spotify.com/v1/tracks/1fYar0xLDut5KBiZFvRKfy,0.204,33
+362,Make Them Suffer,Threads,3.8666666666666667,0.000576,0.442,0.911,0.0,4,0.347,-4.531,0,0.0524,99.967,4,https://api.spotify.com/v1/tracks/00elgXEUw0DlBkANxABQ5E,0.0654,24
+363,Make Them Suffer,Requiem,4.079166666666667,3.4e-05,0.438,0.942,0.0,1,0.436,-3.136,1,0.0981,120.085,4,https://api.spotify.com/v1/tracks/6XkIjYws6zaJZB4WUmiQiv,0.0692,0
+364,Make Them Suffer,Blood Moon,4.175,0.000101,0.218,0.965,0.000276,11,0.144,-3.801,0,0.233,74.989,4,https://api.spotify.com/v1/tracks/5fbk2yvwGHe81Az4iRoDn8,0.231,30
+365,Make Them Suffer,Ether,4.633333333333334,0.000215,0.483,0.963,0.00947,1,0.25,-4.104,1,0.0843,139.996,4,https://api.spotify.com/v1/tracks/3BAzjCcQXXULROqeP5KRJh,0.176,40
+366,Make Them Suffer,Vortex (Interdimensional Spiral Hindering Inexplicable Euphoria),3.9375,5.69e-05,0.453,0.891,0.00229,9,0.17,-3.658,0,0.0402,160.052,4,https://api.spotify.com/v1/tracks/2O75ZOsfz97YX0NE1grP11,0.177,22
+367,Asking Alexandria,A Lesson Never Learned,3.9128833333333333,7.06e-05,0.367,0.987,0.00841,5,0.358,-2.517,1,0.149,160.002,4,https://api.spotify.com/v1/tracks/0h41C1evXW6n96bB2GDZJS,0.109,49
+368,Memphis May Fire,Gingervitus,4.153766666666667,5.04e-05,0.245,0.973,0.0,6,0.0526,-3.837,0,0.469,76.285,4,https://api.spotify.com/v1/tracks/2jXhXqOgVTNtxHyv0BgPEd,0.332,25
+369,Memphis May Fire,Action/Adventure,4.2171,7.62e-05,0.196,0.964,0.0,6,0.464,-3.572,0,0.269,163.652,5,https://api.spotify.com/v1/tracks/3E0TRjDCqDiK16MskcoHR6,0.488,26
+370,Memphis May Fire,Be Careful What You Wish For,3.675333333333333,3.39e-05,0.343,0.972,0.0,8,0.325,-3.654,0,0.263,170.885,4,https://api.spotify.com/v1/tracks/34aQ5raPG3DxvHFI2DAl0s,0.382,28
+371,Memphis May Fire,Alive In The Lights,4.184,0.000104,0.212,0.99,0.0,6,0.35,-2.67,0,0.266,130.009,4,https://api.spotify.com/v1/tracks/7sycIQs1ScNNXmZU22jTx1,0.221,42
+372,Memphis May Fire,Prove Me Right,4.15955,0.000192,0.382,0.994,0.0,8,0.344,-2.664,0,0.183,154.979,4,https://api.spotify.com/v1/tracks/0t3IA88SWvS4W7zAfxgKA4,0.368,45
+373,Memphis May Fire,Vices,4.134433333333333,0.00242,0.44,0.986,0.0,6,0.299,-2.635,0,0.167,155.054,3,https://api.spotify.com/v1/tracks/1Ny4Sr987Cs8vbhPMyXnUp,0.415,47
+374,Memphis May Fire,Jezebel,4.35,0.00019,0.441,0.99,0.0,8,0.394,-3.509,1,0.204,148.876,4,https://api.spotify.com/v1/tracks/1QLf2LHOcuEnMuADRq7y3J,0.276,38
+375,Memphis May Fire,Red In Tooth & Claw,4.238883333333333,0.000929,0.404,0.992,0.0,1,0.364,-2.694,1,0.252,139.919,4,https://api.spotify.com/v1/tracks/5ciAXQRCheX38memllAYSf,0.299,38
+376,Memphis May Fire,The Victim,3.981333333333333,0.000115,0.465,0.985,0.0,6,0.21,-2.237,0,0.137,125.021,4,https://api.spotify.com/v1/tracks/25yhTVpFSBx2FrxEuPl74Z,0.23,40
+377,Memphis May Fire,The Reality,4.798883333333333,2.53e-05,0.21,0.991,1.72e-06,8,0.166,-2.343,0,0.231,139.972,4,https://api.spotify.com/v1/tracks/6rTiqutj8dpoum4n5p5HZQ,0.174,36
+378,Memphis May Fire,The Sinner,4.034433333333333,1.41e-05,0.207,0.977,0.0,1,0.296,-2.583,0,0.193,128.278,4,https://api.spotify.com/v1/tracks/4SAeLRKTvdvEKUvpYIoBzT,0.42,52
+379,Memphis May Fire,A Giant In a Giants World,3.2331,0.000152,0.502,0.976,9.02e-06,3,0.0559,-5.309,0,0.0993,104.95,4,https://api.spotify.com/v1/tracks/55S8eygsajAqJoD8LIC59G,0.336,25
+380,Miss May I,Hey Mister,3.9273333333333333,3.36e-05,0.384,0.992,7.79e-05,10,0.565,-3.249,0,0.125,160.038,4,https://api.spotify.com/v1/tracks/3ORgbqQVR5oj2QlX1nML8l,0.0988,54
+381,Miss May I,I.H.E.,3.7941166666666666,0.000101,0.353,0.902,0.0,1,0.148,-3.739,1,0.0879,169.939,4,https://api.spotify.com/v1/tracks/7cH0Xu3Gs9T4pHDQw9pQzL,0.118,23
+382,Miss May I,Lost in the Grey,3.5148166666666665,2.8e-06,0.41,0.943,0.00274,10,0.239,-4.283,1,0.0989,165.012,4,https://api.spotify.com/v1/tracks/0dsRp54QSsTMLqWVcwnu1A,0.238,2
+383,Miss May I,Relentless Chaos,3.4233333333333333,0.000143,0.458,0.992,0.000125,8,0.43,-4.137,1,0.13,107.469,4,https://api.spotify.com/v1/tracks/7nhVyBlhRDa1im9QZLOf9M,0.107,44
+384,Miss May I,Masses Of A Dying Breed,3.9962166666666668,2.52e-05,0.375,0.961,0.000353,0,0.345,-3.004,1,0.0756,92.545,4,https://api.spotify.com/v1/tracks/3DlayBa0kc2ec1L1VNTrZK,0.239,41
+385,Motionless In White,Abigail,2.882,3.03e-05,0.277,0.894,0.000609,6,0.278,-4.578,1,0.0805,92.18,4,https://api.spotify.com/v1/tracks/2R3cF8JsYY9moONAnC3TRD,0.3,0
+386,Motionless In White,Devil's Night,3.94955,0.00182,0.244,0.99,0.445,11,0.0759,-2.726,0,0.209,133.408,4,https://api.spotify.com/v1/tracks/4Ilqy967hRan3HCFNDztOW,0.196,0
+387,Motionless In White,Reincarnate,3.6672333333333333,0.000259,0.476,0.989,0.000142,7,0.331,-4.11,1,0.196,109.974,4,https://api.spotify.com/v1/tracks/3T5rjMa9iTLiNJbPM43Lrm,0.103,0
+388,Motionless In White,To Keep From Getting Burned,3.5144333333333333,7.3e-05,0.185,0.838,8.55e-05,8,0.344,-4.322,1,0.108,90.428,4,https://api.spotify.com/v1/tracks/1nYA8lyEGFsA4KUmMBd6Yv,0.392,0
+389,Motionless In White,Fatal,5.321933333333333,5.23e-06,0.212,0.878,0.794,7,0.292,-5.043,1,0.0619,109.687,4,https://api.spotify.com/v1/tracks/1r8fUpKCnt0sN2uTpjmcK0,0.206,35
+390,Northlane,Transcending Dimensions,3.720666666666667,1.11e-05,0.356,0.998,0.0595,1,0.108,-2.038,1,0.298,180.08,4,https://api.spotify.com/v1/tracks/23S6Hbb5NVEt0uH7KenQEI,0.205,3
+391,Northlane,Citizen,4.40835,1.4e-05,0.372,0.986,0.000111,5,0.314,-3.089,1,0.104,171.982,4,https://api.spotify.com/v1/tracks/60snjZK3lWHNRt4doPT1NR,0.387,19
+392,Northlane,Refuge,5.12265,0.00133,0.465,0.978,0.0,5,0.195,-4.398,0,0.188,140.023,4,https://api.spotify.com/v1/tracks/6V5VpoRKAjcnLI1zhopFrW,0.12,18
+393,Northlane,Colourwave,3.6965,1.33e-05,0.254,0.945,0.0841,11,0.399,-4.373,1,0.0636,92.955,4,https://api.spotify.com/v1/tracks/5duRav2O3YWhxC7bF1rhu2,0.294,15
+394,Northlane,Quantum Flux,4.06565,0.00254,0.53,0.907,3.91e-05,8,0.1,-3.066,1,0.0589,109.997,4,https://api.spotify.com/v1/tracks/40qSFV6TIvL46ZUlsZnpih,0.264,13
+395,Oceans Ate Alaska,Hansha,3.6411,0.00169,0.519,0.866,5.59e-06,4,0.499,-4.587,0,0.0515,130.006,4,https://api.spotify.com/v1/tracks/3EC4B8QG0trMZFHBbiDKVN,0.315,49
+396,Oceans Ate Alaska,Covert,3.2228833333333333,0.00012,0.261,0.873,0.0406,0,0.133,-4.654,1,0.0649,104.922,4,https://api.spotify.com/v1/tracks/7FJMv80ewZoKtVoIZP29Qc,0.141,41
+397,Oceans Ate Alaska,Escapist,4.324433333333333,6.72e-05,0.375,0.84,0.000889,7,0.132,-4.686,1,0.0552,115.666,4,https://api.spotify.com/v1/tracks/2T14fIRkl4TZ84fNlnOb6G,0.277,40
+398,Oceans Ate Alaska,Deadweight,3.092433333333333,0.000106,0.488,0.889,0.0126,6,0.726,-4.633,0,0.0613,131.434,4,https://api.spotify.com/v1/tracks/6CN2RVQYWLQPnCKasZqO6v,0.273,36
+399,Oceans Ate Alaska,Blood Brothers,3.572583333333333,2.51e-05,0.231,0.997,0.381,6,0.235,-2.605,0,0.316,144.968,4,https://api.spotify.com/v1/tracks/3kvcdQwtsgKdUsXfXeRiB5,0.147,0
+400,Oceans Ate Alaska,High Horse,2.77555,4.5e-05,0.316,0.987,0.0541,6,0.355,-2.825,1,0.221,111.226,4,https://api.spotify.com/v1/tracks/4D3S6Lngb0j3nxjQLZ3a7t,0.493,0
+401,Oceans Ate Alaska,Vultures and Sharks,3.5313166666666667,0.000118,0.413,0.992,0.0139,1,0.149,-2.461,1,0.284,160.074,4,https://api.spotify.com/v1/tracks/5OT3OVworwoZVoHeR1IN8h,0.198,0
+402,Oceans Ate Alaska,Floorboards,3.9319,0.000292,0.578,0.993,0.000127,4,0.273,-2.691,0,0.203,121.78,4,https://api.spotify.com/v1/tracks/5P6VrjUDHR37Z7esauKFgg,0.18,0
+403,Of Mice & Men,Back To Me,3.3019,0.000423,0.515,0.888,0.0,2,0.0518,-4.364,0,0.062,110.002,4,https://api.spotify.com/v1/tracks/4EFlZgUKYD55mRBfOX02Z2,0.279,55
+404,Of Mice & Men,The Flood,3.1751,2.55e-05,0.263,0.947,0.00726,5,0.266,-3.985,1,0.234,112.894,1,https://api.spotify.com/v1/tracks/2w5ArUQG01dfvSxL1DsGqV,0.123,41
+405,Of Mice & Men,O.G. Loko,3.3133333333333335,1.17e-05,0.502,0.98,0.000575,5,0.289,-2.865,1,0.155,140.007,4,https://api.spotify.com/v1/tracks/62TfINq6PpnteUcWsQahxV,0.295,45
+406,Of Mice & Men,Let Live,4.276666666666666,4.87e-05,0.386,0.974,7.03e-05,8,0.434,-2.539,1,0.092,82.545,4,https://api.spotify.com/v1/tracks/68mQv5RUC8yKiBQxlSl0I4,0.146,44
+407,Of Mice & Men,THIS ONE'S FOR YOU,3.4431,0.000361,0.27,0.971,1.15e-05,1,0.21,-3.509,0,0.11,127.319,1,https://api.spotify.com/v1/tracks/7AGdSq5R8IK8dz49l3Z8iN,0.192,43
+408,Of Mice & Men,SECOND & SEBRING,3.8186666666666667,0.000892,0.273,0.973,0.0,1,0.388,-3.324,0,0.0807,133.428,4,https://api.spotify.com/v1/tracks/3bdqdxoWXP3z0KuDt0o4Cn,0.179,60
+409,Of Mice & Men,Bones Exposed,4.26155,2.95e-05,0.467,0.942,0.000562,5,0.47,-4.117,1,0.055,139.952,4,https://api.spotify.com/v1/tracks/0TbbFwClRBAyURSBynegzo,0.223,52
+410,"Oh, Sleeper",Hush Yael,4.481333333333334,5.62e-05,0.283,0.948,0.0,2,0.0528,-4.683,0,0.114,144.946,4,https://api.spotify.com/v1/tracks/6YdznQRWvWTAHGv5hDGkA8,0.156,37
+411,"Oh, Sleeper",Dealers Of Fame,2.9593333333333334,4.03e-06,0.117,0.93,0.0,10,0.0871,-3.507,1,0.114,81.948,4,https://api.spotify.com/v1/tracks/0Ks7zjyz2zEXiDnnoO6INW,0.22,29
+412,Parkway Drive,Dream Run,4.141766666666666,0.0015,0.225,0.997,0.000259,11,0.232,-3.524,0,0.314,174.435,4,https://api.spotify.com/v1/tracks/5TeolAk3EbSPxafusAbL3S,0.203,45
+413,Parkway Drive,Swing,3.5288833333333334,0.000205,0.232,0.99,0.000153,1,0.307,-4.508,0,0.166,190.004,4,https://api.spotify.com/v1/tracks/7EuOA3u04bWOvNw6RZQZy7,0.413,46
+414,Parkway Drive,The Slow Surrender,4.234666666666667,0.00152,0.535,0.947,0.000477,4,0.0839,-4.117,0,0.145,129.819,4,https://api.spotify.com/v1/tracks/18pix4twyWpotDwCBmdpsC,0.301,42
+415,Parkway Drive,Snake Oil and Holy Water,2.8124333333333333,0.000398,0.479,0.998,6.24e-06,4,0.347,-4.766,1,0.154,100.047,4,https://api.spotify.com/v1/tracks/0kElm47dTGS02bGLU0pE0D,0.231,39
+416,Parkway Drive,Wild Eyes,4.3097666666666665,0.000732,0.299,0.99,0.000405,6,0.165,-3.498,1,0.156,110.313,4,https://api.spotify.com/v1/tracks/2IXhyxZCN3ZkVPHQJXi5ij,0.197,0
+417,Parkway Drive,Dark Days,4.09,0.000576,0.337,0.988,0.0,10,0.0872,-3.984,0,0.185,125.507,4,https://api.spotify.com/v1/tracks/6jEv9MO2HudrUQyDFNIa5S,0.251,0
+418,Parkway Drive,Bottom Feeder,4.3349166666666665,8.43e-05,0.548,0.978,0.000509,6,0.919,-3.965,1,0.0935,121.05,4,https://api.spotify.com/v1/tracks/05Pr1DWWpeLjNE4rANibTh,0.348,0
+419,Parkway Drive,Crushed,4.6037,0.00228,0.404,0.964,5.16e-06,2,0.0888,-4.569,1,0.115,84.996,4,https://api.spotify.com/v1/tracks/1pK3MvpREkprR4xUYFBCW5,0.24,0
+420,Parkway Drive,Wreckage,3.3505666666666665,3.74e-05,0.38,0.942,0.000598,1,0.101,-3.949,0,0.0553,142.319,4,https://api.spotify.com/v1/tracks/0gMREA9nAh1RD7TZ6WmQA5,0.258,45
+421,Parkway Drive,Deliver Me,4.23065,7.77e-05,0.29,0.868,5.15e-06,1,0.408,-4.392,1,0.0773,90.889,4,https://api.spotify.com/v1/tracks/1OuOKS43b3pRYb9d49WrBp,0.193,49
+422,Parkway Drive,Alone,4.510783333333333,8.58e-05,0.337,0.923,0.000176,7,0.307,-3.769,1,0.0585,140.106,4,https://api.spotify.com/v1/tracks/4WVHavRszD52Jhhvb7OIU6,0.348,42
+423,Parkway Drive,Home Is For The Heartless,4.140883333333333,0.000404,0.467,0.915,4.07e-05,6,0.0778,-4.826,0,0.0668,140.066,4,https://api.spotify.com/v1/tracks/2mvi7qtDNLuh25oOcHVEOk,0.151,47
+424,Parkway Drive,Sleepwalker,4.017216666666667,0.000174,0.314,0.962,4.68e-05,10,0.093,-4.81,0,0.191,144.125,4,https://api.spotify.com/v1/tracks/0iDliJYyi0lpTvEPKUtXjw,0.298,0
+425,Parkway Drive,Karma,3.81955,5.02e-05,0.314,0.937,0.00418,10,0.0901,-3.987,0,0.101,139.769,4,https://api.spotify.com/v1/tracks/6r7QPtc8YuGoOd55gKp4Jx,0.469,0
+426,Parkway Drive,Deadweight,3.788866666666667,3.93e-05,0.313,0.911,0.0959,10,0.151,-3.578,0,0.111,135.122,4,https://api.spotify.com/v1/tracks/6pzNuYfmfC7uAbQYgXv6h6,0.346,0
+427,Parkway Drive,Carrion,3.1254,0.000275,0.228,0.969,0.0,6,0.0999,-4.07,0,0.1,155.213,4,https://api.spotify.com/v1/tracks/6iC4yNDnwpSJ61Sz8g6EDG,0.428,0
+428,Parkway Drive,Boneyards,3.2624333333333335,0.000347,0.158,0.947,7.43e-05,1,0.231,-4.006,0,0.19,194.346,4,https://api.spotify.com/v1/tracks/0TIef4jRYHONrw4BVvDGT0,0.272,48
+429,Parkway Drive,Idols and Anchors,3.8037666666666667,4.41e-05,0.359,0.945,0.00084,4,0.181,-3.401,1,0.0794,157.937,4,https://api.spotify.com/v1/tracks/4kJ5xTh1TyX7ECAOfKJ9Je,0.307,50
+430,Parkway Drive,Horizons,5.65,4.31e-05,0.237,0.974,0.000162,6,0.0414,-4.514,0,0.0779,109.386,4,https://api.spotify.com/v1/tracks/2i5lnmaZ9tB8pom8Br4KS5,0.102,46
+431,Parkway Drive,Hollow,3.01,0.000378,0.321,0.942,1.49e-05,9,0.0908,-4.303,0,0.136,165.602,4,https://api.spotify.com/v1/tracks/7knySQZqxXZhkoFUuMckn2,0.23,41
+432,Parkway Drive,Dying To Believe,3.2144166666666667,1.25e-05,0.513,0.986,0.00144,6,0.323,-3.232,1,0.14,115.0,4,https://api.spotify.com/v1/tracks/7pJoK4OQGGlTF5z7QLAFSc,0.521,41
+433,Parkway Drive,Fractures,5.548533333333333,7.03e-05,0.343,0.973,0.0312,4,0.179,-3.499,0,0.0797,160.073,4,https://api.spotify.com/v1/tracks/6MWBYF4D1LuBoYQa5LeC33,0.393,40
+434,Parkway Drive,Destroyer,4.789,3.2e-05,0.465,0.988,0.0114,3,0.13,-4.126,0,0.106,133.017,4,https://api.spotify.com/v1/tracks/19STBV8KgQ5TqoYbio5Ewm,0.155,48
+435,Parkway Drive,Romance Is Dead,5.29845,0.000447,0.221,0.924,0.0068,6,0.389,-4.57,0,0.123,146.797,4,https://api.spotify.com/v1/tracks/6Q9XnZPl7qbvvYV3UBz6bP,0.154,48
+436,Parkway Drive,Feed Them to the Pigs,2.58355,0.000122,0.299,0.968,9.15e-06,3,0.157,-4.188,1,0.119,104.555,3,https://api.spotify.com/v1/tracks/6LIbQIlw1duibkEMrvkGy9,0.447,42
+437,Phinehas,I Am the Lion,4.882433333333333,0.000307,0.231,0.96,0.000321,8,0.11,-4.364,1,0.118,138.735,4,https://api.spotify.com/v1/tracks/6jb5BmBYmu3naXXDeZ62nC,0.176,38
+438,Phinehas,White Livered,3.0736166666666667,1.06e-05,0.36,0.978,0.000647,11,0.344,-2.442,0,0.199,114.597,4,https://api.spotify.com/v1/tracks/6ngUmTWGAWQlCDnM2GzOso,0.324,0
+439,Phinehas,Dead Choir,3.54175,8.04e-06,0.225,0.964,0.000198,8,0.231,-2.515,1,0.143,101.147,3,https://api.spotify.com/v1/tracks/1pfafAH250L6UoCIsUow78,0.268,0
+440,Phinehas,Truth Be Told,3.6814666666666667,3.71e-06,0.384,0.953,0.0127,7,0.123,-2.279,1,0.0798,135.014,4,https://api.spotify.com/v1/tracks/0pSbgGtlTcP37zgfIoZzqY,0.21,0
+441,Phinehas,Forever West,3.50555,9.84e-06,0.307,0.957,0.000236,8,0.0783,-2.743,1,0.175,109.181,4,https://api.spotify.com/v1/tracks/5pbiTXxwtI4oq86UJ98qso,0.396,0
+442,The Plot In You,Fiction Religion,3.6035666666666666,0.00492,0.312,0.946,2.97e-05,1,0.505,-2.686,1,0.155,149.829,4,https://api.spotify.com/v1/tracks/2XwVLxj07KF3HCq8zRrxBe,0.103,31
+443,The Plot In You,Troll,3.3127333333333335,2.54e-05,0.36,0.976,0.000548,1,0.373,-2.528,1,0.183,158.834,4,https://api.spotify.com/v1/tracks/6z0uC372kWl8Mt6inZQuJS,0.158,33
+444,The Plot In You,FEEL NOTHING,3.7222,0.00151,0.432,0.721,0.0,4,0.0894,-6.53,0,0.0434,144.082,4,https://api.spotify.com/v1/tracks/1qHKp7GcZAkokEQVXPrPI8,0.242,0
+445,The Plot In You,Hole in the Wall,3.0208833333333334,0.00191,0.526,0.982,0.00325,7,0.275,-1.814,1,0.113,109.959,4,https://api.spotify.com/v1/tracks/2K39yQWge0qXvJXoPubgJX,0.265,37
+446,The Plot In You,Living Your Dream,2.3833333333333333,4.21e-05,0.494,0.975,0.0418,8,0.37,-1.424,0,0.0752,90.039,4,https://api.spotify.com/v1/tracks/1JJ3g9SL1ZnvbGY6qMSdnU,0.431,32
+447,The Plot In You,My Old Ways,3.9968666666666666,0.00136,0.516,0.997,0.00122,10,0.129,-1.956,0,0.156,120.0,4,https://api.spotify.com/v1/tracks/5iltmmHQAmNQ7a0M7yrJEb,0.112,0
+448,Secrets,Heartbreak Kids,3.7647,2.29e-05,0.349,0.975,0.00111,5,0.0651,-4.532,0,0.121,169.989,4,https://api.spotify.com/v1/tracks/5nuWrXcuQftEWJNzbb4SGR,0.307,36
+449,Silverstein,Cut and Run,2.867566666666667,0.000964,0.45,0.973,0.0,3,0.161,-5.37,0,0.0731,135.989,4,https://api.spotify.com/v1/tracks/3qKbOFVpM8x3XpyYnnMawN,0.431,40
+450,Silverstein,Smile in Your Sleep,3.232,0.00301,0.434,0.952,1.6e-05,4,0.406,-3.177,0,0.18,184.048,4,https://api.spotify.com/v1/tracks/6pa830TqTW4EQdsxVV2goe,0.296,55
+451,Silverstein,Buried At Sea,3.10425,0.00309,0.5,0.936,0.0,1,0.289,-7.279,1,0.0684,95.012,4,https://api.spotify.com/v1/tracks/7BzbHAPfgkIG1vwgYMnbLK,0.686,36
+452,Silverstein,The Continual Condition,3.5079833333333332,0.00607,0.475,0.889,0.0,1,0.349,-7.362,0,0.0428,186.977,4,https://api.spotify.com/v1/tracks/1xmp6lug8YE7b96E53Wmpm,0.637,32
+453,Silverstein,Milestone,3.477516666666667,0.00813,0.416,0.928,0.0,1,0.0636,-7.232,0,0.111,180.002,4,https://api.spotify.com/v1/tracks/1kBhsBq1bpuU91nfZgZC17,0.603,33
+454,Silverstein,Forget Your Heart,3.7529666666666666,0.0428,0.436,0.888,0.0,6,0.0855,-4.387,0,0.0427,176.026,4,https://api.spotify.com/v1/tracks/119p4M6SUkFTSF2XGXR6gR,0.491,33
+455,Silverstein,Massachusetts,2.9563166666666665,3.44e-05,0.435,0.955,0.0,1,0.211,-3.611,0,0.0511,178.021,4,https://api.spotify.com/v1/tracks/0cqJbZTSTVaKKanw5az3pV,0.824,43
+456,Silverstein,On Brave Mountains We Conquer,2.60545,4.65e-05,0.522,0.989,0.0,9,0.251,-3.574,1,0.0408,114.968,4,https://api.spotify.com/v1/tracks/2IEnWbVMK4BPTNV1iPxUZm,0.484,35
+457,A Skylit Drive,Rise,3.2096666666666667,0.00078,0.238,0.935,0.0,1,0.262,-2.105,0,0.0628,119.402,4,https://api.spotify.com/v1/tracks/4bO90UtXyCqmvil6A4CvnA,0.734,45
+458,Sleeping With Sirens,If You Can't Hang,4.1706666666666665,0.00152,0.397,0.975,0.0,2,0.118,-3.532,0,0.365,192.021,4,https://api.spotify.com/v1/tracks/3ouugfdFz6exFXUxu7wRvD,0.451,64
+459,Sleeping With Sirens,Four Corners and Two Sides,3.3106666666666666,0.000281,0.465,0.979,0.0,8,0.318,-2.769,1,0.11,157.114,4,https://api.spotify.com/v1/tracks/1rsVSY6B7Q7ZQso9018tRs,0.459,42
+460,Sleeping With Sirens,"If I'm James Dean, You're Audrey Hepburn",3.6517666666666666,2.1e-05,0.425,0.936,0.0,8,0.926,-5.52,0,0.0829,158.046,4,https://api.spotify.com/v1/tracks/1wFRkVclQWfMQQcaVLjmBE,0.417,60
+461,Stick To Your Guns,Against Them All,3.296,4.01e-05,0.336,0.983,8.64e-05,10,0.0437,-3.338,1,0.0786,129.774,4,https://api.spotify.com/v1/tracks/6XlKo5wUHdbG4kb4wiqTVR,0.423,49
+462,Stick To Your Guns,What Choice Did You Give Us?,2.9228833333333335,0.000212,0.209,0.982,0.000747,7,0.306,-5.844,0,0.169,162.282,4,https://api.spotify.com/v1/tracks/0QyHaW6GACh3mTEtNd0VeS,0.117,44
+463,Stick To Your Guns,Nobody,3.0979833333333335,2.79e-05,0.391,0.967,0.000561,10,0.343,-5.841,1,0.137,171.012,4,https://api.spotify.com/v1/tracks/0M4mRCNZAGblCl8XShBV3X,0.165,51
+464,Stick To Your Guns,The Crown,3.5048833333333334,8.09e-05,0.44,0.925,0.000641,9,0.181,-6.897,0,0.147,164.877,4,https://api.spotify.com/v1/tracks/3D1hNEE0G6HyB1QkJ4cpHd,0.477,42
+465,Stick To Your Guns,Amber,3.57955,0.000993,0.421,0.975,0.0,10,0.154,-3.178,1,0.111,164.988,4,https://api.spotify.com/v1/tracks/3BEZTebwqhx3LQVFJWOMtQ,0.372,47
+466,Sworn In,Snake Eyes,3.51955,0.000129,0.284,0.997,0.0,4,0.939,-2.623,1,0.24,121.854,4,https://api.spotify.com/v1/tracks/0WQkTyLmvqWohwnP5Cra2A,0.133,0
+467,Texas In July,"Hook, Line and Sinner",3.4,4.28e-06,0.266,0.96,0.00195,7,0.219,-4.408,1,0.222,159.984,4,https://api.spotify.com/v1/tracks/1kmPojhjbBZWbj45HZpBGu,0.444,44
+468,This Or The Apocalypse,Americans,4.433333333333334,0.000269,0.464,0.961,0.000171,11,0.15,-2.587,0,0.102,134.938,4,https://api.spotify.com/v1/tracks/4BuUH1uf87VL4rvsrSOH4v,0.211,33
+469,Trivium,A Gunshot To The Head Of Trepidation,5.922,2.68e-05,0.254,0.952,0.000391,2,0.209,-3.472,0,0.0497,145.024,4,https://api.spotify.com/v1/tracks/3uq1JSqEFzVzcmFJc6SXDS,0.481,46
+470,Trivium,In Waves,5.0411,0.000211,0.477,0.94,0.0518,9,0.346,-3.435,1,0.103,76.517,4,https://api.spotify.com/v1/tracks/0HRrX9EWtLIy6UC2nS7p85,0.338,47
+471,Trivium,Built To Fall,3.136433333333333,0.00011,0.379,0.985,0.00858,1,0.324,-3.14,0,0.0609,142.326,4,https://api.spotify.com/v1/tracks/50qvdnwojVWy7vVIsenyBO,0.509,40
+472,Trivium,Kirisute Gomen,6.456666666666667,4e-05,0.207,0.982,6.1e-05,11,0.112,-2.623,1,0.251,198.171,4,https://api.spotify.com/v1/tracks/5oELEE5XmqWw9gIFsb878g,0.126,45
+473,Trivium,Down From The Sky,5.574,3.73e-05,0.453,0.987,2.25e-06,11,0.0576,-2.298,0,0.0903,160.035,4,https://api.spotify.com/v1/tracks/5LePaQIrJcIwrUzNEr3m86,0.336,52
+474,Trivium,Silence In the Snow,3.6736,3e-05,0.311,0.955,0.00622,10,0.106,-7.298,0,0.0803,113.148,4,https://api.spotify.com/v1/tracks/1EETJSnmmDBjxTkF5wtZYQ,0.126,35
+475,Trivium,Until The World Goes Cold,5.352683333333333,0.000244,0.517,0.887,0.00258,10,0.151,-7.637,0,0.0732,166.008,4,https://api.spotify.com/v1/tracks/1hPKSQuvfLlPeIu8xhRyTf,0.531,61
+476,Trivium,The Sin And The Sentence,5.83115,0.000386,0.517,0.97,0.00026,1,0.0413,-3.992,1,0.0767,100.036,4,https://api.spotify.com/v1/tracks/0v94bkWX5NUtTN7OpCcA19,0.476,3
+477,Trivium,Thrown Into The Fire,5.491333333333333,0.000184,0.448,0.978,0.0102,3,0.121,-3.83,1,0.167,144.998,4,https://api.spotify.com/v1/tracks/6PXjY2Hr2LgTSGfJRa0UG7,0.17,50
+478,Trivium,The Heart From Your Hate,4.064216666666667,0.00876,0.582,0.928,5.03e-06,10,0.297,-4.659,0,0.0635,113.043,4,https://api.spotify.com/v1/tracks/5yDJpu0xh0d1w13gXaE3lS,0.565,66
+479,Trivium,Betrayer,5.450433333333334,0.000258,0.462,0.976,0.0012,1,0.334,-3.569,1,0.093,96.992,4,https://api.spotify.com/v1/tracks/66fnnX8Mvq71C8dYO4aWSt,0.4,54
+480,Trivium,Vengeance Falls,4.22755,3.02e-05,0.292,0.99,2.17e-05,6,0.0818,-1.782,0,0.225,138.051,4,https://api.spotify.com/v1/tracks/2lMUd30HfEa9mO32KiMqcb,0.204,37
+481,Underoath,When The Sun Sleeps,5.56755,0.00994,0.471,0.995,7.86e-05,4,0.317,-4.043,0,0.115,148.244,4,https://api.spotify.com/v1/tracks/6Nli50yhqSKAQh7bJii0wz,0.133,24
+482,Underoath,You're Ever So Inviting,4.230433333333333,0.000569,0.339,0.99,1.52e-05,2,0.198,-2.111,0,0.143,179.983,4,https://api.spotify.com/v1/tracks/5rK0oa87GjgVTJ8bGcaape,0.131,41
+483,Underoath,Writing on the Walls,4.040216666666667,0.00364,0.358,0.959,0.000237,2,0.356,-3.139,0,0.0874,91.938,4,https://api.spotify.com/v1/tracks/313yF0VXTCmFFoYEJF7nBQ,0.171,55
+484,Underoath,In Regards to Myself,3.40355,3.31e-05,0.28,0.98,0.00132,10,0.503,-2.164,1,0.121,159.811,4,https://api.spotify.com/v1/tracks/3VC4KHC7cRhuG6nYx4f1qj,0.217,47
+485,Underoath,Young and Aspiring,3.0773333333333333,0.00029,0.286,0.991,1.98e-06,4,0.773,-3.229,0,0.419,180.035,4,https://api.spotify.com/v1/tracks/5AcWLXw3J6XVC9Ba6SNB0u,0.188,44
+486,Underoath,A Boy Brushed Red Living in Black and White,4.466666666666667,0.00186,0.42,0.934,0.0,1,0.344,-3.597,0,0.112,170.003,4,https://api.spotify.com/v1/tracks/47IWLfIKOKhFnz1FUEUIkE,0.461,58
+487,Underoath,Reinventing Your Exit,4.376216666666667,0.000119,0.462,0.974,6.91e-06,9,0.355,-4.228,0,0.0653,77.505,4,https://api.spotify.com/v1/tracks/591vJuuep0gfPhx9p8WPD5,0.253,54
+488,Underoath,"Down, Set, Go",3.736,0.00182,0.391,0.942,0.00201,6,0.384,-4.151,0,0.0962,172.383,4,https://api.spotify.com/v1/tracks/1Kf4N09laoNZfMmvQiIBez,0.486,43
+489,Underoath,I Don't Feel Very Receptive Today,3.7024333333333335,0.000285,0.3,0.957,0.0226,2,0.383,-5.076,0,0.107,95.04,4,https://api.spotify.com/v1/tracks/4TERfEN0vTc4oMYwdNIr2A,0.137,38
+490,Underoath,Anyone Can Dig A Hole But It Takes A Real Man To Call It Home,3.2737666666666665,0.000115,0.163,0.95,0.0,10,0.35,-4.086,1,0.0947,173.827,4,https://api.spotify.com/v1/tracks/1YNmI8U6y6DTw56oOITpiS,0.253,36
+491,Underoath,A Fault Line. A Fault Of Mine,3.3591,4.6e-05,0.142,0.945,0.00198,9,0.103,-5.01,0,0.119,177.285,4,https://api.spotify.com/v1/tracks/1XI4mmQ96K6uRHTxYpQmF1,0.165,37
+492,Underoath,The Only Survivor Was Miraculously Unharmed,3.1491,6.43e-05,0.371,0.979,0.00359,9,0.754,-4.337,0,0.17,140.075,3,https://api.spotify.com/v1/tracks/39YY2f25NUloPuDQpe5VZx,0.364,33
+493,Underoath,Coming Down Is Calming Down,3.254,1.57e-05,0.414,0.95,0.0253,7,0.449,-5.031,1,0.213,95.03,4,https://api.spotify.com/v1/tracks/2wCKGd4ODvXDmI4Rl6gaz4,0.239,31
+494,Underoath,"Desperate Times, Desperate Measures",3.45955,3.1e-05,0.285,0.99,0.00553,10,0.493,-4.824,1,0.393,179.853,4,https://api.spotify.com/v1/tracks/4TLK7Umh2d9UO3ZajvE6AV,0.129,38
+495,Underoath,There Could Be Nothing After This,3.43355,0.00111,0.327,0.988,1.21e-05,2,0.372,-2.8,0,0.246,176.904,4,https://api.spotify.com/v1/tracks/0mNq7RNDBjoTqd2XT36qUL,0.0808,38
+496,Underoath,Moving for the Sake of Motion,3.258,1.13e-05,0.248,0.99,0.00614,9,0.437,-2.006,1,0.117,185.087,4,https://api.spotify.com/v1/tracks/0qxAdhIIf3S6Nwq88qp8i0,0.135,38
+497,Underoath,Everyone Looks So Good From Here,2.9342166666666665,0.00027,0.163,0.984,6.54e-06,2,0.374,-2.18,1,0.113,177.562,4,https://api.spotify.com/v1/tracks/1rfMDstuBGujKWQ5I7yMZz,0.092,35
+498,Veil Of Maya,Doublespeak,4.2151,0.000154,0.417,0.979,8.12e-05,7,0.166,-4.074,1,0.101,143.956,4,https://api.spotify.com/v1/tracks/7CcyataQHRtG1cS4bFSQTr,0.179,28
+499,Veil Of Maya,Punisher,2.5406666666666666,0.000139,0.37,0.986,0.000777,5,0.929,-5.213,0,0.144,144.976,4,https://api.spotify.com/v1/tracks/1EZs2t6k55zUFbhX5jEJkg,0.136,39
+500,Veil Of Maya,Mikasa,3.164283333333333,2.46e-05,0.501,0.991,0.0,7,0.107,-1.731,1,0.0996,110.001,3,https://api.spotify.com/v1/tracks/3WERezDCiZxIDfghCax9uJ,0.222,56
+501,Veil Of Maya,Teleute,3.0016,2.23e-05,0.35,0.961,0.000109,1,0.371,-2.045,0,0.176,114.157,4,https://api.spotify.com/v1/tracks/4h9uSVP5TLMgfIushabPE2,0.22,41
+502,Veil Of Maya,Overthrow,3.9193333333333333,2.7e-05,0.373,0.992,1.13e-05,2,0.351,-4.142,1,0.132,102.723,3,https://api.spotify.com/v1/tracks/24ynUDN0jSQykVbYKBu1Hu,0.211,34
+503,Veil Of Maya,Leeloo,2.860116666666667,2.39e-05,0.457,0.98,0.000141,8,0.143,-2.198,1,0.113,149.876,4,https://api.spotify.com/v1/tracks/2zhUEysANMxLoOA9abJABp,0.415,41
+504,Volumes,The Columbian Faction,4.5131,4.73e-05,0.207,0.983,0.371,4,0.302,-2.315,1,0.171,173.853,4,https://api.spotify.com/v1/tracks/6EXuS1iiNAxepF3ivzY9sK,0.35,0
+505,Volumes,Edge Of The Earth,4.900883333333334,4.86e-05,0.544,0.985,0.767,8,0.13,-2.361,1,0.173,120.003,4,https://api.spotify.com/v1/tracks/2GYcaLsgZ9kX6kgooQTQ7Q,0.316,0
+506,Wage War,Hollow,1.1417166666666667,1.38e-05,0.607,0.937,0.409,6,0.196,-5.928,1,0.0734,119.999,4,https://api.spotify.com/v1/tracks/4BQpSGWDPeiJyFXdIuKpqf,0.326,0
+507,Wage War,Twenty One,4.223916666666667,3.93e-05,0.447,0.982,0.00012,1,0.177,-4.64,1,0.234,140.001,4,https://api.spotify.com/v1/tracks/4SSwIGHMP3Zj68RrHzI9gC,0.295,0
+508,Wage War,Alive,3.4099333333333335,4.07e-05,0.513,0.989,0.044,1,0.0612,-5.66,1,0.101,104.999,4,https://api.spotify.com/v1/tracks/4WKNVa9XJX4GQsEeK2NMIS,0.357,0
+509,Wage War,Blueprints,4.375566666666667,1.19e-05,0.546,0.968,0.0232,8,0.314,-5.276,1,0.143,120.009,4,https://api.spotify.com/v1/tracks/0T5aouYQdGjeX32AOlZXTW,0.113,0
+510,Wage War,Youngblood,4.047166666666667,0.000177,0.462,0.956,0.000179,10,0.326,-6.358,0,0.123,99.951,4,https://api.spotify.com/v1/tracks/0PkRi4dhM5BhYaNzTHAOVL,0.212,0
+511,Wage War,The River,3.802233333333333,1.73e-05,0.545,0.948,0.105,8,0.0804,-6.379,1,0.0839,144.957,4,https://api.spotify.com/v1/tracks/4jH64Mm3MnXPGtRf0pZINP,0.224,0
+512,Wage War,Deadlocked,3.9296333333333333,1.23e-05,0.494,0.988,0.00609,10,0.407,-5.197,0,0.152,104.956,4,https://api.spotify.com/v1/tracks/1GYVQPrjNeZe5PLS2LNk7c,0.103,0
+513,Wage War,Enemy,3.9724833333333334,1.16e-05,0.35,0.985,0.47,3,0.354,-5.214,0,0.146,200.037,4,https://api.spotify.com/v1/tracks/7MdzGsGJClc1SG93DYjzYt,0.256,0
+514,Wage War,Spineless,2.0040833333333334,1.49e-05,0.582,0.957,0.00866,11,0.348,-5.128,0,0.0782,120.045,4,https://api.spotify.com/v1/tracks/45ntie6UCgKRzxfhCqP0We,0.298,0
+515,Wage War,Basic Hate,3.6758333333333333,6.81e-06,0.473,0.965,0.0508,11,0.342,-5.874,1,0.137,155.016,4,https://api.spotify.com/v1/tracks/6oGfxFk5LXTMRFfHsHgsh7,0.197,0
+516,Wage War,Desperate,4.4011,4.13e-05,0.53,0.967,0.000284,5,0.262,-5.567,0,0.1,119.989,4,https://api.spotify.com/v1/tracks/2oqGNBTVbyyJ9hTWqEVRkM,0.251,0
+517,Wage War,Two Years,1.2508833333333333,0.000186,0.296,0.95,0.475,7,0.283,-7.407,1,0.0571,105.016,4,https://api.spotify.com/v1/tracks/5cnIQBlGTtB9NCvxxwN9gf,0.0275,42
+518,Wage War,Southbound,2.9486666666666665,1.59e-05,0.518,0.961,0.000856,7,0.253,-5.293,1,0.0977,105.006,4,https://api.spotify.com/v1/tracks/5rc3HuQTSfUQ4UKRoqKsxe,0.17,47
+519,Wage War,Don't Let Me Fade Away,4.084216666666666,3.87e-05,0.538,0.959,0.000522,1,0.331,-5.855,1,0.0674,130.034,4,https://api.spotify.com/v1/tracks/1mZc1ZzBIICWGGHInuhYvC,0.438,53
+520,Wage War,Stitch,3.4331,0.000121,0.497,0.967,0.0134,6,0.675,-5.364,1,0.107,150.023,4,https://api.spotify.com/v1/tracks/0Pl5XX0MbdQ5E702GBhnUn,0.468,56
+521,Wage War,Witness,3.894216666666667,1.2e-05,0.4,0.949,0.0781,8,0.116,-6.356,1,0.153,155.017,4,https://api.spotify.com/v1/tracks/7d2K5Maq8tN6p4BHSeHQDF,0.0984,50
+522,Wage War,Deadweight,3.6102166666666666,5.59e-05,0.496,0.957,0.00059,2,0.19,-5.483,1,0.0876,105.016,4,https://api.spotify.com/v1/tracks/4onYrpeRu0eJjcnZ5GfXz0,0.137,43
+523,Wage War,Gravity,3.8604333333333334,0.000129,0.399,0.958,4.73e-05,8,0.172,-5.422,1,0.0592,164.925,4,https://api.spotify.com/v1/tracks/33TWAlDSc32np6U9FDjiZN,0.38,49
+524,Wage War,Never Enough,3.1886666666666668,1.25e-05,0.5,0.952,0.154,5,0.375,-5.168,0,0.0611,105.047,4,https://api.spotify.com/v1/tracks/1znn4kDt2OpapBH33Rdxnr,0.224,42
+525,Wage War,Indestructible,4.21555,7.24e-06,0.24,0.968,0.0651,6,0.392,-5.479,0,0.0962,154.928,4,https://api.spotify.com/v1/tracks/6WV27gh19sQMgA9AtWLTWt,0.375,45
+526,Wage War,Disdain,2.0744333333333334,2.36e-05,0.507,0.969,0.00526,1,0.228,-5.219,0,0.0944,105.038,4,https://api.spotify.com/v1/tracks/3b7syXuHMIh3qMTaTtWSSg,0.208,41
+527,Wage War,My Grave Is Mine To Dig,3.442,9.59e-05,0.387,0.958,0.000344,10,0.356,-4.746,0,0.182,200.003,4,https://api.spotify.com/v1/tracks/3JnCxyfTfO2vW952woy1v8,0.418,43
+528,Wage War,Johnny Cash,3.87355,0.000636,0.459,0.936,8.34e-05,1,0.0922,-5.31,1,0.0889,109.996,4,https://api.spotify.com/v1/tracks/3mmfUDX7ZqTiWICguOQMBX,0.213,51
+529,We Came As Romans,Cold Like War,3.7699166666666666,0.000148,0.456,0.968,0.00111,5,0.184,-3.63,0,0.0902,150.002,4,https://api.spotify.com/v1/tracks/6E5uQWAj1hoDMyWQjxkmhx,0.499,8
+530,We Came As Romans,To Plant a Seed,3.842433333333333,0.0404,0.251,0.976,0.0,5,0.252,-2.608,1,0.154,142.146,4,https://api.spotify.com/v1/tracks/2sINnztP84DhN6urN5iTp9,0.199,39
+531,We Came As Romans,To Move on Is to Grow,3.798566666666667,0.00195,0.169,0.972,0.0,5,0.242,-2.839,0,0.14,148.694,4,https://api.spotify.com/v1/tracks/7lwJtJzbl99wQMAFHn0GOX,0.122,41
+532,We Came As Romans,I Will Not Reap Destruction,3.9688833333333333,0.00112,0.236,0.993,0.0,5,0.105,-3.268,0,0.275,141.935,4,https://api.spotify.com/v1/tracks/4KCEl4DlAqpHRQeHWP8ytH,0.0885,34
+533,We Came As Romans,Hope,4.14155,8.11e-05,0.5,0.969,0.0,0,0.741,-4.276,0,0.101,135.043,4,https://api.spotify.com/v1/tracks/717M9o5bZedADKa66AxqOg,0.439,44
+534,We Came As Romans,I Am Free,3.5533333333333332,0.00364,0.38,0.992,0.0,0,0.165,-3.546,0,0.264,169.871,4,https://api.spotify.com/v1/tracks/0NRsSKM79uRqKVO09gitf0,0.0899,31
+535,While She Sleeps,Brainwashed,3.4797666666666665,4.05e-05,0.196,0.995,2.71e-06,8,0.544,-3.346,1,0.166,169.993,4,https://api.spotify.com/v1/tracks/7CfS7GzZCxM9rfHwlUdX0q,0.181,0
+536,While She Sleeps,Four Walls,5.132216666666666,0.000204,0.485,0.984,3.76e-06,7,0.17,-3.389,1,0.107,136.05,4,https://api.spotify.com/v1/tracks/1BkiGZ7Tiuq1wbDvUomqXy,0.109,0
+537,While She Sleeps,Method in Madness,3.9017666666666666,0.000194,0.46,0.993,1.42e-06,7,0.319,-3.656,1,0.122,155.013,4,https://api.spotify.com/v1/tracks/768Ti2ACbygZeiVrAbOsaC,0.316,0
+538,While She Sleeps,Our Legacy,4.1306666666666665,1.8e-05,0.462,0.994,0.0,4,0.332,-2.904,0,0.102,136.99,4,https://api.spotify.com/v1/tracks/6TPJZSkiHFhz5Fy4KYMY0B,0.237,0
+539,While She Sleeps,Hurricane,4.76075,5.68e-05,0.522,0.953,0.0,4,0.336,-4.199,0,0.0569,104.521,4,https://api.spotify.com/v1/tracks/1pZ8xK65KiOyDASuJwDg5R,0.176,1
+540,While She Sleeps,Silence Speaks,4.929366666666667,0.0011,0.478,0.926,0.0,6,0.447,-4.728,0,0.0753,92.994,4,https://api.spotify.com/v1/tracks/390ZzspWo9WflO6jBj39Ru,0.312,8
+541,While She Sleeps,The Plague Of A New Age,4.339766666666667,1.12e-05,0.478,0.988,0.00218,7,0.383,-4.832,1,0.0812,114.774,4,https://api.spotify.com/v1/tracks/1pKJRN7DOwuj8gqn5h9Un9,0.238,19
+542,While She Sleeps,Revolt,3.9656833333333332,5.66e-05,0.396,0.939,0.0,0,0.308,-4.276,1,0.114,155.843,4,https://api.spotify.com/v1/tracks/5fxRmC4LF8xmWPnQuXthlT,0.367,2
+543,While She Sleeps,Civil Isolation,4.378233333333333,0.00017,0.314,0.992,7.21e-06,10,0.0757,-3.916,0,0.179,154.732,4,https://api.spotify.com/v1/tracks/5MqSDk1Ozw43T2lYXhpl55,0.318,3
+544,While She Sleeps,You Are We,4.7668,4.64e-05,0.437,0.961,0.0,10,0.0985,-4.951,0,0.0805,145.038,4,https://api.spotify.com/v1/tracks/16c58kMqq5LnyzeByFXkzH,0.34,2
+545,Wolves At The Gate,Heralds,3.9448833333333333,0.000117,0.174,0.984,7.69e-05,8,0.087,-4.012,0,0.34,86.279,4,https://api.spotify.com/v1/tracks/69aEwYyDP89yLAskpYHqc7,0.0563,35
+546,Wolves At The Gate,Dead Man,4.10155,0.000137,0.474,0.977,0.0,0,0.357,-3.527,0,0.0837,102.515,4,https://api.spotify.com/v1/tracks/6Hi6DD8ka5uOj1rO8u85sR,0.44,40
+547,Wolves At The Gate,Relief,3.8831,0.00129,0.469,0.994,0.0,2,0.363,-2.977,0,0.148,136.026,4,https://api.spotify.com/v1/tracks/2KZuuYAgHUfA2YzNgqCNir,0.182,32
+548,The Word Alive,Dark Matter,4.13125,0.000242,0.517,0.934,0.303,1,0.0488,-6.924,1,0.0601,117.485,3,https://api.spotify.com/v1/tracks/7ds7jYAP7yRIp2OmMWGT85,0.21,0
+549,Wolves At The Gate,The Harvest,3.8522166666666666,1.6e-05,0.259,0.982,6.82e-05,1,0.182,-3.45,1,0.205,133.064,4,https://api.spotify.com/v1/tracks/7zQlQezu4asuSDX3CNKJa9,0.284,30
+550,The Word Alive,The Hounds of Anubis,4.218666666666667,9.38e-05,0.496,0.843,0.0,8,0.464,-4.526,1,0.0355,139.903,4,https://api.spotify.com/v1/tracks/1wDd3b2pkQ64S5YUE4G9Yy,0.0384,0
+551,The Word Alive,Life Cycles,4.3613333333333335,0.00768,0.514,0.888,0.000422,1,0.0724,-5.487,1,0.0834,129.979,4,https://api.spotify.com/v1/tracks/0Gl03bcrEKFYX3FdM783mV,0.128,0
+552,The Word Alive,Bar Fight,3.6884333333333332,0.000561,0.471,0.924,0.000291,10,0.333,-5.209,0,0.0582,91.447,4,https://api.spotify.com/v1/tracks/4n9ORcCnwP5QPyMLdYlCnp,0.196,0
+553,The Word Alive,Play the Victim,4.319566666666667,1.56e-05,0.406,0.932,0.608,1,0.101,-4.789,0,0.0847,145.025,4,https://api.spotify.com/v1/tracks/7Ei9BkUB9N6sGQEHPfHVix,0.148,0
+554,The Word Alive,Sellout,3.5723166666666666,0.000161,0.378,0.934,0.178,7,0.319,-5.239,1,0.08,96.479,4,https://api.spotify.com/v1/tracks/7atB6ixwBdYL5nuwt7OrB1,0.0524,0
+555,The Word Alive,Trapped,3.9396166666666668,3.21e-05,0.39,0.882,0.046,9,0.0697,-6.056,1,0.058,75.434,4,https://api.spotify.com/v1/tracks/0GmPA0TnLw1zs6nzxBGtnw,0.438,0
+556,Underoath,On My Teeth,3.1806666666666668,4.24e-05,0.41,0.943,0.000371,1,0.198,-4.275,1,0.0749,165.035,4,https://api.spotify.com/v1/tracks/56FDFK2Qq2e3Ld2jFMhgiM,0.118,34
+557,Parkway Drive,Wishing Wells,5.063466666666667,0.00272,0.402,0.975,0.00912,0,0.326,-4.499,1,0.14,177.762,4,https://api.spotify.com/v1/tracks/03AZlaXoz8OgcXvwQjkW8z,0.23,45
+558,Protest The Hero,Bloodmeat,3.9031,8.48e-05,0.321,0.987,0.00623,11,0.316,-5.009,1,0.197,130.674,4,https://api.spotify.com/v1/tracks/2oeSHjGrjoxlTAOOEGeePI,0.207,41
+559,Haste The Day,Long Way Down,3.2111,8.03e-05,0.365,0.986,8.37e-05,0,0.3,-3.989,1,0.12,196.004,4,https://api.spotify.com/v1/tracks/4PdVdHI9CYbTotC2TP7Hps,0.287,42
+560,Haste The Day,When Everything Falls,4.188666666666666,5.06e-05,0.236,0.977,0.00139,7,0.215,-5.101,1,0.0953,98.741,4,https://api.spotify.com/v1/tracks/5z9amXA7pdaWIuHLmcOoaV,0.515,39
+561,Bad Wolves,Better The Devil,3.0364166666666668,2.83e-05,0.511,0.97,0.704,7,0.116,-3.955,1,0.0624,136.003,4,https://api.spotify.com/v1/tracks/2eRNi4SpykazFwFBJrkzE1,0.233,42
+562,Bad Wolves,Toast To The Ghost,5.5069333333333335,2.66e-05,0.493,0.959,0.11,0,0.0723,-4.611,1,0.0655,104.985,4,https://api.spotify.com/v1/tracks/7p8Kepgq9uZbhdFwm7QwvG,0.0763,38
+563,Bad Wolves,Learn to Live,3.6910166666666666,3.3e-06,0.474,0.98,0.432,1,0.0829,-3.32,1,0.0669,130.018,4,https://api.spotify.com/v1/tracks/1njFGEoSbgf0Lvjb4lBnng,0.268,45
+564,Drowning Pool,Sinner,2.45555,0.000314,0.577,0.963,1.59e-05,4,0.056,-2.601,1,0.0801,120.94,4,https://api.spotify.com/v1/tracks/4AaZtoVREGSOTMzdzLoCGK,0.552,49
+565,Killswitch Engage,This Fire,3.1611,1.56e-05,0.447,0.993,0.027,7,0.474,-3.022,1,0.111,140.018,4,https://api.spotify.com/v1/tracks/07ceEXOyS7ghQkyCOycXwP,0.108,61
+566,Every Time I Die,Decayin' With The Boys,2.5454666666666665,1.45e-05,0.354,0.989,7.89e-05,10,0.47,-2.632,0,0.179,187.765,4,https://api.spotify.com/v1/tracks/3Q3cy31OBjPkh2ABnHANtr,0.328,40
+567,The Acacia Strain,Beast,4.062666666666667,0.00214,0.533,0.899,5.32e-06,11,0.0965,-4.63,1,0.085,115.013,4,https://api.spotify.com/v1/tracks/4jnojrVy7uX8Ejz2QmJfVk,0.184,46
+568,Vanna,Safe To Say,4.020433333333333,0.0037,0.347,0.983,0.0,2,0.177,-4.762,1,0.205,136.404,4,https://api.spotify.com/v1/tracks/35NvGV3iB5OkLRJHa4wKot,0.159,39
+569,Alexisonfire,This Could Be Anywhere In The World,4.057766666666667,4.68e-05,0.192,0.757,0.00133,9,0.123,-5.253,1,0.0844,83.105,5,https://api.spotify.com/v1/tracks/6hKnIY2Ssrmqw2TYXW0K5e,0.294,48
+570,Every Time I Die,Wanderlust,4.171766666666667,0.00019,0.259,0.952,0.0,10,0.405,-4.175,1,0.134,107.977,3,https://api.spotify.com/v1/tracks/5YSR67UAwL3LhBqqccfQyy,0.212,45
+571,Adept,"First Round, First Minute",3.8124333333333333,0.000116,0.421,0.908,0.012,5,0.139,-5.429,1,0.0863,98.66,4,https://api.spotify.com/v1/tracks/1lrZiHLxlgVo7dTh14iCQL,0.249,30
+572,Escape the Fate,Gorgeous Nightmare,3.268,0.00302,0.59,0.844,0.0,0,0.232,-3.744,0,0.0305,135.033,4,https://api.spotify.com/v1/tracks/4YmYY2FdGLjx8G1Lcz5wNp,0.721,34
+573,Chiodos,Expensive Conversations In Cheap Motels,3.3773333333333335,0.000517,0.449,0.946,3.67e-05,5,0.329,-3.544,1,0.135,128.06,4,https://api.spotify.com/v1/tracks/6zp8NntFClZNZsapjxH5sb,0.169,29
+574,blessthefall,Welcome Home,3.6933333333333334,0.00122,0.375,0.81,4.05e-05,7,0.112,-5.609,1,0.0698,75.051,4,https://api.spotify.com/v1/tracks/07heIznr3ziWFz4nnW9xaj,0.117,49
+575,blessthefall,Sleepless In Phoenix,3.7617833333333333,0.000419,0.459,0.892,0.000171,1,0.123,-4.883,0,0.0518,105.021,4,https://api.spotify.com/v1/tracks/79NnnaifsdmKFdIr1qdU6o,0.11,50
+576,blessthefall,Cutthroat,3.30405,0.000712,0.485,0.989,0.0485,1,0.323,-5.121,1,0.171,148.036,4,https://api.spotify.com/v1/tracks/4mcDGYrrPukWNhO44w4EUr,0.192,58
+577,blessthefall,Wishful Sinking,4.464433333333333,0.000465,0.304,0.951,0.0012,10,0.36,-5.229,0,0.0929,129.801,4,https://api.spotify.com/v1/tracks/2aIsTGNOM8geFrmQltgfhv,0.395,49
+578,Bring Me The Horizon,Anthem,4.8331,0.00246,0.301,0.906,1.78e-05,0,0.715,-6.425,0,0.192,109.554,4,https://api.spotify.com/v1/tracks/2q95lcA4r9DLZNjL9I9Ftl,0.0368,44
+579,Bring Me The Horizon,Empire (Let Them Sing),3.76165,0.000724,0.28,0.961,0.0,5,0.809,-3.184,0,0.167,193.076,4,https://api.spotify.com/v1/tracks/5giMf8Tgw5QUtZ4mCCiKOE,0.229,52
+580,Light The Torch,The God I Deserve,3.30955,1.06e-05,0.38,0.976,0.0061,3,0.36,-3.855,1,0.101,154.065,3,https://api.spotify.com/v1/tracks/7MmOjN8lqrj115W9zDlmmG,0.211,42
+581,Light The Torch,The Safety of Disbelief,3.5537666666666667,2.26e-05,0.389,0.972,0.0121,2,0.501,-4.925,1,0.138,82.517,4,https://api.spotify.com/v1/tracks/28Mj8V1IVsfHnHhl4RkZq2,0.19,52
+582,Light The Torch,Calm Before the Storm,3.9168833333333333,1.34e-05,0.377,0.975,0.00344,2,0.268,-4.31,0,0.171,163.168,4,https://api.spotify.com/v1/tracks/6WortO2DtGmzG1QCAOZcsW,0.311,55
+583,Light The Torch,Die Alone,3.867766666666667,2.21e-05,0.425,0.962,0.00576,0,0.33,-4.501,0,0.0803,82.419,4,https://api.spotify.com/v1/tracks/684q12RfiSW8hGVfjnjUvw,0.367,46
+584,Bury Tomorrow,Black Flame - Single Edit,3.8994,5.7e-05,0.376,0.982,5.41e-06,5,0.16,-3.779,0,0.0625,148.926,4,https://api.spotify.com/v1/tracks/6REc2Tq4G2RW5zKXtusTLF,0.15,61
+585,Every Time I Die,INRIhab,4.08,0.000135,0.236,0.906,0.0,0,0.107,-4.843,0,0.0941,173.89,4,https://api.spotify.com/v1/tracks/6U6CQjaqOtYTLNDsnze4qO,0.625,34
+586,Every Time I Die,Just As Real But Not As Brightly Lit,3.1348666666666665,2.76e-06,0.271,0.978,0.0429,8,0.351,-4.143,1,0.204,122.822,4,https://api.spotify.com/v1/tracks/7GCVQRwbCGNMiAbaHE12UG,0.46,37
+587,Dance Gavin Dance,Son of Robot,3.9830666666666668,0.0032,0.529,0.93,0.00158,0,0.287,-4.161,0,0.0448,109.005,3,https://api.spotify.com/v1/tracks/4ZJ9ryocsV59FOvgxt6FTS,0.365,58
+588,Palisades,Through Hell,4.61465,0.000569,0.493,0.975,1.97e-06,9,0.27,-5.371,0,0.0797,135.014,4,https://api.spotify.com/v1/tracks/4BaueehyhOZsv22wNp3FXK,0.255,46
+589,Escape the Fate,My Apocalypse,4.722666666666667,0.00173,0.195,0.935,0.000137,7,0.108,-3.623,0,0.133,129.328,5,https://api.spotify.com/v1/tracks/4UJX7so2d2L2XttE5Pfwm7,0.236,52
+590,Bad Wolves,No Masters,3.884916666666667,4.05e-05,0.495,0.949,0.00167,5,0.328,-4.797,0,0.054,95.959,4,https://api.spotify.com/v1/tracks/054MbqzY6dVQqAcdY71KjI,0.501,53
+591,Killswitch Engage,Fixation On The Darkness,3.6328833333333335,2.49e-05,0.535,0.978,0.0938,2,0.231,-3.779,0,0.0856,134.05,4,https://api.spotify.com/v1/tracks/3U63rbEYFncmc9hvez0P4W,0.404,43
+592,Dance Gavin Dance,Bloodsucker,4.331533333333334,0.000695,0.409,0.987,5.85e-06,1,0.387,-3.016,1,0.131,170.025,3,https://api.spotify.com/v1/tracks/6SQCXgRnPSXcuCyXJmgr6r,0.388,59
