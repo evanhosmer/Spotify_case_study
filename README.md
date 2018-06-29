@@ -24,15 +24,15 @@ Some of the main audio features included are:
 
 A list of all the features can be found at this [link](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/).
 
-I first analyzed the popularity distribution for each genre:
+The first step was analyzing the popularity distribution for each genre:
 
 ![genre](images/genre_dist.png)
 
-Given the high distribution of 0 popularity, I replaced these values using the K nearest neighbor technique and using the mean of the genre and compared the result.
+Given the high distribution of 0 popularity, these values were replaced using the K nearest neighbor technique and using the mean of the genre. These distributions were compared and can be seen in the plot below.
 
 ![knn dist](images/new_dist.png)
 
-Before diving in, I wanted to see if the difference in mean popularity for each genre was statistically significant.
+Before diving in, a hypothesis test was used to see if the difference in mean popularity for each genre was statistically significant.
 
 ![hyp](images/hyp_test.png)
 
@@ -96,7 +96,7 @@ The elastic net model performed the best of the four models with a slightly lowe
 From these plots, it appears that the best predictors are danceability, valence, loudness, time_signature, and the alternative and metalcore genres.
 
 ## Part 2: Logistic Model
-First, I visualized the distributions of the audio features for when the user either disliked or liked a song.
+First, the distributions of the audio features for when the user either disliked or liked a song were visualized.
 
 ![ldl](images/like_dislike.png)
 
