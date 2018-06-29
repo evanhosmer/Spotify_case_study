@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-For this project, I explored the popularity of songs from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. In addition, I explored a dataset containing 2000 songs that a user classified as either a song they liked or disliked. Each song has audio features engineered by Spotify that attempt to quantify different characteristics of a song. In addition, Spotify engineers a popularity metric for each song to quantify how popular a song is. For this study I attempted to answer two main questions:
+For this project, I explored the popularity of songs from three of my personal playlists (313 artists ~1700 songs) on Spotify for my three favorite genres of music. In addition, I explored a dataset containing ~2000 songs that a user classified as either a song they liked or disliked. Each song has audio features engineered by Spotify that attempt to quantify different characteristics of a song. In addition, Spotify engineers a popularity metric for each song to quantify how popular a song is. For this study I attempted to answer two main questions:
 
 - Can I predict the popularity for a song based on the audio features of the song?
 - Can I predict whether someone likes a song based on audio features of that song?
@@ -100,7 +100,7 @@ First, the distributions of the audio features for when the user either disliked
 
 ![ldl](images/like_dislike.png)
 
-From visualization, it appears that the energy, loudness, and valence features influence whether a user likes a song the most.
+From visualization, it appears that the energy, loudness, danceability, and valence features influence whether a user likes a song the most.
 
 ![sanity](images/sanity.png)
 
