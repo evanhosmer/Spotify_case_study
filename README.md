@@ -17,7 +17,7 @@ Some of the main audio features included are:
 - Danceability (how suitable a song is for dancing)
 - Loudness (average db level across song)
 - Valence (musical positiveness conveyed by a track)
-- Accousticness (whether a track contains vocals)
+- Instrumentalness (whether a track contains vocals)
 - Energy (perceptual measure of intensity)
 - Tempo (estimated BPM of a song)
 - Popularity (measure from 0 to 100)
