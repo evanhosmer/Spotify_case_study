@@ -87,7 +87,7 @@ Model Comparison
 
 ![tb](images/table_3.png)
 
-![plot](images/true_pred.png)
+![p](images/true_pred.png)
 
 The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features and transforming some features, but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor was examined.
 
