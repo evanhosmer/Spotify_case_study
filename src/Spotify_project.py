@@ -339,12 +339,14 @@ def model_comparison(X_train, X_test, y_train, y_test):
     INPUT: Train and Test sets
     OUTPUT: Comparison of RMSE for each model
     '''
+    # Gather Standardized train and test set
     standardizer = StandardScaler()
     standardizer.fit(X_train.values, y_train.values)
     X_train_std = standardizer.transform(X_train.values)
     X_test_std = standardizer.transform(X_test.values)
     y_train_std = y_train
     y_test_std = y_test
+    # Model predictions on test sets
     final_ridge = Ridge(alpha=ridge_optimal_alpha).fit(X_train_std, y_train_std)
     final_lasso = Lasso(alpha=lasso_optimal_alpha).fit(X_train_std, y_train_std)
     final_lr = LinearRegression().fit(X_train_std, y_train_std)
@@ -444,15 +446,19 @@ def log_model(df):
     INPUT: Dataframe
     OUTPUT: Recall, Precision, F1 Score, Confusion Matrix
     '''
+    # Remove non feature columns and standardize data
     x = df.drop(['song_title','artist','target'], axis = 1).values #returns a numpy array
     scaler = StandardScaler()
     x_scaled = scaler.fit_transform(x)
     X = pd.DataFrame(x_scaled)
     y = df['target'].values
+    # Split into training and test data
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
     logreg = LogisticRegression()
+    # Fit logistic regression model
     logreg.fit(X_train, y_train)
     y_pred = logreg.predict(X_test)
+    # Print recall, precision, and f1 score from model
     print('Recall of logistic regression classifier on test set: {:.2f}'.format(recall_score(y_test,y_pred)))
     print('Precision of logistic regression classifier on test set: {:.2f}'.format(precision_score(y_test,y_pred)))
     print('F1 Score of logistic regression classifier on test set: {:.2f}'.format(f1_score(y_test,y_pred)))
@@ -463,6 +469,7 @@ def log_model(df):
     print("10-fold cross validation recall accuracy: %.3f" % (results.mean()))
     print(classification_report(y_test, y_pred))
     from sklearn.metrics import confusion_matrix
+    # Generate a confusion matrix
     confusion_matrix = confusion_matrix(y_test, y_pred)
     print(confusion_matrix)
     return X_train, X_test, y_train, y_test
@@ -473,8 +480,10 @@ def ROC_curve(X_train, X_test, y_train, y_test):
     INPUT: Test/Train split data
     OUTPUT: ROC Curve for the regression
     '''
+    #Generate and Fit model on training data
     logreg = LogisticRegression()
     logreg.fit(X_train, y_train)
+    # Generate the ROC auc score and false positive rate, true positive rate, and thresholds
     logit_roc_auc = roc_auc_score(y_test, logreg.predict(X_test))
     fpr, tpr, thresholds = roc_curve(y_test, logreg.predict_proba(X_test)[:,1])
     plt.figure(figsize = (12,6))
@@ -502,7 +511,6 @@ if __name__=='__main__':
     genre_distributions(dfslist)
     popularity_distribution(finaldata)
     corr_heat(finaldata)
-    # feature_distribution(finaldata)
     # Hypothesis Test
     t_test_results = genre_hyp_test(finaldata)
     # Linear Regression
@@ -527,10 +535,10 @@ if __name__=='__main__':
     en_optimal_alpha = get_optimal_alpha(en_mean_cv_errors_test)
     elastic_net_plot(en_alphas,en_mean_cv_errors_test,en_mean_cv_errors_train,en_optimal_alpha)
     model_comparison(X_train, X_test, y_train, y_test)
-    # bootstrap
+    # Bootstrapping
     features = data_w_dummies.drop(['Title','Artist','Popularity'],axis = 1)
     models = bootstrap_train(ElasticNet, X_train.values, y_train.values,fit_intercept=False)
-    # plot_bootstrap_coefs(models, features.columns, n_col=4)
+    plot_bootstrap_coefs(models, features.columns, n_col=4)
     # Logistic regression
     logisticdata = pd.read_csv('kag_data.csv')
     data = logisticdata.drop('Unnamed: 0',axis = 1)
