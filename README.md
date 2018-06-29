@@ -80,12 +80,14 @@ Elastic net:
 ![en](images/Elastic_net.png)
 
 Model Comparison
-- Ridge: RMSE = 13.94
-- Lasso: RMSE = 13.93
-- Linear: RMSE = 13.96
-- Elastic net: RMSE = 13.89
+- Ridge: RMSE = 13.94, R^2 = .202
+- Lasso: RMSE = 13.93, R^2 = .205
+- Linear: RMSE = 13.96, R^2 = .166
+- Elastic net: RMSE = 13.89, R^2 = .208
 
 ![tb](images/table_3.png)
+
+![plot](images/true_pred.png)
 
 The elastic net model performed the best of the four models with a slightly lower RMSE. Attempts were made to improve this model by removing some features and transforming some features, but did not result in a lower RMSE. To attempt to see which predictors were best in this model, a bootstrapping method was used. Using 1000 bootstrap samples with an elastic net model, the distribution of coefficients for each predictor was examined.
 
